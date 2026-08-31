@@ -27,11 +27,12 @@ HEADERS = {
 
 def parse_date_range(text):
     """
-    Convierte textos como:
+    Convierte fechas como:
 
         4 - 6 septiembre de 2026
+        4 - 6 de septiembre de 2026
         6 septiembre de 2026
-        13 - 19 septiembre de 2026
+        6 de septiembre de 2026
 
     en (fecha_inicio, fecha_fin).
     """
@@ -54,7 +55,8 @@ def parse_date_range(text):
     pattern = re.compile(
         r"(\d{1,2})"
         r"(?:\s*-\s*(\d{1,2}))?"
-        r"\s+([a-záéíóú]+)"
+        r"\s+(?:de\s+)?"
+        r"([a-záéíóú]+)"
         r"\s+de\s+(\d{4})",
         re.IGNORECASE,
     )
@@ -107,14 +109,19 @@ def event_uid(title, start):
 
 
 def extract_events(html):
+
     soup = BeautifulSoup(html, "html.parser")
 
-    events = []
+    session = requests.Session()
+    session.headers.update(HEADERS)
 
-    # Buscamos enlaces que apunten a eventos individuales.
+    events = []
+    seen = set()
+
+    # Encontramos los enlaces a eventos individuales
     links = soup.find_all("a", href=True)
 
-    seen = set()
+    event_urls = []
 
     for link in links:
 
@@ -123,61 +130,192 @@ def extract_events(html):
         if "/eventos-aeronauticos/" not in href:
             continue
 
-        if href in seen:
-            continue
-
-        seen.add(href)
-
         url = urljoin(BASE_URL, href)
 
-        container = link
-
-        # Subimos unos niveles buscando el bloque completo
-        # del evento.
-        for _ in range(5):
-            if container.parent:
-                container = container.parent
-
-        text = clean_text(container.get_text(" ", strip=True))
-
-        start, end = parse_date_range(text)
-
-        if not start:
+        if url in seen:
             continue
 
-        # El enlace suele contener el título.
-        title = clean_text(link.get_text(" ", strip=True))
+        seen.add(url)
+        event_urls.append(url)
 
-        if not title:
-            continue
+    print(
+        f"Páginas de eventos encontradas: {len(event_urls)}"
+    )
 
-        # Evitamos basura que no sean eventos reales.
-        if len(title) < 5:
-            continue
+    # Visitamos cada evento individual
+    for index, url in enumerate(event_urls, start=1):
 
-        # Intentamos eliminar la fecha del título si se ha
-        # incluido accidentalmente.
-        title = re.sub(
-            r"^\d{1,2}(?:\s*-\s*\d{1,2})?\s+"
-            r"[a-záéíóú]+\s+de\s+\d{4}\s*",
-            "",
-            title,
-            flags=re.IGNORECASE,
-        ).strip()
+        try:
 
-        events.append(
-            {
-                "title": title,
-                "start": start,
-                "end": end,
-                "description": text,
-                "url": url,
-                "location": "",
-            }
-        )
+            response = session.get(
+                url,
+                timeout=30,
+            )
+
+            response.raise_for_status()
+
+            event_soup = BeautifulSoup(
+                response.text,
+                "html.parser"
+            )
+
+            # -------------------------
+            # TÍTULO
+            # -------------------------
+
+            h1 = event_soup.find("h1")
+
+            if not h1:
+                print(
+                    f"[{index}/{len(event_urls)}] "
+                    f"Sin título: {url}"
+                )
+                continue
+
+            title = clean_text(
+                h1.get_text(" ", strip=True)
+            )
+
+            # -------------------------
+            # FECHA
+            # -------------------------
+
+            page_text = clean_text(
+                event_soup.get_text(
+                    " ",
+                    strip=True
+                )
+            )
+
+            start, end = parse_date_range(
+                page_text
+            )
+
+            if not start:
+
+                print(
+                    f"[{index}/{len(event_urls)}] "
+                    f"Sin fecha: {title}"
+                )
+
+                continue
+
+            # -------------------------
+            # UBICACIÓN
+            # -------------------------
+
+            location = ""
+
+            # Buscamos la fecha dentro de los
+            # elementos de texto de la página.
+            strings = list(
+                event_soup.stripped_strings
+            )
+
+            for i, text in enumerate(strings):
+
+                s, e = parse_date_range(text)
+
+                if s:
+
+                    # Normalmente la ubicación está
+                    # inmediatamente después de la fecha.
+                    if i + 1 < len(strings):
+
+                        possible_location = clean_text(
+                            strings[i + 1]
+                        )
+
+                        # Evitamos coger enlaces,
+                        # textos demasiado largos, etc.
+                        if (
+                            3
+                            <= len(possible_location)
+                            <= 200
+                        ):
+                            location = (
+                                possible_location
+                            )
+
+                    break
+
+            # -------------------------
+            # DESCRIPCIÓN
+            # -------------------------
+
+            description = ""
+
+            sobre = None
+
+            for heading in event_soup.find_all(
+                ["h2", "h3"]
+            ):
+
+                if clean_text(
+                    heading.get_text()
+                ).lower() == "sobre el evento":
+
+                    sobre = heading
+                    break
+
+            if sobre:
+
+                parts = []
+
+                for element in sobre.find_all_next():
+
+                    if element.name in [
+                        "h2",
+                        "h3",
+                    ] and element != sobre:
+
+                        break
+
+                    text = clean_text(
+                        element.get_text(
+                            " ",
+                            strip=True
+                        )
+                    )
+
+                    if text:
+                        parts.append(text)
+
+                description = " ".join(parts)
+
+            # -------------------------
+            # GUARDAR
+            # -------------------------
+
+            events.append(
+                {
+                    "title": title,
+                    "start": start,
+                    "end": end,
+                    "description": description,
+                    "url": url,
+                    "location": location,
+                }
+            )
+
+            print(
+                f"[{index}/{len(event_urls)}] "
+                f"{start} → {end} | {title}"
+            )
+
+        except Exception as e:
+
+            print(
+                f"[{index}/{len(event_urls)}] "
+                f"ERROR: {url}"
+            )
+
+            print(
+                f"       {e}"
+            )
 
     return events
-
+    
 
 def create_calendar(events):
 
