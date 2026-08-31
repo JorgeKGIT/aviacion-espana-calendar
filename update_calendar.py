@@ -181,6 +181,9 @@ def extract_events(html):
 
 def create_calendar(events):
 
+    from datetime import timedelta
+    from zoneinfo import ZoneInfo
+
     cal = Calendar()
 
     cal.add("prodid", "-//Aviacion España Calendar//PreparaULM//ES")
@@ -198,18 +201,29 @@ def create_calendar(events):
         "Europe/Madrid"
     )
 
-    today = date.today()
+    # Fecha actual en España
+    today = datetime.now(
+        ZoneInfo("Europe/Madrid")
+    ).date()
 
-    # Solo eventos futuros.
+    print(f"Fecha actual: {today}")
+    print(f"Eventos extraídos: {len(events)}")
+
+    # Eventos futuros
     future_events = [
         e for e in events
         if e["end"] >= today
     ]
 
-    # Evitar duplicados.
+    print(
+        f"Eventos futuros: {len(future_events)}"
+    )
+
+    # Eliminar duplicados
     unique = {}
 
     for event in future_events:
+
         key = (
             event["title"],
             event["start"],
@@ -220,9 +234,12 @@ def create_calendar(events):
 
     future_events = list(unique.values())
 
-    # Orden cronológico.
+    # Orden cronológico
     future_events.sort(
-        key=lambda x: (x["start"], x["title"])
+        key=lambda x: (
+            x["start"],
+            x["title"]
+        )
     )
 
     for data in future_events:
@@ -247,10 +264,7 @@ def create_calendar(events):
             data["start"],
         )
 
-        # DTEND de calendario es exclusivo.
-        # Por eso sumamos un día al último día.
-        from datetime import timedelta
-
+        # DTEND es exclusivo en ICS
         event.add(
             "dtend",
             data["end"] + timedelta(days=1),
