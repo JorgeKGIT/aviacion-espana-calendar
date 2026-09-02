@@ -16,6 +16,7 @@ EVENTS_URL = (
 )
 
 OUTPUT_FILE = "docs/aviacion.ics"
+EVENT_COUNT_FILE = "event_count.txt"
 
 HEADERS = {
     "User-Agent": (
@@ -458,9 +459,18 @@ def main():
 
     events = extract_events(response.text)
 
+    event_count = len(events)
+
     print(
-        f"Eventos encontrados: {len(events)}"
+        f"Eventos encontrados: {event_count}"
     )
+
+    with open(
+        EVENT_COUNT_FILE,
+        "w",
+        encoding="utf-8",
+    ) as f:
+        f.write(str(event_count))
 
     calendar = create_calendar(events)
 

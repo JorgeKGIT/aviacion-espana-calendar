@@ -39,6 +39,10 @@ jobs:
         run: |
           python update_calendar.py
 
+      - name: Cargar contador de eventos
+        run: |
+          echo "event_count=$(cat event_count.txt)" >> "$GITHUB_ENV"
+
       - name: Guardar calendario actualizado
         run: |
           git config user.name "aviacion-calendar-bot"
@@ -50,6 +54,11 @@ jobs:
       
           git push
 
+      - name: Limpiar archivo temporal
+        if: always()
+        run: |
+          rm -f event_count.txt
+
       - name: Notificar éxito en Discord
         if: success()
         uses: sarisia/actions-status-discord@v1
@@ -57,7 +66,7 @@ jobs:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           status: success
           title: "✅ Éxito: Calendario actualizado"
-          description: "Los eventos de aviación se han actualizado correctamente"
+          description: "Se han encontrado ${{ env.event_count }} eventos en esta actualización"
 
       - name: Notificar error en Discord
         if: failure()
