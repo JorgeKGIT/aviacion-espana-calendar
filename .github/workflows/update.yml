@@ -54,7 +54,7 @@ jobs:
         if: success()
         uses: sarisia/actions-status-discord@v1
         with:
-          webhook_url: ${{ secrets.DISCORD_WEBHOOK }}
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
           status: success
           title: "✅ Éxito: Calendario actualizado"
           description: "Los eventos de aviación se han actualizado correctamente"
@@ -63,7 +63,7 @@ jobs:
         if: failure()
         uses: sarisia/actions-status-discord@v1
         with:
-          webhook_url: ${{ secrets.DISCORD_WEBHOOK }}
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
           status: failure
           title: "❌ Error: Falló la actualización"
           description: "Revisar los logs para más detalles"
