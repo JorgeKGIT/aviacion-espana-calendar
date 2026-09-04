@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:XI Festival Aéreo Internacional Torre del Mar
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:2c74fdc722da9529acf6@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl XI Festival Aéreo Intern
  acional de Torre del Mar regresa a la Costa del Sol con una de las citas a
@@ -139,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Septiembre 2026
 DTSTART;VALUE=DATE:20260906
 DTEND;VALUE=DATE:20260907
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:d50ce0fb0ca008f2a644@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición de vuelo de septiembre en el Aeródromo de Cua
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España Cross Country (XC) de Parapente 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:de95a280aaaeccec5846@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Campeonato de España de 
  Cross Country (XC) de parapente 2026 se celebra en Algodonales\, en plena 
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:UNVEX 2026 San Javier
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:c52a6744429858745bc6@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nUNVEX 2026 reúne en San Jav
  ier (Región de Murcia) la mayor concentración de sistemas no tripulados 
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de Cataluña de ANR 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:66dc52a0c1783f2cdc2f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Campeonato de Cataluña d
  e ANR 2026 (Campionat de Catalunya d'Air Navigation Race) reúne a pilotos
@@ -426,7 +426,7 @@ BEGIN:VEVENT
 SUMMARY:Festa al Cel 2026 — Salou Grand Airshow
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:e7856ecaab361c5f4b94@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nFesta al Cel se ha convertid
  o en el mayor airshow civil de España\, con más de 400.000 espectadores 
@@ -570,7 +570,7 @@ BEGIN:VEVENT
 SUMMARY:Campionat de Catalunya de Vol a Motor 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:4daa73865fa6c251941a@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Federació Aèria Catalan
  a organiza el 19 de septiembre de 2026 el Campionat de Catalunya de Vol a 
@@ -709,7 +709,7 @@ SUMMARY:Jornada Divulgativa: Los Ingenieros de Oro de la Aeronáutica Espa
  ñola
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:2fee352b4f5cfc6b12fd@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nJornada divulgativa organiza
  da por el Real Aero Club de España para difundir el legado de los ingenie
@@ -793,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:New Space España 2026 (4ª edición)
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:b98042723875a2e0d89a@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nNew Space España 2026 es la
   cuarta edición del congreso de referencia del sector espacial español\,
@@ -852,7 +852,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Octubre 2026
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:f45af605f415b315d4fe@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans (FIO) celebra su exhibición aérea de octubre en el Aeródromo de Cu
@@ -933,7 +933,7 @@ BEGIN:VEVENT
 SUMMARY:Aero Talent Day 2026
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:925d92a9fee62e1c398f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAero Talent Day es la primer
  a feria de empleo en España centrada exclusivamente en perfiles del ecosi
@@ -1024,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -1103,7 +1103,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -1187,7 +1187,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20260904T103029Z
+DTSTAMP:20260904T204124Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
