@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España Cross Country (XC) de Parapente 2026
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:de95a280aaaeccec5846@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Campeonato de España de 
  Cross Country (XC) de parapente 2026 se celebra en Algodonales\, en plena 
@@ -87,7 +87,7 @@ SUMMARY:Grandes Vuelos de la Aviación Española — Conferencia en el IHC
  M
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:eaa73407b4c8ef78a8ea@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Instituto de Historia y C
  ultura Militar acoge la conferencia «Grandes Vuelos»\, impartida por el 
@@ -127,46 +127,47 @@ DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Instituto de Historia y C
   Vuelos de Haya y Rodríguez (1930). Vuelo del Ciudad de Manila (1932). Vu
  elo del Cuatro Vientos (1933). Vuelo del Costa Esmeralda (1935). Asistenci
  a y contacto Entrada libre hasta completar aforo. Disponibilidad de aparca
- miento durante el acto. Más información: 91 780 87 42 · [email protecte
- d] . Grandes Vuelos de la Aviación Española El Instituto de Historia y C
- ultura Militar (IHCM) organiza la conferencia «Grandes Vuelos» \, a carg
- o del profesor Rodrigo Martínez-Val Peñalosa \, coincidiendo con el cent
- enario de las gestas aéreas de 1926. La sesión recorrerá los principale
- s vuelos realizados por aviadores españoles entre 1926 y 1935 \, una épo
- ca marcada por el espíritu de aventura y la innovación técnica. Desde e
- l Plus Ultra hasta el Costa Esmeralda\, estas expediciones contribuyeron a
- l desarrollo de la aviación española\, abrieron nuevas rutas y dieron pr
- oyección internacional a sus protagonistas. Cuándo y dónde Fecha: miér
- coles 16 de septiembre de 2026. Hora: 18:00 h\, hora local de Madrid. Luga
- r: salón de actos del Instituto de Historia y Cultura Militar (IHCM). Dir
- ección: Paseo de Moret\, 3\, Madrid. Los grandes vuelos El cartel de la c
- onferencia destaca ocho hitos de la aviación española: Vuelo del Plus Ul
- tra (1926). Escuadrilla Elcano (1926-1927). Patrulla Atlántida (1926). Vu
- elo del Jesús del Gran Poder (1929). Vuelos de Haya y Rodríguez (1930). 
- Vuelo del Ciudad de Manila (1932). Vuelo del Cuatro Vientos (1933). Vuelo 
- del Costa Esmeralda (1935). Asistencia y contacto Entrada libre hasta comp
- letar aforo. Disponibilidad de aparcamiento durante el acto. Más informac
- ión: 91 780 87 42 · [email protected] . Grandes Vuelos de la Aviación E
- spañola El Instituto de Historia y Cultura Militar (IHCM) organiza la con
- ferencia «Grandes Vuelos» \, a cargo del profesor Rodrigo Martínez-Val 
- Peñalosa \, coincidiendo con el centenario de las gestas aéreas de 1926.
-  La sesión recorrerá los principales vuelos realizados por aviadores esp
- añoles entre 1926 y 1935 \, una época marcada por el espíritu de aventu
- ra y la innovación técnica. Desde el Plus Ultra hasta el Costa Esmeralda
- \, estas expediciones contribuyeron al desarrollo de la aviación español
- a\, abrieron nuevas rutas y dieron proyección internacional a sus protago
- nistas. Cuándo y dónde Fecha: miércoles 16 de septiembre de 2026. Hora:
-  18:00 h\, hora local de Madrid. Lugar: salón de actos del Instituto de H
- istoria y Cultura Militar (IHCM). Dirección: Paseo de Moret\, 3\, Madrid.
-  Los grandes vuelos El cartel de la conferencia destaca ocho hitos de la a
- viación española: Vuelo del Plus Ultra (1926). Escuadrilla Elcano (1926-
- 1927). Patrulla Atlántida (1926). Vuelo del Jesús del Gran Poder (1929).
-  Vuelos de Haya y Rodríguez (1930). Vuelo del Ciudad de Manila (1932). Vu
- elo del Cuatro Vientos (1933). Vuelo del Costa Esmeralda (1935). Asistenci
- a y contacto Entrada libre hasta completar aforo. Disponibilidad de aparca
- miento durante el acto. Más información: 91 780 87 42 · [email protecte
- d] .\n\nFuente: https://www.preparaulm.com/eventos-aeronauticos/conferenci
- a-grandes-vuelos-aviacion-espanola-ihcm-2026
+ miento durante el acto. Más información: 91 780 87 42 · secretaria_curs
+ os_seh@mde.es . Grandes Vuelos de la Aviación Española El Instituto de H
+ istoria y Cultura Militar (IHCM) organiza la conferencia «Grandes Vuelos
+ » \, a cargo del profesor Rodrigo Martínez-Val Peñalosa \, coincidiendo
+  con el centenario de las gestas aéreas de 1926. La sesión recorrerá lo
+ s principales vuelos realizados por aviadores españoles entre 1926 y 1935
+  \, una época marcada por el espíritu de aventura y la innovación técn
+ ica. Desde el Plus Ultra hasta el Costa Esmeralda\, estas expediciones con
+ tribuyeron al desarrollo de la aviación española\, abrieron nuevas rutas
+  y dieron proyección internacional a sus protagonistas. Cuándo y dónde 
+ Fecha: miércoles 16 de septiembre de 2026. Hora: 18:00 h\, hora local de 
+ Madrid. Lugar: salón de actos del Instituto de Historia y Cultura Militar
+  (IHCM). Dirección: Paseo de Moret\, 3\, Madrid. Los grandes vuelos El ca
+ rtel de la conferencia destaca ocho hitos de la aviación española: Vuelo
+  del Plus Ultra (1926). Escuadrilla Elcano (1926-1927). Patrulla Atlántid
+ a (1926). Vuelo del Jesús del Gran Poder (1929). Vuelos de Haya y Rodríg
+ uez (1930). Vuelo del Ciudad de Manila (1932). Vuelo del Cuatro Vientos (1
+ 933). Vuelo del Costa Esmeralda (1935). Asistencia y contacto Entrada libr
+ e hasta completar aforo. Disponibilidad de aparcamiento durante el acto. M
+ ás información: 91 780 87 42 · secretaria_cursos_seh@mde.es . Grandes V
+ uelos de la Aviación Española El Instituto de Historia y Cultura Militar
+  (IHCM) organiza la conferencia «Grandes Vuelos» \, a cargo del profesor
+  Rodrigo Martínez-Val Peñalosa \, coincidiendo con el centenario de las 
+ gestas aéreas de 1926. La sesión recorrerá los principales vuelos reali
+ zados por aviadores españoles entre 1926 y 1935 \, una época marcada por
+  el espíritu de aventura y la innovación técnica. Desde el Plus Ultra h
+ asta el Costa Esmeralda\, estas expediciones contribuyeron al desarrollo d
+ e la aviación española\, abrieron nuevas rutas y dieron proyección inte
+ rnacional a sus protagonistas. Cuándo y dónde Fecha: miércoles 16 de se
+ ptiembre de 2026. Hora: 18:00 h\, hora local de Madrid. Lugar: salón de a
+ ctos del Instituto de Historia y Cultura Militar (IHCM). Dirección: Paseo
+  de Moret\, 3\, Madrid. Los grandes vuelos El cartel de la conferencia des
+ taca ocho hitos de la aviación española: Vuelo del Plus Ultra (1926). Es
+ cuadrilla Elcano (1926-1927). Patrulla Atlántida (1926). Vuelo del Jesús
+  del Gran Poder (1929). Vuelos de Haya y Rodríguez (1930). Vuelo del Ciud
+ ad de Manila (1932). Vuelo del Cuatro Vientos (1933). Vuelo del Costa Esme
+ ralda (1935). Asistencia y contacto Entrada libre hasta completar aforo. D
+ isponibilidad de aparcamiento durante el acto. Más información: 91 780 8
+ 7 42 · secretaria_cursos_seh@mde.es .\n\nFuente: https://www.preparaulm.c
+ om/eventos-aeronauticos/conferencia-grandes-vuelos-aviacion-espanola-ihcm-
+ 2026
 LOCATION:Salón de actos del Instituto de Historia y Cultura Militar (IHCM
  )\, Paseo de Moret\, 3\, Madrid
 URL:https://www.preparaulm.com/eventos-aeronauticos/conferencia-grandes-vu
@@ -176,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:UNVEX 2026 San Javier
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260918
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:c52a6744429858745bc6@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nUNVEX 2026 reúne en San Jav
  ier (Región de Murcia) la mayor concentración de sistemas no tripulados 
@@ -255,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de Cataluña de ANR 2026
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:66dc52a0c1783f2cdc2f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Campeonato de Cataluña d
  e ANR 2026 (Campionat de Catalunya d'Air Navigation Race) reúne a pilotos
@@ -319,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Festa al Cel 2026 — Salou Grand Airshow
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260921
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:e7856ecaab361c5f4b94@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nFesta al Cel se ha convertid
  o en el mayor airshow civil de España\, con más de 400.000 espectadores 
@@ -463,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Campionat de Catalunya de Vol a Motor 2026
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260920
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:4daa73865fa6c251941a@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Federació Aèria Catalan
  a organiza el 19 de septiembre de 2026 el Campionat de Catalunya de Vol a 
@@ -524,74 +525,75 @@ DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Federació Aèria Catalan
  de ultraligeros con tradición familiar desde 1984\, legalizado por AESA d
  esde 1998\, con hangaraje\, taller\, escuela de vuelo y restauración. Inf
  ormación Federació Aèria Catalana — Rambla de Guipúscoa 23\, 5-C\, B
- arcelona · Tel. 93 45 75 328 · [email protected] Campionat de Catalunya 
- de Vol a Motor 2026 La Federació Aèria Catalana celebra el 19 de septiem
- bre de 2026 el Campionat de Catalunya de Vol a Motor en el Aeròdrom de Mo
- ià — Camp de Vol Prat de la Plana (Barcelona)\, con la colaboración de
-  L'Aeroclub y del Camp de Vol Prat de la Plana. Taller gratuito de Air Nav
- igation Race para pilotos no federados La gran novedad de esta edición es
-  el «Taller d'iniciació a Air Navigation Race per a pilots no federats»
-  : una jornada de iniciación de 9:00 a 13:00 h \, totalmente gratuita por
- que está subvencionada por la Federación\, que cubre los gastos de organ
- ización y los mapas y la documentación de las etapas de iniciación . El
-  lema del cartel lo resume: ven con tu avión y aprende una manera diferen
- te de volar. Programa del taller Hora Actividad 9:00 – 9:30 Recepción 1
- 0:00 Teoría y briefing de la etapa ANR-1 10:30 Primer vuelo ANR-1 11:15 D
- ebriefing 11:30 Briefing de la etapa ANR-2 12:00 Segundo vuelo ANR-2 12:45
-  Debriefing final 14:00 Comida opcional en el aeródromo Inscripción al t
- aller : mediante formulario online . Hay que indicar los datos del PIC\, d
- el acompañante\, contacto\, la aeronave\, la velocidad de vuelo prevista 
- y las necesidades de combustible. Qué es el Air Navigation Race El ANR co
- nsiste en realizar navegación visual sin ninguna ayuda electrónica : la 
- tripulación debe volar dentro de un corredor de anchura definida siguiend
- o una ruta y una velocidad prefijadas\, penalizando cada salida del corred
- or y cada desviación de tiempo. Es una de las modalidades de competición
-  de vuelo a motor de la federación\, junto con el Rally Aeri (piloto y na
- vegante siguiendo una ruta con precisión horaria) y el vuelo de precisió
- n . Quién puede competir Para participar en la competición federada se r
- equiere una aeronave con certificado de aeronavegabilidad en vigor\, la li
- cencia de piloto correspondiente y una licencia federativa de tipo «Aire
- » de la Federació Aèria Catalana. El taller de ANR\, en cambio\, está 
- abierto también a quienes no están federados . Sede El Camp de Vol Prat 
- de la Plana (Avinguda del Prat s/n\, 08180 Moià) es un campo de vuelo de 
- ultraligeros con tradición familiar desde 1984\, legalizado por AESA desd
- e 1998\, con hangaraje\, taller\, escuela de vuelo y restauración. Inform
- ación Federació Aèria Catalana — Rambla de Guipúscoa 23\, 5-C\, Barc
- elona · Tel. 93 45 75 328 · [email protected] Campionat de Catalunya de 
- Vol a Motor 2026 La Federació Aèria Catalana celebra el 19 de septiembre
-  de 2026 el Campionat de Catalunya de Vol a Motor en el Aeròdrom de Moià
-  — Camp de Vol Prat de la Plana (Barcelona)\, con la colaboración de L'
- Aeroclub y del Camp de Vol Prat de la Plana. Taller gratuito de Air Naviga
- tion Race para pilotos no federados La gran novedad de esta edición es el
-  «Taller d'iniciació a Air Navigation Race per a pilots no federats» : 
- una jornada de iniciación de 9:00 a 13:00 h \, totalmente gratuita porque
-  está subvencionada por la Federación\, que cubre los gastos de organiza
- ción y los mapas y la documentación de las etapas de iniciación . El le
- ma del cartel lo resume: ven con tu avión y aprende una manera diferente 
- de volar. Programa del taller Hora Actividad 9:00 – 9:30 Recepción 10:0
- 0 Teoría y briefing de la etapa ANR-1 10:30 Primer vuelo ANR-1 11:15 Debr
- iefing 11:30 Briefing de la etapa ANR-2 12:00 Segundo vuelo ANR-2 12:45 De
- briefing final 14:00 Comida opcional en el aeródromo Inscripción al tall
- er : mediante formulario online . Hay que indicar los datos del PIC\, del 
- acompañante\, contacto\, la aeronave\, la velocidad de vuelo prevista y l
- as necesidades de combustible. Qué es el Air Navigation Race El ANR consi
- ste en realizar navegación visual sin ninguna ayuda electrónica : la tri
- pulación debe volar dentro de un corredor de anchura definida siguiendo u
- na ruta y una velocidad prefijadas\, penalizando cada salida del corredor 
- y cada desviación de tiempo. Es una de las modalidades de competición de
-  vuelo a motor de la federación\, junto con el Rally Aeri (piloto y naveg
- ante siguiendo una ruta con precisión horaria) y el vuelo de precisión .
-  Quién puede competir Para participar en la competición federada se requ
- iere una aeronave con certificado de aeronavegabilidad en vigor\, la licen
- cia de piloto correspondiente y una licencia federativa de tipo «Aire» d
- e la Federació Aèria Catalana. El taller de ANR\, en cambio\, está abie
- rto también a quienes no están federados . Sede El Camp de Vol Prat de l
- a Plana (Avinguda del Prat s/n\, 08180 Moià) es un campo de vuelo de ultr
- aligeros con tradición familiar desde 1984\, legalizado por AESA desde 19
- 98\, con hangaraje\, taller\, escuela de vuelo y restauración. Informaci
- ón Federació Aèria Catalana — Rambla de Guipúscoa 23\, 5-C\, Barcelo
- na · Tel. 93 45 75 328 · [email protected]\n\nFuente: https://www.prepar
- aulm.com/eventos-aeronauticos/campionat-catalunya-vol-a-motor-2026
+ arcelona · Tel. 93 45 75 328 · info@federacioaeria.cat Campionat de Cata
+ lunya de Vol a Motor 2026 La Federació Aèria Catalana celebra el 19 de s
+ eptiembre de 2026 el Campionat de Catalunya de Vol a Motor en el Aeròdrom
+  de Moià — Camp de Vol Prat de la Plana (Barcelona)\, con la colaboraci
+ ón de L'Aeroclub y del Camp de Vol Prat de la Plana. Taller gratuito de A
+ ir Navigation Race para pilotos no federados La gran novedad de esta edici
+ ón es el «Taller d'iniciació a Air Navigation Race per a pilots no fede
+ rats» : una jornada de iniciación de 9:00 a 13:00 h \, totalmente gratui
+ ta porque está subvencionada por la Federación\, que cubre los gastos de
+  organización y los mapas y la documentación de las etapas de iniciació
+ n . El lema del cartel lo resume: ven con tu avión y aprende una manera d
+ iferente de volar. Programa del taller Hora Actividad 9:00 – 9:30 Recepc
+ ión 10:00 Teoría y briefing de la etapa ANR-1 10:30 Primer vuelo ANR-1 1
+ 1:15 Debriefing 11:30 Briefing de la etapa ANR-2 12:00 Segundo vuelo ANR-2
+  12:45 Debriefing final 14:00 Comida opcional en el aeródromo Inscripció
+ n al taller : mediante formulario online . Hay que indicar los datos del P
+ IC\, del acompañante\, contacto\, la aeronave\, la velocidad de vuelo pre
+ vista y las necesidades de combustible. Qué es el Air Navigation Race El 
+ ANR consiste en realizar navegación visual sin ninguna ayuda electrónica
+  : la tripulación debe volar dentro de un corredor de anchura definida si
+ guiendo una ruta y una velocidad prefijadas\, penalizando cada salida del 
+ corredor y cada desviación de tiempo. Es una de las modalidades de compet
+ ición de vuelo a motor de la federación\, junto con el Rally Aeri (pilot
+ o y navegante siguiendo una ruta con precisión horaria) y el vuelo de pre
+ cisión . Quién puede competir Para participar en la competición federad
+ a se requiere una aeronave con certificado de aeronavegabilidad en vigor\,
+  la licencia de piloto correspondiente y una licencia federativa de tipo 
+ «Aire» de la Federació Aèria Catalana. El taller de ANR\, en cambio\, 
+ está abierto también a quienes no están federados . Sede El Camp de Vol
+  Prat de la Plana (Avinguda del Prat s/n\, 08180 Moià) es un campo de vue
+ lo de ultraligeros con tradición familiar desde 1984\, legalizado por AES
+ A desde 1998\, con hangaraje\, taller\, escuela de vuelo y restauración. 
+ Información Federació Aèria Catalana — Rambla de Guipúscoa 23\, 5-C
+ \, Barcelona · Tel. 93 45 75 328 · info@federacioaeria.cat Campionat de 
+ Catalunya de Vol a Motor 2026 La Federació Aèria Catalana celebra el 19 
+ de septiembre de 2026 el Campionat de Catalunya de Vol a Motor en el Aerò
+ drom de Moià — Camp de Vol Prat de la Plana (Barcelona)\, con la colabo
+ ración de L'Aeroclub y del Camp de Vol Prat de la Plana. Taller gratuito 
+ de Air Navigation Race para pilotos no federados La gran novedad de esta e
+ dición es el «Taller d'iniciació a Air Navigation Race per a pilots no 
+ federats» : una jornada de iniciación de 9:00 a 13:00 h \, totalmente gr
+ atuita porque está subvencionada por la Federación\, que cubre los gasto
+ s de organización y los mapas y la documentación de las etapas de inicia
+ ción . El lema del cartel lo resume: ven con tu avión y aprende una mane
+ ra diferente de volar. Programa del taller Hora Actividad 9:00 – 9:30 Re
+ cepción 10:00 Teoría y briefing de la etapa ANR-1 10:30 Primer vuelo ANR
+ -1 11:15 Debriefing 11:30 Briefing de la etapa ANR-2 12:00 Segundo vuelo A
+ NR-2 12:45 Debriefing final 14:00 Comida opcional en el aeródromo Inscrip
+ ción al taller : mediante formulario online . Hay que indicar los datos d
+ el PIC\, del acompañante\, contacto\, la aeronave\, la velocidad de vuelo
+  prevista y las necesidades de combustible. Qué es el Air Navigation Race
+  El ANR consiste en realizar navegación visual sin ninguna ayuda electró
+ nica : la tripulación debe volar dentro de un corredor de anchura definid
+ a siguiendo una ruta y una velocidad prefijadas\, penalizando cada salida 
+ del corredor y cada desviación de tiempo. Es una de las modalidades de co
+ mpetición de vuelo a motor de la federación\, junto con el Rally Aeri (p
+ iloto y navegante siguiendo una ruta con precisión horaria) y el vuelo de
+  precisión . Quién puede competir Para participar en la competición fed
+ erada se requiere una aeronave con certificado de aeronavegabilidad en vig
+ or\, la licencia de piloto correspondiente y una licencia federativa de ti
+ po «Aire» de la Federació Aèria Catalana. El taller de ANR\, en cambio
+ \, está abierto también a quienes no están federados . Sede El Camp de 
+ Vol Prat de la Plana (Avinguda del Prat s/n\, 08180 Moià) es un campo de 
+ vuelo de ultraligeros con tradición familiar desde 1984\, legalizado por 
+ AESA desde 1998\, con hangaraje\, taller\, escuela de vuelo y restauració
+ n. Información Federació Aèria Catalana — Rambla de Guipúscoa 23\, 5
+ -C\, Barcelona · Tel. 93 45 75 328 · info@federacioaeria.cat\n\nFuente: 
+ https://www.preparaulm.com/eventos-aeronauticos/campionat-catalunya-vol-a-
+ motor-2026
 LOCATION:Aeròdrom de Moià — Camp de Vol Prat de la Plana\, Avinguda de
  l Prat s/n\, 08180 Moià (Barcelona)
 URL:https://www.preparaulm.com/eventos-aeronauticos/campionat-catalunya-vo
@@ -602,7 +604,7 @@ SUMMARY:Jornada Divulgativa: Los Ingenieros de Oro de la Aeronáutica Espa
  ñola
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:2fee352b4f5cfc6b12fd@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nJornada divulgativa organiza
  da por el Real Aero Club de España para difundir el legado de los ingenie
@@ -686,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:New Space España 2026 (4ª edición)
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:b98042723875a2e0d89a@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nNew Space España 2026 es la
   cuarta edición del congreso de referencia del sector espacial español\,
@@ -745,7 +747,7 @@ BEGIN:VEVENT
 SUMMARY:Jornada de puertas abiertas del Real Aeroclub de Badajoz
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:25824468dd4c4ee1d09c@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Real Aeroclub de Badajoz 
  organiza una jornada de puertas abiertas en el aeródromo Casimiro Patiño
@@ -766,36 +768,37 @@ DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Real Aeroclub de Badajoz
  os LAPL y PPL. Exposición estática. Simulador de vuelo. Aeromodelos. Lug
  ar y contacto Aeródromo Casimiro Patiño (LEPN) \, en la carretera EX-310
  \, junto al km 20\, cerca de Valverde de Leganés\, provincia de Badajoz. 
- Contacto del Real Aeroclub de Badajoz: [email protected] · 610 781 590 . 
- El cartel no especifica precio\, inscripción ni hora de finalización. Co
- nsulta estos detalles con el organizador. Año pendiente de confirmación:
-  la fecha se ha registrado como 27 de septiembre de 2026 por el contexto d
- e la convocatoria y su coincidencia en domingo. El año no figura en el ca
- rtel aportado. Ven a conocer el vuelo deportivo El Real Aeroclub de Badajo
- z invita al público a una jornada de puertas abiertas en el aeródromo Ca
- simiro Patiño\, el domingo 27 de septiembre\, a partir de las 10:00 . Act
- ividades anunciadas Información sobre cursos LAPL y PPL. Exposición est
- ática. Simulador de vuelo. Aeromodelos. Lugar y contacto Aeródromo Casim
- iro Patiño (LEPN) \, en la carretera EX-310\, junto al km 20\, cerca de V
- alverde de Leganés\, provincia de Badajoz. Contacto del Real Aeroclub de 
- Badajoz: [email protected] · 610 781 590 . El cartel no especifica precio
- \, inscripción ni hora de finalización. Consulta estos detalles con el o
- rganizador. Año pendiente de confirmación: la fecha se ha registrado com
- o 27 de septiembre de 2026 por el contexto de la convocatoria y su coincid
- encia en domingo. El año no figura en el cartel aportado. Ven a conocer e
- l vuelo deportivo El Real Aeroclub de Badajoz invita al público a una jor
- nada de puertas abiertas en el aeródromo Casimiro Patiño\, el domingo 27
-  de septiembre\, a partir de las 10:00 . Actividades anunciadas Informaci
- ón sobre cursos LAPL y PPL. Exposición estática. Simulador de vuelo. Ae
- romodelos. Lugar y contacto Aeródromo Casimiro Patiño (LEPN) \, en la ca
- rretera EX-310\, junto al km 20\, cerca de Valverde de Leganés\, provinci
- a de Badajoz. Contacto del Real Aeroclub de Badajoz: [email protected] · 
- 610 781 590 . El cartel no especifica precio\, inscripción ni hora de fin
- alización. Consulta estos detalles con el organizador. Año pendiente de 
- confirmación: la fecha se ha registrado como 27 de septiembre de 2026 por
-  el contexto de la convocatoria y su coincidencia en domingo. El año no f
- igura en el cartel aportado.\n\nFuente: https://www.preparaulm.com/eventos
- -aeronauticos/jornada-puertas-abiertas-real-aeroclub-badajoz-2026
+ Contacto del Real Aeroclub de Badajoz: aeroclubadajoz@hotmail.com · 610 7
+ 81 590 . El cartel no especifica precio\, inscripción ni hora de finaliza
+ ción. Consulta estos detalles con el organizador. Año pendiente de confi
+ rmación: la fecha se ha registrado como 27 de septiembre de 2026 por el c
+ ontexto de la convocatoria y su coincidencia en domingo. El año no figura
+  en el cartel aportado. Ven a conocer el vuelo deportivo El Real Aeroclub 
+ de Badajoz invita al público a una jornada de puertas abiertas en el aer
+ ódromo Casimiro Patiño\, el domingo 27 de septiembre\, a partir de las 1
+ 0:00 . Actividades anunciadas Información sobre cursos LAPL y PPL. Exposi
+ ción estática. Simulador de vuelo. Aeromodelos. Lugar y contacto Aeródr
+ omo Casimiro Patiño (LEPN) \, en la carretera EX-310\, junto al km 20\, c
+ erca de Valverde de Leganés\, provincia de Badajoz. Contacto del Real Aer
+ oclub de Badajoz: aeroclubadajoz@hotmail.com · 610 781 590 . El cartel no
+  especifica precio\, inscripción ni hora de finalización. Consulta estos
+  detalles con el organizador. Año pendiente de confirmación: la fecha se
+  ha registrado como 27 de septiembre de 2026 por el contexto de la convoca
+ toria y su coincidencia en domingo. El año no figura en el cartel aportad
+ o. Ven a conocer el vuelo deportivo El Real Aeroclub de Badajoz invita al 
+ público a una jornada de puertas abiertas en el aeródromo Casimiro Pati
+ ño\, el domingo 27 de septiembre\, a partir de las 10:00 . Actividades an
+ unciadas Información sobre cursos LAPL y PPL. Exposición estática. Simu
+ lador de vuelo. Aeromodelos. Lugar y contacto Aeródromo Casimiro Patiño 
+ (LEPN) \, en la carretera EX-310\, junto al km 20\, cerca de Valverde de L
+ eganés\, provincia de Badajoz. Contacto del Real Aeroclub de Badajoz: aer
+ oclubadajoz@hotmail.com · 610 781 590 . El cartel no especifica precio\, 
+ inscripción ni hora de finalización. Consulta estos detalles con el orga
+ nizador. Año pendiente de confirmación: la fecha se ha registrado como 2
+ 7 de septiembre de 2026 por el contexto de la convocatoria y su coincidenc
+ ia en domingo. El año no figura en el cartel aportado.\n\nFuente: https:/
+ /www.preparaulm.com/eventos-aeronauticos/jornada-puertas-abiertas-real-aer
+ oclub-badajoz-2026
 LOCATION:Aeródromo Casimiro Patiño (LEPN)\, carretera EX-310\, junto al 
  km 20\, cerca de Valverde de Leganés (Badajoz)
 URL:https://www.preparaulm.com/eventos-aeronauticos/jornada-puertas-abiert
@@ -805,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Octubre 2026
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:f45af605f415b315d4fe@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans (FIO) celebra su exhibición aérea de octubre en el Aeródromo de Cu
@@ -886,7 +889,7 @@ BEGIN:VEVENT
 SUMMARY:Aero Talent Day 2026
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:925d92a9fee62e1c398f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAero Talent Day es la primer
  a feria de empleo en España centrada exclusivamente en perfiles del ecosi
@@ -977,7 +980,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -1056,7 +1059,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -1140,7 +1143,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20260913T110138Z
+DTSTAMP:20260913T203958Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
