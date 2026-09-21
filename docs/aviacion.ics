@@ -10,7 +10,7 @@ SUMMARY:Jornada Divulgativa: Los Ingenieros de Oro de la Aeronáutica Espa
  ñola
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260921T115314Z
+DTSTAMP:20260921T215524Z
 UID:2fee352b4f5cfc6b12fd@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nJornada divulgativa organiza
  da por el Real Aero Club de España para difundir el legado de los ingenie
@@ -94,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:New Space España 2026 (4ª edición)
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260926
-DTSTAMP:20260921T115314Z
+DTSTAMP:20260921T215524Z
 UID:b98042723875a2e0d89a@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nNew Space España 2026 es la
   cuarta edición del congreso de referencia del sector espacial español\,
@@ -153,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Jornada de puertas abiertas del Real Aeroclub de Badajoz
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260921T115314Z
+DTSTAMP:20260921T215524Z
 UID:25824468dd4c4ee1d09c@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Real Aeroclub de Badajoz 
  organiza una jornada de puertas abiertas en el aeródromo Casimiro Patiño
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Octubre 2026
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260921T115314Z
+DTSTAMP:20260921T215524Z
 UID:f45af605f415b315d4fe@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans (FIO) celebra su exhibición aérea de octubre en el Aeródromo de Cu
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY:Aero Talent Day 2026
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20260921T115314Z
+DTSTAMP:20260921T215524Z
 UID:925d92a9fee62e1c398f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAero Talent Day es la primer
  a feria de empleo en España centrada exclusivamente en perfiles del ecosi
@@ -386,7 +386,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260921T115314Z
+DTSTAMP:20260921T215524Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -465,7 +465,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260921T115314Z
+DTSTAMP:20260921T215524Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -549,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20260921T115314Z
+DTSTAMP:20260921T215524Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
