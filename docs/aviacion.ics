@@ -6,69 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Eventos de Aviación en España
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:New Space España 2026 (4ª edición)
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260926
-DTSTAMP:20260925T212706Z
-UID:b98042723875a2e0d89a@aviacion-espana-calendar
-DESCRIPTION:Evento obtenido de PreparaULM.\n\nNew Space España 2026 es la
-  cuarta edición del congreso de referencia del sector espacial español\,
-  organizado por Alén Space en la Sede Afundación de Vigo los días 24 y 
- 25 de septiembre de 2026. Bajo el lema «Autonomía estratégica desde el 
- espacio»\, reúne a empresas pioneras\, inversores\, centros tecnológico
- s\, universidades\, startups y organismos del sector. New Space España 20
- 26 es la cuarta edición del congreso de referencia del sector espacial es
- pañol\, organizado por Alén Space en la Sede Afundación de Vigo los dí
- as 24 y 25 de septiembre de 2026. Bajo el lema «Autonomía estratégica d
- esde el espacio»\, reúne a empresas pioneras\, inversores\, centros tecn
- ológicos\, universidades\, startups y organismos del sector. New Space Es
- paña 2026 es la cuarta edición del congreso de referencia del sector esp
- acial español\, organizado por Alén Space en la Sede Afundación de Vigo
-  los días 24 y 25 de septiembre de 2026. Bajo el lema «Autonomía estrat
- égica desde el espacio»\, reúne a empresas pioneras\, inversores\, cent
- ros tecnológicos\, universidades\, startups y organismos del sector. New 
- Space España 2026 — 4ª edición Congreso de referencia del sector espa
- cial en España\, organizado por Alén Space y celebrado en la Sede Afunda
- ción de Vigo los días 24 y 25 de septiembre de 2026 . Lema: Autonomía e
- stratégica desde el espacio Reúne a empresas pioneras de la industria es
- pacial\, inversores públicos y privados\, centros tecnológicos\, univers
- idades\, startups y profesionales de España y Latinoamérica\, con un fue
- rte componente de networking. Áreas temáticas Seguridad Espacio sostenib
- le Nuevas constelaciones Capacidades industriales Alianzas estratégicas E
- ntradas Early bird (hasta el 30 de junio): 190 € Tarifa estándar (desde
-  el 1 de julio): 260 € Cierre de inscripciones: 18 de septiembre Aforo l
- imitado a 250 asistentes New Space España 2026 — 4ª edición Congreso 
- de referencia del sector espacial en España\, organizado por Alén Space 
- y celebrado en la Sede Afundación de Vigo los días 24 y 25 de septiembre
-  de 2026 . Lema: Autonomía estratégica desde el espacio Reúne a empresa
- s pioneras de la industria espacial\, inversores públicos y privados\, ce
- ntros tecnológicos\, universidades\, startups y profesionales de España 
- y Latinoamérica\, con un fuerte componente de networking. Áreas temátic
- as Seguridad Espacio sostenible Nuevas constelaciones Capacidades industri
- ales Alianzas estratégicas Entradas Early bird (hasta el 30 de junio): 19
- 0 € Tarifa estándar (desde el 1 de julio): 260 € Cierre de inscripcio
- nes: 18 de septiembre Aforo limitado a 250 asistentes New Space España 20
- 26 — 4ª edición Congreso de referencia del sector espacial en España
- \, organizado por Alén Space y celebrado en la Sede Afundación de Vigo l
- os días 24 y 25 de septiembre de 2026 . Lema: Autonomía estratégica des
- de el espacio Reúne a empresas pioneras de la industria espacial\, invers
- ores públicos y privados\, centros tecnológicos\, universidades\, startu
- ps y profesionales de España y Latinoamérica\, con un fuerte componente 
- de networking. Áreas temáticas Seguridad Espacio sostenible Nuevas const
- elaciones Capacidades industriales Alianzas estratégicas Entradas Early b
- ird (hasta el 30 de junio): 190 € Tarifa estándar (desde el 1 de julio)
- : 260 € Cierre de inscripciones: 18 de septiembre Aforo limitado a 250 a
- sistentes\n\nFuente: https://www.preparaulm.com/eventos-aeronauticos/new-s
- pace-espana-vigo-2026
-LOCATION:Sede Afundación\, Vigo (Galicia)
-URL:https://www.preparaulm.com/eventos-aeronauticos/new-space-espana-vigo-
- 2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:71.ª Volta Aèria de Catalunya
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260925T212706Z
+DTSTAMP:20260926T104457Z
 UID:4dd1b1c0730124cf61d7@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa 71.ª Volta Aèria de Cat
  alunya se celebra del 25 al 27 de septiembre de 2026\, con recorrido entre
@@ -138,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:Jornada de puertas abiertas del Real Aeroclub de Badajoz
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260925T212706Z
+DTSTAMP:20260926T104457Z
 UID:25824468dd4c4ee1d09c@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Real Aeroclub de Badajoz 
  organiza una jornada de puertas abiertas en el aeródromo Casimiro Patiño
@@ -196,10 +137,68 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/jornada-puertas-abiert
  as-real-aeroclub-badajoz-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:VI Congreso Jurídico Espacial 2026
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261003
+DTSTAMP:20260926T104457Z
+UID:dd2fe513f495a7fa3f38@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nCongreso gratuito sobre dere
+ cho espacial\, regulación\, seguridad y sostenibilidad de la actividad es
+ pacial. Se celebra los días 1 y 2 de octubre en Tres Cantos\, con inscrip
+ ción previa. Congreso gratuito sobre derecho espacial\, regulación\, seg
+ uridad y sostenibilidad de la actividad espacial. Se celebra los días 1 y
+  2 de octubre en Tres Cantos\, con inscripción previa. Congreso gratuito 
+ sobre derecho espacial\, regulación\, seguridad y sostenibilidad de la ac
+ tividad espacial. Se celebra los días 1 y 2 de octubre en Tres Cantos\, c
+ on inscripción previa. Dos jornadas sobre los retos jurídicos de la acti
+ vidad espacial\, organizadas por AEDAE y el Ayuntamiento de Tres Cantos. E
+ l programa aborda regulación y diplomacia espacial\, tecnologías de dobl
+ e uso\, residuos orbitales\, lanzamientos y seguros\, EU Space Act y activ
+ idad lunar. La asistencia es gratuita con inscripción previa: https://for
+ ms.office.com/e/cvGXWPJHXs El programa oficial comienza a las 09:30 ambos 
+ días. La clausura está prevista a las 17:00 el 1 de octubre y a las 14:1
+ 5 el 2 de octubre. Programa sujeto a cambios. Dos jornadas sobre los retos
+  jurídicos de la actividad espacial\, organizadas por AEDAE y el Ayuntami
+ ento de Tres Cantos. El programa aborda regulación y diplomacia espacial
+ \, tecnologías de doble uso\, residuos orbitales\, lanzamientos y seguros
+ \, EU Space Act y actividad lunar. La asistencia es gratuita con inscripci
+ ón previa: https://forms.office.com/e/cvGXWPJHXs El programa oficial comi
+ enza a las 09:30 ambos días. La clausura está prevista a las 17:00 el 1 
+ de octubre y a las 14:15 el 2 de octubre. Programa sujeto a cambios. Dos j
+ ornadas sobre los retos jurídicos de la actividad espacial\, organizadas 
+ por AEDAE y el Ayuntamiento de Tres Cantos. El programa aborda regulación
+  y diplomacia espacial\, tecnologías de doble uso\, residuos orbitales\, 
+ lanzamientos y seguros\, EU Space Act y actividad lunar. La asistencia es 
+ gratuita con inscripción previa: https://forms.office.com/e/cvGXWPJHXs El
+  programa oficial comienza a las 09:30 ambos días. La clausura está prev
+ ista a las 17:00 el 1 de octubre y a las 14:15 el 2 de octubre. Programa s
+ ujeto a cambios. Dos jornadas sobre los retos jurídicos de la actividad e
+ spacial\, organizadas por AEDAE y el Ayuntamiento de Tres Cantos. El progr
+ ama aborda regulación y diplomacia espacial\, tecnologías de doble uso\,
+  residuos orbitales\, lanzamientos y seguros\, EU Space Act y actividad lu
+ nar. La asistencia es gratuita con inscripción previa: https://forms.offi
+ ce.com/e/cvGXWPJHXs https://forms.office.com/e/cvGXWPJHXs El programa ofic
+ ial comienza a las 09:30 ambos días. La clausura está prevista a las 17:
+ 00 el 1 de octubre y a las 14:15 el 2 de octubre. Programa sujeto a cambio
+ s. ¿Vas a este evento volando? Registra el vuelo en tu logbook digital. E
+ stadísticas automáticas\, PDF oficial para AESA y backup diario. Gratis 
+ para pilotos ULM. Crea tu logbook gratis ¿Vas a este evento volando? Regi
+ stra el vuelo en tu logbook digital. Estadísticas automáticas\, PDF ofic
+ ial para AESA y backup diario. Gratis para pilotos ULM. Crea tu logbook gr
+ atis ¿Vas a este evento volando? Registra el vuelo en tu logbook digital.
+  Estadísticas automáticas\, PDF oficial para AESA y backup diario. Grati
+ s para pilotos ULM.\n\nFuente: https://www.preparaulm.com/eventos-aeronaut
+ icos/vi-congreso-juridico-espacial-2026
+LOCATION:Centro Cultural Adolfo Suárez\, Plaza del Ayuntamiento 2\, 28760
+  Tres Cantos\, Madrid
+URL:https://www.preparaulm.com/eventos-aeronauticos/vi-congreso-juridico-e
+ spacial-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Octubre 2026
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20260925T212706Z
+DTSTAMP:20260926T104457Z
 UID:f45af605f415b315d4fe@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans (FIO) celebra su exhibición aérea de octubre en el Aeródromo de Cu
@@ -277,10 +276,70 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/fio-exhibicion-vuelo-o
  ctubre-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BNEW 2026 — Aviation & Space
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261008
+DTSTAMP:20260926T104457Z
+UID:a9cc86e4f7d87275088c@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nEvento presencial y digital 
+ con ponencias\, actividades y encuentros profesionales. Registro gratuito
+ \; algunas experiencias requieren reserva previa. Las fechas corresponden 
+ al evento BNEW completo. Evento presencial y digital con ponencias\, activ
+ idades y encuentros profesionales. Registro gratuito\; algunas experiencia
+ s requieren reserva previa. Las fechas corresponden al evento BNEW complet
+ o. Evento presencial y digital con ponencias\, actividades y encuentros pr
+ ofesionales. Registro gratuito\; algunas experiencias requieren reserva pr
+ evia. Las fechas corresponden al evento BNEW completo. BNEW se celebra del
+  5 al 7 de octubre en DFactory Barcelona e incluye contenidos de Aviation 
+ & Space dentro de su encuentro multisectorial. Combina participación pres
+ encial y digital\, ponencias y encuentros profesionales. La inscripción e
+ s gratuita y necesaria para asistir presencialmente o seguir las sesiones 
+ en streaming: https://www.bnewbarcelona.com/es/registration-2026.html Algu
+ nas actividades experienciales requieren reserva previa. Las fechas de est
+ a ficha corresponden a BNEW completo\; consultar el programa para localiza
+ r las sesiones de aviación y espacio. BNEW se celebra del 5 al 7 de octub
+ re en DFactory Barcelona e incluye contenidos de Aviation & Space dentro d
+ e su encuentro multisectorial. Combina participación presencial y digital
+ \, ponencias y encuentros profesionales. La inscripción es gratuita y nec
+ esaria para asistir presencialmente o seguir las sesiones en streaming: ht
+ tps://www.bnewbarcelona.com/es/registration-2026.html Algunas actividades 
+ experienciales requieren reserva previa. Las fechas de esta ficha correspo
+ nden a BNEW completo\; consultar el programa para localizar las sesiones d
+ e aviación y espacio. BNEW se celebra del 5 al 7 de octubre en DFactory B
+ arcelona e incluye contenidos de Aviation & Space dentro de su encuentro m
+ ultisectorial. Combina participación presencial y digital\, ponencias y e
+ ncuentros profesionales. La inscripción es gratuita y necesaria para asis
+ tir presencialmente o seguir las sesiones en streaming: https://www.bnewba
+ rcelona.com/es/registration-2026.html Algunas actividades experienciales r
+ equieren reserva previa. Las fechas de esta ficha corresponden a BNEW comp
+ leto\; consultar el programa para localizar las sesiones de aviación y es
+ pacio. BNEW se celebra del 5 al 7 de octubre en DFactory Barcelona e inclu
+ ye contenidos de Aviation & Space dentro de su encuentro multisectorial. C
+ ombina participación presencial y digital\, ponencias y encuentros profes
+ ionales. La inscripción es gratuita y necesaria para asistir presencialme
+ nte o seguir las sesiones en streaming: https://www.bnewbarcelona.com/es/r
+ egistration-2026.html https://www.bnewbarcelona.com/es/registration-2026.h
+ tml Algunas actividades experienciales requieren reserva previa. Las fecha
+ s de esta ficha corresponden a BNEW completo\; consultar el programa para 
+ localizar las sesiones de aviación y espacio. ¿Vas a este evento volando
+ ? Registra el vuelo en tu logbook digital. Estadísticas automáticas\, PD
+ F oficial para AESA y backup diario. Gratis para pilotos ULM. Crea tu logb
+ ook gratis ¿Vas a este evento volando? Registra el vuelo en tu logbook di
+ gital. Estadísticas automáticas\, PDF oficial para AESA y backup diario.
+  Gratis para pilotos ULM. Crea tu logbook gratis ¿Vas a este evento volan
+ do? Registra el vuelo en tu logbook digital. Estadísticas automáticas\, 
+ PDF oficial para AESA y backup diario. Gratis para pilotos ULM.\n\nFuente:
+  https://www.preparaulm.com/eventos-aeronauticos/bnew-aviation-space-barce
+ lona-2026
+LOCATION:DFactory Barcelona\, Zona Franca\, Barcelona
+URL:https://www.preparaulm.com/eventos-aeronauticos/bnew-aviation-space-ba
+ rcelona-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aero Talent Day 2026
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20260925T212706Z
+DTSTAMP:20260926T104457Z
 UID:925d92a9fee62e1c398f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAero Talent Day es la primer
  a feria de empleo en España centrada exclusivamente en perfiles del ecosi
@@ -371,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260925T212706Z
+DTSTAMP:20260926T104457Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -447,10 +506,74 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/fio-exhibicion-vuelo-n
  oviembre-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261205
+DTSTAMP:20260926T104457Z
+UID:fcdd33027115fb9cd415@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nEncuentro con áreas de aero
+ náutica\, espacio\, astrofísica\, robótica aérea y formación. Asisten
+ cia sin cuota de inscripción con aforo limitado. El programa detallado es
+ tá pendiente de publicación. Encuentro con áreas de aeronáutica\, espa
+ cio\, astrofísica\, robótica aérea y formación. Asistencia sin cuota d
+ e inscripción con aforo limitado. El programa detallado está pendiente d
+ e publicación. Encuentro con áreas de aeronáutica\, espacio\, astrofís
+ ica\, robótica aérea y formación. Asistencia sin cuota de inscripción 
+ con aforo limitado. El programa detallado está pendiente de publicación.
+  La tercera edición del Congreso Internacional Aeroespacial de Canarias t
+ endrá lugar los días 3 y 4 de diciembre en el ITER\, en Tenerife. Organi
+ za el Clúster Aeroespacial de Canarias (CAAC). El encuentro aborda aeron
+ áutica\, robótica aérea\, espacio\, astrofísica y formación y talento
+ . Está dirigido a profesionales\, empresas\, investigadores y estudiantes
+  del sector. La asistencia presencial no tiene cuota de inscripción y las
+  plazas son limitadas. Registro: https://ciac.org.es/registro/ El programa
+  detallado y el panel de ponentes siguen en preparación según la web ofi
+ cial consultada el 24 de septiembre de 2026. La tercera edición del Congr
+ eso Internacional Aeroespacial de Canarias tendrá lugar los días 3 y 4 d
+ e diciembre en el ITER\, en Tenerife. Organiza el Clúster Aeroespacial de
+  Canarias (CAAC). El encuentro aborda aeronáutica\, robótica aérea\, es
+ pacio\, astrofísica y formación y talento. Está dirigido a profesionale
+ s\, empresas\, investigadores y estudiantes del sector. La asistencia pres
+ encial no tiene cuota de inscripción y las plazas son limitadas. Registro
+ : https://ciac.org.es/registro/ El programa detallado y el panel de ponent
+ es siguen en preparación según la web oficial consultada el 24 de septie
+ mbre de 2026. La tercera edición del Congreso Internacional Aeroespacial 
+ de Canarias tendrá lugar los días 3 y 4 de diciembre en el ITER\, en Ten
+ erife. Organiza el Clúster Aeroespacial de Canarias (CAAC). El encuentro 
+ aborda aeronáutica\, robótica aérea\, espacio\, astrofísica y formaci
+ ón y talento. Está dirigido a profesionales\, empresas\, investigadores 
+ y estudiantes del sector. La asistencia presencial no tiene cuota de inscr
+ ipción y las plazas son limitadas. Registro: https://ciac.org.es/registro
+ / El programa detallado y el panel de ponentes siguen en preparación seg
+ ún la web oficial consultada el 24 de septiembre de 2026. La tercera edic
+ ión del Congreso Internacional Aeroespacial de Canarias tendrá lugar los
+  días 3 y 4 de diciembre en el ITER\, en Tenerife. Organiza el Clúster A
+ eroespacial de Canarias (CAAC). El encuentro aborda aeronáutica\, robóti
+ ca aérea\, espacio\, astrofísica y formación y talento. Está dirigido 
+ a profesionales\, empresas\, investigadores y estudiantes del sector. La a
+ sistencia presencial no tiene cuota de inscripción y las plazas son limit
+ adas. Registro: https://ciac.org.es/registro/ https://ciac.org.es/registro
+ / El programa detallado y el panel de ponentes siguen en preparación seg
+ ún la web oficial consultada el 24 de septiembre de 2026. ¿Vas a este ev
+ ento volando? Registra el vuelo en tu logbook digital. Estadísticas autom
+ áticas\, PDF oficial para AESA y backup diario. Gratis para pilotos ULM. 
+ Crea tu logbook gratis ¿Vas a este evento volando? Registra el vuelo en t
+ u logbook digital. Estadísticas automáticas\, PDF oficial para AESA y ba
+ ckup diario. Gratis para pilotos ULM. Crea tu logbook gratis ¿Vas a este 
+ evento volando? Registra el vuelo en tu logbook digital. Estadísticas aut
+ omáticas\, PDF oficial para AESA y backup diario. Gratis para pilotos ULM
+ .\n\nFuente: https://www.preparaulm.com/eventos-aeronauticos/ciac-congreso
+ -internacional-aeroespacial-canarias-2026
+LOCATION:Instituto Tecnológico y de Energías Renovables (ITER)\, Polígo
+ no Industrial de Granadilla s/n\, 38600 Granadilla de Abona\, Tenerife
+URL:https://www.preparaulm.com/eventos-aeronauticos/ciac-congreso-internac
+ ional-aeroespacial-canarias-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20260925T212706Z
+DTSTAMP:20260926T104457Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -534,7 +657,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20260925T212706Z
+DTSTAMP:20260926T104457Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
