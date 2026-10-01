@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:VI Congreso Jurídico Espacial 2026
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261003
-DTSTAMP:20261001T122129Z
+DTSTAMP:20261001T223551Z
 UID:dd2fe513f495a7fa3f38@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Asociación Española de 
  Derecho Aeronáutico y Espacial (AEDAE) y el Ayuntamiento de Tres Cantos o
@@ -87,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Octubre 2026
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261001T122129Z
+DTSTAMP:20261001T223551Z
 UID:f45af605f415b315d4fe@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans (FIO) celebra su exhibición aérea de octubre en el Aeródromo de Cu
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:BNEW 2026 — Aviation & Space
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261001T122129Z
+DTSTAMP:20261001T223551Z
 UID:a9cc86e4f7d87275088c@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nBarcelona New Economy Week (
  BNEW) reúne del 5 al 7 de octubre de 2026 en DFactory Barcelona a profesi
@@ -270,10 +270,252 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/bnew-aviation-space-ba
  rcelona-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Desfile aéreo de la Fiesta Nacional 2026 — Madrid
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+DTSTAMP:20261001T223551Z
+UID:3df652a21ded684134b9@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl lunes 12 de octubre de 20
+ 26\, Madrid acoge el desfile aéreo de la Fiesta Nacional. Forma parte de 
+ los actos centrales organizados por el Ministerio de Defensa y se celebra 
+ junto al desfile terrestre\, con acceso gratuito para el público. El desf
+ ile aéreo reúne aviones y helicópteros en pasadas coordinadas sobre Mad
+ rid. Las formaciones sobrevuelan el eje del desfile terrestre\, que discur
+ re habitualmente por el Paseo del Prado y el Paseo de Recoletos. La partic
+ ipación anunciada para 2026 incluye a PAPEA\, la Patrulla Acrobática de 
+ Paracaidismo del Ejército del Aire y del Espacio\, y a la Patrulla ASPA\,
+  que vuela los helicópteros EC-120B Colibrí desde la base aérea de Armi
+ lla\, en Granada. El acto central incluye habitualmente los honores milita
+ res\, el salto paracaidista\, el izado de la bandera y el homenaje a quien
+ es dieron su vida por España\, antes de los desfiles aéreo y terrestre. 
+ El lunes 12 de octubre de 2026\, Madrid acoge el desfile aéreo de la Fies
+ ta Nacional. Forma parte de los actos centrales organizados por el Ministe
+ rio de Defensa y se celebra junto al desfile terrestre\, con acceso gratui
+ to para el público. El desfile aéreo reúne aviones y helicópteros en p
+ asadas coordinadas sobre Madrid. Las formaciones sobrevuelan el eje del de
+ sfile terrestre\, que discurre habitualmente por el Paseo del Prado y el P
+ aseo de Recoletos. La participación anunciada para 2026 incluye a PAPEA\,
+  la Patrulla Acrobática de Paracaidismo del Ejército del Aire y del Espa
+ cio\, y a la Patrulla ASPA\, que vuela los helicópteros EC-120B Colibrí 
+ desde la base aérea de Armilla\, en Granada. El acto central incluye habi
+ tualmente los honores militares\, el salto paracaidista\, el izado de la b
+ andera y el homenaje a quienes dieron su vida por España\, antes de los d
+ esfiles aéreo y terrestre. El lunes 12 de octubre de 2026\, Madrid acoge 
+ el desfile aéreo de la Fiesta Nacional. Forma parte de los actos centrale
+ s organizados por el Ministerio de Defensa y se celebra junto al desfile t
+ errestre\, con acceso gratuito para el público. El desfile aéreo reúne 
+ aviones y helicópteros en pasadas coordinadas sobre Madrid. Las formacion
+ es sobrevuelan el eje del desfile terrestre\, que discurre habitualmente p
+ or el Paseo del Prado y el Paseo de Recoletos. La participación anunciada
+  para 2026 incluye a PAPEA\, la Patrulla Acrobática de Paracaidismo del E
+ jército del Aire y del Espacio\, y a la Patrulla ASPA\, que vuela los hel
+ icópteros EC-120B Colibrí desde la base aérea de Armilla\, en Granada. 
+ El acto central incluye habitualmente los honores militares\, el salto par
+ acaidista\, el izado de la bandera y el homenaje a quienes dieron su vida 
+ por España\, antes de los desfiles aéreo y terrestre. El lunes 12 de oct
+ ubre de 2026\, Madrid acoge el desfile aéreo de la Fiesta Nacional. Forma
+  parte de los actos centrales organizados por el Ministerio de Defensa y s
+ e celebra junto al desfile terrestre\, con acceso gratuito para el públic
+ o. El desfile aéreo reúne aviones y helicópteros en pasadas coordinadas
+  sobre Madrid. Las formaciones sobrevuelan el eje del desfile terrestre\, 
+ que discurre habitualmente por el Paseo del Prado y el Paseo de Recoletos.
+  La participación anunciada para 2026 incluye a PAPEA \, la Patrulla Acro
+ bática de Paracaidismo del Ejército del Aire y del Espacio\, y a la Patr
+ ulla ASPA \, que vuela los helicópteros EC-120B Colibrí desde la base a
+ érea de Armilla\, en Granada. El acto central incluye habitualmente los h
+ onores militares\, el salto paracaidista\, el izado de la bandera y el hom
+ enaje a quienes dieron su vida por España\, antes de los desfiles aéreo 
+ y terrestre. Qué verás Aeronaves en formación: pasadas coordinadas de a
+ viones y helicópteros sobre Madrid. PAPEA: participación de la patrulla 
+ acrobática de paracaidismo\, anunciada para 2026. Patrulla ASPA: helicóp
+ teros EC-120B Colibrí de la patrulla acrobática del Ejército del Aire y
+  del Espacio. Actos de la Fiesta Nacional: desfile terrestre y ceremonias 
+ que incluyen habitualmente el izado de la bandera y el homenaje a quienes 
+ dieron su vida por España. Aeronaves El listado completo de aeronaves\, s
+ us cantidades y el orden de paso para el desfile de 2026 están por confir
+ mar. Modelos programados en 2025 como referencia El programa de 2025 inclu
+ ía los siguientes modelos. Esta relación corresponde a la edición anter
+ ior\; su participación en 2026 está por confirmar. Aviones Modelo Funci
+ ón en el programa de 2025 F-18 Hornet Caza Eurofighter Typhoon Caza AV-8B
+ + Harrier Aviación embarcada F-5M Freedom Fighter Enseñanza Airbus A330 
+ Reabastecimiento Airbus A400M Transporte Airbus A310 Transporte Dassault F
+ alcon 900 Transporte Cessna Citation V Reconocimiento CL-215T y CL-415 Ext
+ inción de incendios CN-235 y CN-235MP Transporte y vigilancia marítima A
+ irbus C-295 Transporte Pilatus PC-21 Formación Mirlo Helicópteros Modelo
+  Unidad u organismo en el programa de 2025 Super Puma Ejército del Aire y
+  del Espacio NH90 Aire\, Tierra y Armada Sikorsky S-76 Ejército del Aire 
+ y del Espacio EC-120 Colibrí Patrulla ASPA Chinook Ejército de Tierra Ti
+ gre Ejército de Tierra AS532 Cougar Ejército de Tierra H135 y EC135 Tier
+ ra\, Guardia Civil y Policía Nacional SH-60B y SH-60F Seahawk Armada AS36
+ 5 Dauphin Guardia Civil y Vigilancia Aduanera AW139 Salvamento Marítimo F
+ uente: dosier oficial del Ministerio de Defensa de 2025 \, páginas 17 a 1
+ 9. Datos Fecha: lunes 12 de octubre de 2026. Ciudad: Madrid. Organizador: 
+ Ministerio de Defensa. Acceso: gratuito. Horario: por confirmar para 2026.
+  Como referencia\, el acto central suele comenzar a las 11:00 h\; esta hor
+ a no indica el inicio de las pasadas aéreas. Dónde ver el desfile El Pas
+ eo del Prado y el Paseo de Recoletos forman el eje habitual del desfile\, 
+ entre el entorno del Real Jardín Botánico y la plaza de Colón. Las plaz
+ as de Neptuno y Cibeles son dos referencias para orientarse en esta zona. 
+ Para observar las pasadas aéreas\, busca un lugar con una vista abierta d
+ el cielo. Acudir con antelación te permitirá elegir sitio antes del comi
+ enzo de los actos. Cómo llegar Metro: Estación del Arte o Atocha\, en la
+  línea 1\, para acercarte al entorno del Paseo del Prado\; Banco de Espa
+ ña\, en la línea 2\, junto a Cibeles. Cercanías: Madrid Atocha\, desde 
+ donde puedes continuar a pie hacia el Paseo del Prado. Antes de ir\, consu
+ lta los avisos del evento para conocer el recorrido de 2026\, los accesos 
+ y las posibles alteraciones del transporte público. Programa y avisos ofi
+ ciales Consulta el calendario del Ejército del Aire y del Espacio y la p
+ ágina de la Fiesta Nacional del Ministerio de Defensa para conocer las no
+ vedades sobre el programa\, los horarios y los accesos. Imágenes La porta
+ da es una ilustración editorial creada para PreparaULM. Las fotografías 
+ del paracaidista\, la Formación Mirlo\, el Pilatus PC-21\, el izado de ba
+ ndera y el desfile terrestre son de archivo del desfile de 2025. La imagen
+  de la Patrulla ASPA es de archivo y su fuente no indica la fecha. Fuentes
+  de las fotografías: Ejército del Aire y del Espacio \, galería del Ala
+  78 y Turismo Madrid . El lunes 12 de octubre de 2026\, Madrid acoge el de
+ sfile aéreo de la Fiesta Nacional. Forma parte de los actos centrales org
+ anizados por el Ministerio de Defensa y se celebra junto al desfile terres
+ tre\, con acceso gratuito para el público. El desfile aéreo reúne avion
+ es y helicópteros en pasadas coordinadas sobre Madrid. Las formaciones so
+ brevuelan el eje del desfile terrestre\, que discurre habitualmente por el
+  Paseo del Prado y el Paseo de Recoletos. La participación anunciada para
+  2026 incluye a PAPEA \, la Patrulla Acrobática de Paracaidismo del Ejér
+ cito del Aire y del Espacio\, y a la Patrulla ASPA \, que vuela los helic
+ ópteros EC-120B Colibrí desde la base aérea de Armilla\, en Granada. El
+  acto central incluye habitualmente los honores militares\, el salto parac
+ aidista\, el izado de la bandera y el homenaje a quienes dieron su vida po
+ r España\, antes de los desfiles aéreo y terrestre. Qué verás Aeronave
+ s en formación: pasadas coordinadas de aviones y helicópteros sobre Madr
+ id. PAPEA: participación de la patrulla acrobática de paracaidismo\, anu
+ nciada para 2026. Patrulla ASPA: helicópteros EC-120B Colibrí de la patr
+ ulla acrobática del Ejército del Aire y del Espacio. Actos de la Fiesta 
+ Nacional: desfile terrestre y ceremonias que incluyen habitualmente el iza
+ do de la bandera y el homenaje a quienes dieron su vida por España. Aeron
+ aves El listado completo de aeronaves\, sus cantidades y el orden de paso 
+ para el desfile de 2026 están por confirmar. Modelos programados en 2025 
+ como referencia El programa de 2025 incluía los siguientes modelos. Esta 
+ relación corresponde a la edición anterior\; su participación en 2026 e
+ stá por confirmar. Aviones Modelo Función en el programa de 2025 F-18 Ho
+ rnet Caza Eurofighter Typhoon Caza AV-8B+ Harrier Aviación embarcada F-5M
+  Freedom Fighter Enseñanza Airbus A330 Reabastecimiento Airbus A400M Tran
+ sporte Airbus A310 Transporte Dassault Falcon 900 Transporte Cessna Citati
+ on V Reconocimiento CL-215T y CL-415 Extinción de incendios CN-235 y CN-2
+ 35MP Transporte y vigilancia marítima Airbus C-295 Transporte Pilatus PC-
+ 21 Formación Mirlo Helicópteros Modelo Unidad u organismo en el programa
+  de 2025 Super Puma Ejército del Aire y del Espacio NH90 Aire\, Tierra y 
+ Armada Sikorsky S-76 Ejército del Aire y del Espacio EC-120 Colibrí Patr
+ ulla ASPA Chinook Ejército de Tierra Tigre Ejército de Tierra AS532 Coug
+ ar Ejército de Tierra H135 y EC135 Tierra\, Guardia Civil y Policía Naci
+ onal SH-60B y SH-60F Seahawk Armada AS365 Dauphin Guardia Civil y Vigilanc
+ ia Aduanera AW139 Salvamento Marítimo Fuente: dosier oficial del Minister
+ io de Defensa de 2025 \, páginas 17 a 19. Datos Fecha: lunes 12 de octubr
+ e de 2026. Ciudad: Madrid. Organizador: Ministerio de Defensa. Acceso: gra
+ tuito. Horario: por confirmar para 2026. Como referencia\, el acto central
+  suele comenzar a las 11:00 h\; esta hora no indica el inicio de las pasad
+ as aéreas. Dónde ver el desfile El Paseo del Prado y el Paseo de Recolet
+ os forman el eje habitual del desfile\, entre el entorno del Real Jardín 
+ Botánico y la plaza de Colón. Las plazas de Neptuno y Cibeles son dos re
+ ferencias para orientarse en esta zona. Para observar las pasadas aéreas
+ \, busca un lugar con una vista abierta del cielo. Acudir con antelación 
+ te permitirá elegir sitio antes del comienzo de los actos. Cómo llegar M
+ etro: Estación del Arte o Atocha\, en la línea 1\, para acercarte al ent
+ orno del Paseo del Prado\; Banco de España\, en la línea 2\, junto a Cib
+ eles. Cercanías: Madrid Atocha\, desde donde puedes continuar a pie hacia
+  el Paseo del Prado. Antes de ir\, consulta los avisos del evento para con
+ ocer el recorrido de 2026\, los accesos y las posibles alteraciones del tr
+ ansporte público. Programa y avisos oficiales Consulta el calendario del 
+ Ejército del Aire y del Espacio y la página de la Fiesta Nacional del Mi
+ nisterio de Defensa para conocer las novedades sobre el programa\, los hor
+ arios y los accesos. Imágenes La portada es una ilustración editorial cr
+ eada para PreparaULM. Las fotografías del paracaidista\, la Formación Mi
+ rlo\, el Pilatus PC-21\, el izado de bandera y el desfile terrestre son de
+  archivo del desfile de 2025. La imagen de la Patrulla ASPA es de archivo 
+ y su fuente no indica la fecha. Fuentes de las fotografías: Ejército del
+  Aire y del Espacio \, galería del Ala 78 y Turismo Madrid . El lunes 12 
+ de octubre de 2026\, Madrid acoge el desfile aéreo de la Fiesta Nacional.
+  Forma parte de los actos centrales organizados por el Ministerio de Defen
+ sa y se celebra junto al desfile terrestre\, con acceso gratuito para el p
+ úblico. El desfile aéreo reúne aviones y helicópteros en pasadas coord
+ inadas sobre Madrid. Las formaciones sobrevuelan el eje del desfile terres
+ tre\, que discurre habitualmente por el Paseo del Prado y el Paseo de Reco
+ letos. La participación anunciada para 2026 incluye a PAPEA \, la Patrull
+ a Acrobática de Paracaidismo del Ejército del Aire y del Espacio\, y a l
+ a Patrulla ASPA \, que vuela los helicópteros EC-120B Colibrí desde la b
+ ase aérea de Armilla\, en Granada. El acto central incluye habitualmente 
+ los honores militares\, el salto paracaidista\, el izado de la bandera y e
+ l homenaje a quienes dieron su vida por España\, antes de los desfiles a
+ éreo y terrestre. Qué verás Aeronaves en formación: pasadas coordinada
+ s de aviones y helicópteros sobre Madrid. PAPEA: participación de la pat
+ rulla acrobática de paracaidismo\, anunciada para 2026. Patrulla ASPA: he
+ licópteros EC-120B Colibrí de la patrulla acrobática del Ejército del 
+ Aire y del Espacio. Actos de la Fiesta Nacional: desfile terrestre y cerem
+ onias que incluyen habitualmente el izado de la bandera y el homenaje a qu
+ ienes dieron su vida por España. Aeronaves El listado completo de aeronav
+ es\, sus cantidades y el orden de paso para el desfile de 2026 están por 
+ confirmar. Modelos programados en 2025 como referencia El programa de 2025
+  incluía los siguientes modelos. Esta relación corresponde a la edición
+  anterior\; su participación en 2026 está por confirmar. Aviones Modelo 
+ Función en el programa de 2025 F-18 Hornet Caza Eurofighter Typhoon Caza 
+ AV-8B+ Harrier Aviación embarcada F-5M Freedom Fighter Enseñanza Airbus 
+ A330 Reabastecimiento Airbus A400M Transporte Airbus A310 Transporte Dassa
+ ult Falcon 900 Transporte Cessna Citation V Reconocimiento CL-215T y CL-41
+ 5 Extinción de incendios CN-235 y CN-235MP Transporte y vigilancia marít
+ ima Airbus C-295 Transporte Pilatus PC-21 Formación Mirlo Helicópteros M
+ odelo Unidad u organismo en el programa de 2025 Super Puma Ejército del A
+ ire y del Espacio NH90 Aire\, Tierra y Armada Sikorsky S-76 Ejército del 
+ Aire y del Espacio EC-120 Colibrí Patrulla ASPA Chinook Ejército de Tier
+ ra Tigre Ejército de Tierra AS532 Cougar Ejército de Tierra H135 y EC135
+  Tierra\, Guardia Civil y Policía Nacional SH-60B y SH-60F Seahawk Armada
+  AS365 Dauphin Guardia Civil y Vigilancia Aduanera AW139 Salvamento Marít
+ imo Fuente: dosier oficial del Ministerio de Defensa de 2025 \, páginas 1
+ 7 a 19. Datos Fecha: lunes 12 de octubre de 2026. Ciudad: Madrid. Organiza
+ dor: Ministerio de Defensa. Acceso: gratuito. Horario: por confirmar para 
+ 2026. Como referencia\, el acto central suele comenzar a las 11:00 h\; est
+ a hora no indica el inicio de las pasadas aéreas. Dónde ver el desfile E
+ l Paseo del Prado y el Paseo de Recoletos forman el eje habitual del desfi
+ le\, entre el entorno del Real Jardín Botánico y la plaza de Colón. Las
+  plazas de Neptuno y Cibeles son dos referencias para orientarse en esta z
+ ona. Para observar las pasadas aéreas\, busca un lugar con una vista abie
+ rta del cielo. Acudir con antelación te permitirá elegir sitio antes del
+  comienzo de los actos. Cómo llegar Metro: Estación del Arte o Atocha\, 
+ en la línea 1\, para acercarte al entorno del Paseo del Prado\; Banco de 
+ España\, en la línea 2\, junto a Cibeles. Cercanías: Madrid Atocha\, de
+ sde donde puedes continuar a pie hacia el Paseo del Prado. Antes de ir\, c
+ onsulta los avisos del evento para conocer el recorrido de 2026\, los acce
+ sos y las posibles alteraciones del transporte público. Programa y avisos
+  oficiales Consulta el calendario del Ejército del Aire y del Espacio y l
+ a página de la Fiesta Nacional del Ministerio de Defensa para conocer las
+  novedades sobre el programa\, los horarios y los accesos. Imágenes La po
+ rtada es una ilustración editorial creada para PreparaULM. Las fotografí
+ as del paracaidista\, la Formación Mirlo\, el Pilatus PC-21\, el izado de
+  bandera y el desfile terrestre son de archivo del desfile de 2025. La ima
+ gen de la Patrulla ASPA es de archivo y su fuente no indica la fecha. Fuen
+ tes de las fotografías: Ejército del Aire y del Espacio \, galería del 
+ Ala 78 y Turismo Madrid . El lunes 12 de octubre de 2026\, Madrid acoge el
+  desfile aéreo de la Fiesta Nacional. Forma parte de los actos centrales 
+ organizados por el Ministerio de Defensa y se celebra junto al desfile ter
+ restre\, con acceso gratuito para el público. El desfile aéreo reúne av
+ iones y helicópteros en pasadas coordinadas sobre Madrid. Las formaciones
+  sobrevuelan el eje del desfile terrestre\, que discurre habitualmente por
+  el Paseo del Prado y el Paseo de Recoletos. La participación anunciada p
+ ara 2026 incluye a PAPEA \, la Patrulla Acrobática de Paracaidismo del Ej
+ ército del Aire y del Espacio\, y a la Patrulla ASPA \, que vuela los hel
+ icópteros EC-120B Colibrí desde la base aérea de Armilla\, en Granada. 
+ participación anunciada para 2026 PAPEA Patrulla ASPA El acto central inc
+ luye habitualmente los honores militares\, el salto paracaidista\, el izad
+ o de la bandera y el homenaje a quienes dieron su vida por España\, antes
+  de los desfiles aéreo y terrestre.\n\nFuente: https://www.preparaulm.com
+ /eventos-aeronauticos/desfile-aereo-fiesta-nacional-madrid-2026
+LOCATION:Madrid — zona de referencia: Paseo del Prado y Paseo de Recolet
+ os
+URL:https://www.preparaulm.com/eventos-aeronauticos/desfile-aereo-fiesta-n
+ acional-madrid-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aero Talent Day 2026
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261001T122129Z
+DTSTAMP:20261001T223551Z
 UID:925d92a9fee62e1c398f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAero Talent Day es la primer
  a feria de empleo en España centrada exclusivamente en perfiles del ecosi
@@ -364,7 +606,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261001T122129Z
+DTSTAMP:20261001T223551Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -443,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261001T122129Z
+DTSTAMP:20261001T223551Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -533,7 +775,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261001T122129Z
+DTSTAMP:20261001T223551Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -617,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261001T122129Z
+DTSTAMP:20261001T223551Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
