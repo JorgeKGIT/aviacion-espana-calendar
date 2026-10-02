@@ -6,88 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Eventos de Aviación en España
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
-SUMMARY:VI Congreso Jurídico Espacial 2026
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261003
-DTSTAMP:20261002T114901Z
-UID:dd2fe513f495a7fa3f38@aviacion-espana-calendar
-DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Asociación Española de 
- Derecho Aeronáutico y Espacial (AEDAE) y el Ayuntamiento de Tres Cantos o
- rganizan el VI Congreso Jurídico Espacial los días 1 y 2 de octubre de 2
- 026 en el Auditorio del Centro Cultural Adolfo Suárez. El programa reúne
-  a especialistas del ámbito jurídico\, instituciones\, agencias y empres
- as para analizar los principales retos normativos y operativos de la activ
- idad espacial. La inscripción de asistentes es gratuita. La Asociación E
- spañola de Derecho Aeronáutico y Espacial (AEDAE) y el Ayuntamiento de T
- res Cantos organizan el VI Congreso Jurídico Espacial los días 1 y 2 de 
- octubre de 2026 en el Auditorio del Centro Cultural Adolfo Suárez. El pro
- grama reúne a especialistas del ámbito jurídico\, instituciones\, agenc
- ias y empresas para analizar los principales retos normativos y operativos
-  de la actividad espacial. La inscripción de asistentes es gratuita. La A
- sociación Española de Derecho Aeronáutico y Espacial (AEDAE) y el Ayunt
- amiento de Tres Cantos organizan el VI Congreso Jurídico Espacial los dí
- as 1 y 2 de octubre de 2026 en el Auditorio del Centro Cultural Adolfo Su
- árez. El programa reúne a especialistas del ámbito jurídico\, instituc
- iones\, agencias y empresas para analizar los principales retos normativos
-  y operativos de la actividad espacial. La inscripción de asistentes es g
- ratuita. Programa del jueves 1 de octubre La primera jornada comienza a la
- s 09:30 h con la bienvenida e inauguración. Sus mesas tratan la diplomaci
- a espacial y la regulación \; el uso dual del espacio y la protección de
-  activos críticos para la defensa \; los desechos espaciales\, la reentra
- da y sus estándares \; y una mesa jurídica sobre sostenibilidad\, inteli
- gencia artificial\, diplomacia\, propiedad intelectual\, contratos y segur
- os. El último panel está previsto de 15:45 a 17:00 h. Programa del viern
- es 2 de octubre La segunda jornada comienza a las 09:30 h y aborda lanzami
- entos y seguros \, el análisis jurídico del EU Space Act \, la exploraci
- ón lunar y el papel de Tres Cantos como polo empresarial espacial . La cl
- ausura oficial figura a las 14:15 h del viernes 2 de octubre . El congreso
-  se celebra en el Centro Cultural Adolfo Suárez\, Plaza del Ayuntamiento
- \, 2\, 28760 Tres Cantos (Madrid) . La organización advierte de que el pr
- ograma puede sufrir modificaciones. La entrada requiere inscripción gratu
- ita mediante el formulario enlazado desde la web de AEDAE. Programa oficia
- l completo Formulario de inscripción gratuita Programa del jueves 1 de oc
- tubre La primera jornada comienza a las 09:30 h con la bienvenida e inaugu
- ración. Sus mesas tratan la diplomacia espacial y la regulación \; el us
- o dual del espacio y la protección de activos críticos para la defensa 
- \; los desechos espaciales\, la reentrada y sus estándares \; y una mesa 
- jurídica sobre sostenibilidad\, inteligencia artificial\, diplomacia\, pr
- opiedad intelectual\, contratos y seguros. El último panel está previsto
-  de 15:45 a 17:00 h. Programa del viernes 2 de octubre La segunda jornada 
- comienza a las 09:30 h y aborda lanzamientos y seguros \, el análisis jur
- ídico del EU Space Act \, la exploración lunar y el papel de Tres Cantos
-  como polo empresarial espacial . La clausura oficial figura a las 14:15 h
-  del viernes 2 de octubre . El congreso se celebra en el Centro Cultural A
- dolfo Suárez\, Plaza del Ayuntamiento\, 2\, 28760 Tres Cantos (Madrid) . 
- La organización advierte de que el programa puede sufrir modificaciones. 
- La entrada requiere inscripción gratuita mediante el formulario enlazado 
- desde la web de AEDAE. Programa oficial completo Formulario de inscripció
- n gratuita Programa del jueves 1 de octubre La primera jornada comienza a 
- las 09:30 h con la bienvenida e inauguración. Sus mesas tratan la diploma
- cia espacial y la regulación \; el uso dual del espacio y la protección 
- de activos críticos para la defensa \; los desechos espaciales\, la reent
- rada y sus estándares \; y una mesa jurídica sobre sostenibilidad\, inte
- ligencia artificial\, diplomacia\, propiedad intelectual\, contratos y seg
- uros. El último panel está previsto de 15:45 a 17:00 h. Programa del vie
- rnes 2 de octubre La segunda jornada comienza a las 09:30 h y aborda lanza
- mientos y seguros \, el análisis jurídico del EU Space Act \, la explora
- ción lunar y el papel de Tres Cantos como polo empresarial espacial . La 
- clausura oficial figura a las 14:15 h del viernes 2 de octubre . El congre
- so se celebra en el Centro Cultural Adolfo Suárez\, Plaza del Ayuntamient
- o\, 2\, 28760 Tres Cantos (Madrid) . La organización advierte de que el p
- rograma puede sufrir modificaciones. La entrada requiere inscripción grat
- uita mediante el formulario enlazado desde la web de AEDAE. Programa ofici
- al completo Formulario de inscripción gratuita\n\nFuente: https://www.pre
- paraulm.com/eventos-aeronauticos/vi-congreso-juridico-espacial-2026
-LOCATION:Centro Cultural Adolfo Suárez\, Plaza del Ayuntamiento 2\, 28760
-  Tres Cantos\, Madrid
-URL:https://www.preparaulm.com/eventos-aeronauticos/vi-congreso-juridico-e
- spacial-2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Octubre 2026
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
-DTSTAMP:20261002T114901Z
+DTSTAMP:20261002T220511Z
 UID:f45af605f415b315d4fe@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans (FIO) celebra su exhibición aérea de octubre en el Aeródromo de Cu
@@ -168,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:BNEW 2026 — Aviation & Space
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261008
-DTSTAMP:20261002T114901Z
+DTSTAMP:20261002T220511Z
 UID:a9cc86e4f7d87275088c@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nBarcelona New Economy Week (
  BNEW) reúne del 5 al 7 de octubre de 2026 en DFactory Barcelona a profesi
@@ -273,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Desfile aéreo de la Fiesta Nacional 2026 — Madrid
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-DTSTAMP:20261002T114901Z
+DTSTAMP:20261002T220511Z
 UID:3df652a21ded684134b9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl lunes 12 de octubre de 20
  26\, Madrid acoge el desfile aéreo de la Fiesta Nacional. Forma parte de 
@@ -515,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Aero Talent Day 2026
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261002T114901Z
+DTSTAMP:20261002T220511Z
 UID:925d92a9fee62e1c398f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAero Talent Day es la primer
  a feria de empleo en España centrada exclusivamente en perfiles del ecosi
@@ -606,7 +528,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261002T114901Z
+DTSTAMP:20261002T220511Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -685,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261002T114901Z
+DTSTAMP:20261002T220511Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -775,7 +697,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261002T114901Z
+DTSTAMP:20261002T220511Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -859,7 +781,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261002T114901Z
+DTSTAMP:20261002T220511Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
