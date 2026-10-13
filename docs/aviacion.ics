@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Aero Talent Day 2026
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261013T132835Z
+DTSTAMP:20261013T223435Z
 UID:925d92a9fee62e1c398f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAero Talent Day es la primer
  a feria de empleo en España centrada exclusivamente en perfiles del ecosi
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261013T132835Z
+DTSTAMP:20261013T223435Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -179,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261013T132835Z
+DTSTAMP:20261013T223435Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -269,7 +269,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261013T132835Z
+DTSTAMP:20261013T223435Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -353,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261013T132835Z
+DTSTAMP:20261013T223435Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
