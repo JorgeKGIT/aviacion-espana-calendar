@@ -6,10 +6,77 @@ METHOD:PUBLISH
 X-WR-CALNAME:Eventos de Aviación en España
 X-WR-TIMEZONE:Europe/Madrid
 BEGIN:VEVENT
+SUMMARY:Grandes Vuelos de la Aviación Española 1926–1935 — Ourense
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261014T213249Z
+UID:eebbb336424989abba47@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Centro Cultural José Án
+ gel Valente acoge del 16 al 31 de octubre de 2026 la exposición Grandes V
+ uelos de la Aviación Española\, 1926–1935. La inauguración del día 1
+ 6 incluye un homenaje previo en la Subdelegación de Defensa y una visita 
+ guiada a la exposición junto a su comisario\, el general Jorge Clavero. E
+ l Centro Cultural José Ángel Valente acoge del 16 al 31 de octubre de 20
+ 26 la exposición Grandes Vuelos de la Aviación Española\, 1926–1935. 
+ La inauguración del día 16 incluye un homenaje previo en la Subdelegaci
+ ón de Defensa y una visita guiada a la exposición junto a su comisario\,
+  el general Jorge Clavero. El Centro Cultural José Ángel Valente acoge d
+ el 16 al 31 de octubre de 2026 la exposición Grandes Vuelos de la Aviaci
+ ón Española\, 1926–1935. La inauguración del día 16 incluye un homen
+ aje previo en la Subdelegación de Defensa y una visita guiada a la exposi
+ ción junto a su comisario\, el general Jorge Clavero. La exposición Una 
+ propuesta de divulgación histórica dedicada a los grandes vuelos de la a
+ viación española de 1926 a 1935\, dentro de la conmemoración de su cent
+ enario. Fechas y lugar Del 16 al 31 de octubre de 2026 \, en el Centro Cul
+ tural José Ángel Valente \, Rúa do Paseo 20\, Ourense. Programa inaugur
+ al · 16 de octubre 12:00: homenaje a los pioneros de la aviación españo
+ la y recuerdo a los ourensanos precursores de los primeros vuelos. Incluye
+  izado de bandera y homenaje a los caídos en la Subdelegación de Defensa
+  \, Rúa do Paseo 35. 12:30: inauguración en el Centro Cultural José Án
+ gel Valente \, Rúa do Paseo 20\, seguida de una visita guiada con el comi
+ sario\, el general Jorge Clavero. Información práctica Los horarios del 
+ programa corresponden exclusivamente al acto inaugural del 16 de octubre\,
+  no al horario habitual de apertura de la exposición. No se han confirmad
+ o los horarios diarios\, la tarifa o gratuidad ni si los actos inaugurales
+  requieren invitación o reserva. La exposición Una propuesta de divulgac
+ ión histórica dedicada a los grandes vuelos de la aviación española de
+  1926 a 1935\, dentro de la conmemoración de su centenario. Fechas y luga
+ r Del 16 al 31 de octubre de 2026 \, en el Centro Cultural José Ángel Va
+ lente \, Rúa do Paseo 20\, Ourense. Programa inaugural · 16 de octubre 1
+ 2:00: homenaje a los pioneros de la aviación española y recuerdo a los o
+ urensanos precursores de los primeros vuelos. Incluye izado de bandera y h
+ omenaje a los caídos en la Subdelegación de Defensa \, Rúa do Paseo 35.
+  12:30: inauguración en el Centro Cultural José Ángel Valente \, Rúa d
+ o Paseo 20\, seguida de una visita guiada con el comisario\, el general Jo
+ rge Clavero. Información práctica Los horarios del programa corresponden
+  exclusivamente al acto inaugural del 16 de octubre\, no al horario habitu
+ al de apertura de la exposición. No se han confirmado los horarios diario
+ s\, la tarifa o gratuidad ni si los actos inaugurales requieren invitació
+ n o reserva. La exposición Una propuesta de divulgación histórica dedic
+ ada a los grandes vuelos de la aviación española de 1926 a 1935\, dentro
+  de la conmemoración de su centenario. Fechas y lugar Del 16 al 31 de oct
+ ubre de 2026 \, en el Centro Cultural José Ángel Valente \, Rúa do Pase
+ o 20\, Ourense. Programa inaugural · 16 de octubre 12:00: homenaje a los 
+ pioneros de la aviación española y recuerdo a los ourensanos precursores
+  de los primeros vuelos. Incluye izado de bandera y homenaje a los caídos
+  en la Subdelegación de Defensa \, Rúa do Paseo 35. 12:30: inauguración
+  en el Centro Cultural José Ángel Valente \, Rúa do Paseo 20\, seguida 
+ de una visita guiada con el comisario\, el general Jorge Clavero. Informac
+ ión práctica Los horarios del programa corresponden exclusivamente al ac
+ to inaugural del 16 de octubre\, no al horario habitual de apertura de la 
+ exposición. No se han confirmado los horarios diarios\, la tarifa o gratu
+ idad ni si los actos inaugurales requieren invitación o reserva.\n\nFuent
+ e: https://www.preparaulm.com/eventos-aeronauticos/exposicion-grandes-vuel
+ os-ourense-2026
+LOCATION:Centro Cultural José Ángel Valente\, Rúa do Paseo 20\, Ourense
+URL:https://www.preparaulm.com/eventos-aeronauticos/exposicion-grandes-vue
+ los-ourense-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Aero Talent Day 2026
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
-DTSTAMP:20261014T110622Z
+DTSTAMP:20261014T213249Z
 UID:925d92a9fee62e1c398f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAero Talent Day es la primer
  a feria de empleo en España centrada exclusivamente en perfiles del ecosi
@@ -97,10 +164,120 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/aero-talent-day-madrid
  -2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OPEN STOL Torremocha 2026
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261014T213249Z
+UID:4eb9a3043e6eaada4ea4@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nAmilpies organiza OPEN STOL 
+ los días 23 y 24 de octubre de 2026 en el aeródromo municipal de Torremo
+ cha del Jiloca\, Teruel. Es una actividad no competitiva de despegues y at
+ errizajes cortos. Amilpies organiza OPEN STOL los días 23 y 24 de octubre
+  de 2026 en el aeródromo municipal de Torremocha del Jiloca\, Teruel. Es 
+ una actividad no competitiva de despegues y aterrizajes cortos. Amilpies o
+ rganiza OPEN STOL los días 23 y 24 de octubre de 2026 en el aeródromo mu
+ nicipal de Torremocha del Jiloca\, Teruel. Es una actividad no competitiva
+  de despegues y aterrizajes cortos. Encuentro de aviación ligera OPEN STO
+ L reúne a pilotos\, acompañantes y espectadores en torno a los despegues
+  y aterrizajes cortos. Amilpies presenta la actividad como una prueba de c
+ arácter no competitivo. Programa El viernes 23 se prevé la llegada de pa
+ rticipantes por la tarde. El sábado 24 concentra la actividad: 08:00–10
+ :00: llegadas. 10:30: briefing. 11:00: comienzo de la prueba. 14:30: comid
+ a. 16:45: entrega de premios\, seguida de vuelos locales y despedida. Insc
+ ripción y tarifa La reserva mediante el formulario oficial debe completar
+ se antes del miércoles 21 de octubre a las 20:00 . La tarifa es de 40 €
+  por persona \, también para acompañantes y espectadores. Incluye comida
+ \, sorteo\, recuerdo\, tasas y participación opcional en la prueba. Servi
+ cios Se permite acampar en el aeródromo. Habrá bar de bebidas\; el aeroc
+ lub no coordina traslados a alojamientos. Encuentro de aviación ligera OP
+ EN STOL reúne a pilotos\, acompañantes y espectadores en torno a los des
+ pegues y aterrizajes cortos. Amilpies presenta la actividad como una prueb
+ a de carácter no competitivo. Programa El viernes 23 se prevé la llegada
+  de participantes por la tarde. El sábado 24 concentra la actividad: 08:0
+ 0–10:00: llegadas. 10:30: briefing. 11:00: comienzo de la prueba. 14:30:
+  comida. 16:45: entrega de premios\, seguida de vuelos locales y despedida
+ . Inscripción y tarifa La reserva mediante el formulario oficial debe com
+ pletarse antes del miércoles 21 de octubre a las 20:00 . La tarifa es de 
+ 40 € por persona \, también para acompañantes y espectadores. Incluye 
+ comida\, sorteo\, recuerdo\, tasas y participación opcional en la prueba.
+  Servicios Se permite acampar en el aeródromo. Habrá bar de bebidas\; el
+  aeroclub no coordina traslados a alojamientos. Encuentro de aviación lig
+ era OPEN STOL reúne a pilotos\, acompañantes y espectadores en torno a l
+ os despegues y aterrizajes cortos. Amilpies presenta la actividad como una
+  prueba de carácter no competitivo. Programa El viernes 23 se prevé la l
+ legada de participantes por la tarde. El sábado 24 concentra la actividad
+ : 08:00–10:00: llegadas. 10:30: briefing. 11:00: comienzo de la prueba. 
+ 14:30: comida. 16:45: entrega de premios\, seguida de vuelos locales y des
+ pedida. Inscripción y tarifa La reserva mediante el formulario oficial de
+ be completarse antes del miércoles 21 de octubre a las 20:00 . La tarifa 
+ es de 40 € por persona \, también para acompañantes y espectadores. In
+ cluye comida\, sorteo\, recuerdo\, tasas y participación opcional en la p
+ rueba. Servicios Se permite acampar en el aeródromo. Habrá bar de bebida
+ s\; el aeroclub no coordina traslados a alojamientos.\n\nFuente: https://w
+ ww.preparaulm.com/eventos-aeronauticos/open-stol-torremocha-2026
+LOCATION:Aeródromo municipal de Torremocha del Jiloca\, Teruel
+URL:https://www.preparaulm.com/eventos-aeronauticos/open-stol-torremocha-2
+ 026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SKYPOLARIS — La vuelta al mundo por los polos\, con Michel Gordi
+ llo
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+DTSTAMP:20261014T213249Z
+UID:2d3fa57999eed161caa1@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 31 de octubre de 
+ 2026\, a las 12:00\, Michel Gordillo impartirá la conferencia SKYPOLARIS:
+  La vuelta al mundo por los polos en el Museo de Aeronáutica y Astronáut
+ ica\, en Cuatro Vientos\, Madrid. Una cita dedicada a una aventura de vuel
+ o en avión experimental por las regiones polares. El sábado 31 de octubr
+ e de 2026\, a las 12:00\, Michel Gordillo impartirá la conferencia SKYPOL
+ ARIS: La vuelta al mundo por los polos en el Museo de Aeronáutica y Astro
+ náutica\, en Cuatro Vientos\, Madrid. Una cita dedicada a una aventura de
+  vuelo en avión experimental por las regiones polares. El sábado 31 de o
+ ctubre de 2026\, a las 12:00\, Michel Gordillo impartirá la conferencia S
+ KYPOLARIS: La vuelta al mundo por los polos en el Museo de Aeronáutica y 
+ Astronáutica\, en Cuatro Vientos\, Madrid. Una cita dedicada a una aventu
+ ra de vuelo en avión experimental por las regiones polares. La conferenci
+ a Michel Gordillo protagoniza esta sesión sobre SKYPOLARIS\, su proyecto 
+ de vuelta al mundo por los polos. La misión combina aviación experimenta
+ l con investigación sobre partículas de carbono negro en la atmósfera. 
+ Fecha y lugar Sábado 31 de octubre de 2026. Inicio: 12:00. Museo de Aeron
+ áutica y Astronáutica \, Cuatro Vientos\, Madrid. Cómo llegar La web of
+ icial del museo indica el acceso desde la autovía A-5\, en sentido Madrid
+ \, en el kilómetro 10\,700. Acceso a la conferencia La fecha\, hora y pon
+ ente figuran en el cartel de la convocatoria. No se han confirmado tarifa
+ \, reserva previa ni aforo para esta sesión\; conviene consultar con el m
+ useo antes de acudir. La conferencia Michel Gordillo protagoniza esta sesi
+ ón sobre SKYPOLARIS\, su proyecto de vuelta al mundo por los polos. La mi
+ sión combina aviación experimental con investigación sobre partículas 
+ de carbono negro en la atmósfera. Fecha y lugar Sábado 31 de octubre de 
+ 2026. Inicio: 12:00. Museo de Aeronáutica y Astronáutica \, Cuatro Vient
+ os\, Madrid. Cómo llegar La web oficial del museo indica el acceso desde 
+ la autovía A-5\, en sentido Madrid\, en el kilómetro 10\,700. Acceso a l
+ a conferencia La fecha\, hora y ponente figuran en el cartel de la convoca
+ toria. No se han confirmado tarifa\, reserva previa ni aforo para esta ses
+ ión\; conviene consultar con el museo antes de acudir. La conferencia Mic
+ hel Gordillo protagoniza esta sesión sobre SKYPOLARIS\, su proyecto de vu
+ elta al mundo por los polos. La misión combina aviación experimental con
+  investigación sobre partículas de carbono negro en la atmósfera. Fecha
+  y lugar Sábado 31 de octubre de 2026. Inicio: 12:00. Museo de Aeronáuti
+ ca y Astronáutica \, Cuatro Vientos\, Madrid. Cómo llegar La web oficial
+  del museo indica el acceso desde la autovía A-5\, en sentido Madrid\, en
+  el kilómetro 10\,700. Acceso a la conferencia La fecha\, hora y ponente 
+ figuran en el cartel de la convocatoria. No se han confirmado tarifa\, res
+ erva previa ni aforo para esta sesión\; conviene consultar con el museo a
+ ntes de acudir.\n\nFuente: https://www.preparaulm.com/eventos-aeronauticos
+ /skypolaris-michel-gordillo-museo-aire-2026
+LOCATION:Museo de Aeronáutica y Astronáutica\, Cuatro Vientos\, Madrid
+URL:https://www.preparaulm.com/eventos-aeronauticos/skypolaris-michel-gord
+ illo-museo-aire-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261014T110622Z
+DTSTAMP:20261014T213249Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -179,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261014T110622Z
+DTSTAMP:20261014T213249Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -269,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261014T110622Z
+DTSTAMP:20261014T213249Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -353,7 +530,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261014T110622Z
+DTSTAMP:20261014T213249Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
