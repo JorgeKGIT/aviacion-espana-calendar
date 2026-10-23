@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Grandes Vuelos de la Aviación Española 1926–1935 — Ourense
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:eebbb336424989abba47@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Centro Cultural José Án
  gel Valente acoge del 16 al 31 de octubre de 2026 la exposición Grandes V
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:OPEN STOL Torremocha 2026
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:4eb9a3043e6eaada4ea4@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nAmilpies organiza OPEN STOL 
  los días 23 y 24 de octubre de 2026 en el aeródromo municipal de Torremo
@@ -212,7 +212,7 @@ SUMMARY:Visita a las instalaciones de la Asociación Jacob 52 (AAE) — Ca
  sarrubios del Monte
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:e2959514067f46665375@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 24 de octubre de 
  2026 \, de 11:00 a 13:00 \, la AAE (Asociación de Aviación Experimental)
@@ -446,11 +446,206 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/visita-aae-jacob52-cas
  arrubios-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:XI Jornada Aérea de Villanueva del Trabuco — Aeródromo Jupamo
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261023T105730Z
+UID:acc9e5e8671bc4efda13@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 25 de octubre de 
+ 2026 el Aeródromo Jupamo de Villanueva del Trabuco (Málaga) celebra su X
+ I Jornada Aérea \, organizada por Aero Jupamo . Desde las 09:00 hay vuelo
+  inaugural de apoyo contra el cáncer\, vuelos de ultraligeros y parapente
+ s\, radiocontrol y drones\, llegada de aviones de otros aeródromos\, conf
+ erencia aeronáutica\, almuerzo de confraternidad y\, por la tarde\, vuelo
+ s de despedida y bautismos del aire . Son vuelos sin exhibición y la jorn
+ ada puede suspenderse si la meteorología es adversa. El domingo 25 de oct
+ ubre de 2026 el Aeródromo Jupamo de Villanueva del Trabuco (Málaga) cele
+ bra su XI Jornada Aérea \, organizada por Aero Jupamo . Desde las 09:00 h
+ ay vuelo inaugural de apoyo contra el cáncer\, vuelos de ultraligeros y p
+ arapentes\, radiocontrol y drones\, llegada de aviones de otros aeródromo
+ s\, conferencia aeronáutica\, almuerzo de confraternidad y\, por la tarde
+ \, vuelos de despedida y bautismos del aire . Son vuelos sin exhibición y
+  la jornada puede suspenderse si la meteorología es adversa. El domingo 2
+ 5 de octubre de 2026 el Aeródromo Jupamo de Villanueva del Trabuco (Mála
+ ga) celebra su XI Jornada Aérea \, organizada por Aero Jupamo . domingo 2
+ 5 de octubre de 2026 Aeródromo Jupamo Villanueva del Trabuco (Málaga) XI
+  Jornada Aérea Aero Jupamo Desde las 09:00 hay vuelo inaugural de apoyo c
+ ontra el cáncer\, vuelos de ultraligeros y parapentes\, radiocontrol y dr
+ ones\, llegada de aviones de otros aeródromos\, conferencia aeronáutica
+ \, almuerzo de confraternidad y\, por la tarde\, vuelos de despedida y bau
+ tismos del aire . Son vuelos sin exhibición y la jornada puede suspenders
+ e si la meteorología es adversa. 09:00 bautismos del aire vuelos sin exhi
+ bición La jornada La XI Jornada Aérea de Villanueva del Trabuco se celeb
+ ra el domingo 25 de octubre de 2026 en el Aeródromo Jupamo \, el campo de
+  vuelo del Trabuco\, a las afueras del pueblo\, en la comarca de Nororma (
+ Málaga). La organiza Aero Jupamo \, con el apoyo del Ayuntamiento de Vill
+ anueva del Trabuco . Es una cita ya veterana en el calendario aeronáutico
+  malagueño: una jornada de puertas abiertas de ultraligeros\, parapentes
+ \, aeromodelos de radiocontrol y drones . Recibe aviones de otros aeródro
+ mos y ofrece bautismos del aire\, una conferencia aeronáutica y un almuer
+ zo de confraternidad. Está pensada tanto para pilotos como para vecinos\,
+  familias y aficionados que quieran ver de cerca el día a día de un camp
+ o de vuelo. Programa 09:00 · Vuelo inaugural de apoyo contra el cáncer y
+  visita al pueblo. 09:15 · Asignación de cargos. 09:30 · Vuelos de ultr
+ aligeros y parapentes. 10:30 · Vuelos de radiocontrol y drones. 11:30 · 
+ Llegada y aterrizaje de aviones de otros aeródromos. 13:30 · Conferencia
+  aeronáutica y bienvenida a los asistentes. 14:00 · Almuerzo de confrate
+ rnidad y entrega de recuerdo. 16:30 · Vuelos de despedida y bautismos del
+  aire. Vuelos sin exhibición (art. 54) El cartel oficial indica «Vuelos 
+ sin exhibición. Art. 54» . Significa que la jornada no es un festival a
+ éreo con vuelos de exhibición : la actividad en el aire consiste en los 
+ vuelos del programa (vuelo inaugural\, vuelos de ultraligeros\, parapentes
+ \, radiocontrol y drones\, llegada de aviones visitantes\, vuelos de despe
+ dida y bautismos del aire)\, no en un espectáculo de exhibiciones. Meteor
+ ología Según la organización\, el evento aéreo puede suspenderse por m
+ eteorología adversa\, a juicio del jefe de vuelo . Conviene consultar con
+  el aeródromo antes de desplazarse si la previsión es dudosa. Bautismos 
+ del aire y almuerzo La jornada se cierra por la tarde con vuelos de desped
+ ida y bautismos del aire \, una buena ocasión para subir a bordo de un ul
+ traligero por primera vez. A las 14:00 hay un almuerzo de confraternidad c
+ on entrega de recuerdo. El organizador todavía no ha publicado el precio 
+ de los bautismos ni del almuerzo\, ni si es necesario reservar. Volar hast
+ a el Trabuco El programa reserva las 11:30 para la llegada de aviones de o
+ tros aeródromos . Datos del campo publicados por el propio aeródromo: Pi
+ sta de tierra de aproximadamente 350 m \, orientación 03/21 . Radio: 130.
+ 125 MHz. Coordenadas: N 37° 03\,8' · W 004° 19\,8'. Combustible: gasoli
+ nera cercana. El campo está autorizado por Aviación Civil. Para la infor
+ mación oficial hay que remitirse a las publicaciones aeronáuticas\, y es
+  recomendable avisar al aeródromo antes de venir. Todavía no se ha publi
+ cado si los aviones visitantes deben inscribirse previamente. Cómo llegar
+  El Aeródromo Jupamo está en la MA-4100\, 29313 Villanueva del Trabuco 
+ \, a unos 50 km del centro de Málaga (una media hora en coche) por la aut
+ ovía Málaga–Granada (A-92M)\, salida 7 . Hay restaurante y hotel a poc
+ a distancia a pie del campo. Ediciones anteriores La jornada se celebra de
+ sde hace años en otoño. En la IV edición (26 de octubre de 2019) reuni
+ ó a cientos de aficionados y profesionales con vuelos de ultraligeros y a
+ utogiros\, demostraciones de drones y radiocontrol y una charla de bienven
+ ida en el hangar. Galería Las fotos de la galería corresponden a la IV J
+ ornada Aérea (octubre de 2019): la plataforma y el hangar del aeródromo
+ \, un helicóptero de radiocontrol\, un ultraligero en vuelo y un paramoto
+ r preparándose para despegar. Fotos: Ayuntamiento de Villanueva del Trabu
+ co (publicadas por Las 4 Esquinas). Contacto Correo: [email protected] Web
+ : jupamo.es Fuentes Las 4 Esquinas: «Villanueva del Trabuco reúne a cien
+ tos de personas en las IV Jornadas Aéreas» (2019) Iremos actualizando la
+  información a medida que el organizador la publique. La jornada La XI Jo
+ rnada Aérea de Villanueva del Trabuco se celebra el domingo 25 de octubre
+  de 2026 en el Aeródromo Jupamo \, el campo de vuelo del Trabuco\, a las 
+ afueras del pueblo\, en la comarca de Nororma (Málaga). La organiza Aero 
+ Jupamo \, con el apoyo del Ayuntamiento de Villanueva del Trabuco . Es una
+  cita ya veterana en el calendario aeronáutico malagueño: una jornada de
+  puertas abiertas de ultraligeros\, parapentes\, aeromodelos de radiocontr
+ ol y drones . Recibe aviones de otros aeródromos y ofrece bautismos del a
+ ire\, una conferencia aeronáutica y un almuerzo de confraternidad. Está 
+ pensada tanto para pilotos como para vecinos\, familias y aficionados que 
+ quieran ver de cerca el día a día de un campo de vuelo. Programa 09:00 
+ · Vuelo inaugural de apoyo contra el cáncer y visita al pueblo. 09:15 ·
+  Asignación de cargos. 09:30 · Vuelos de ultraligeros y parapentes. 10:3
+ 0 · Vuelos de radiocontrol y drones. 11:30 · Llegada y aterrizaje de avi
+ ones de otros aeródromos. 13:30 · Conferencia aeronáutica y bienvenida 
+ a los asistentes. 14:00 · Almuerzo de confraternidad y entrega de recuerd
+ o. 16:30 · Vuelos de despedida y bautismos del aire. Vuelos sin exhibici
+ ón (art. 54) El cartel oficial indica «Vuelos sin exhibición. Art. 54»
+  . Significa que la jornada no es un festival aéreo con vuelos de exhibic
+ ión : la actividad en el aire consiste en los vuelos del programa (vuelo 
+ inaugural\, vuelos de ultraligeros\, parapentes\, radiocontrol y drones\, 
+ llegada de aviones visitantes\, vuelos de despedida y bautismos del aire)
+ \, no en un espectáculo de exhibiciones. Meteorología Según la organiza
+ ción\, el evento aéreo puede suspenderse por meteorología adversa\, a j
+ uicio del jefe de vuelo . Conviene consultar con el aeródromo antes de de
+ splazarse si la previsión es dudosa. Bautismos del aire y almuerzo La jor
+ nada se cierra por la tarde con vuelos de despedida y bautismos del aire 
+ \, una buena ocasión para subir a bordo de un ultraligero por primera vez
+ . A las 14:00 hay un almuerzo de confraternidad con entrega de recuerdo. E
+ l organizador todavía no ha publicado el precio de los bautismos ni del a
+ lmuerzo\, ni si es necesario reservar. Volar hasta el Trabuco El programa 
+ reserva las 11:30 para la llegada de aviones de otros aeródromos . Datos 
+ del campo publicados por el propio aeródromo: Pista de tierra de aproxima
+ damente 350 m \, orientación 03/21 . Radio: 130.125 MHz. Coordenadas: N 3
+ 7° 03\,8' · W 004° 19\,8'. Combustible: gasolinera cercana. El campo es
+ tá autorizado por Aviación Civil. Para la información oficial hay que r
+ emitirse a las publicaciones aeronáuticas\, y es recomendable avisar al a
+ eródromo antes de venir. Todavía no se ha publicado si los aviones visit
+ antes deben inscribirse previamente. Cómo llegar El Aeródromo Jupamo est
+ á en la MA-4100\, 29313 Villanueva del Trabuco \, a unos 50 km del centro
+  de Málaga (una media hora en coche) por la autovía Málaga–Granada (A
+ -92M)\, salida 7 . Hay restaurante y hotel a poca distancia a pie del camp
+ o. Ediciones anteriores La jornada se celebra desde hace años en otoño. 
+ En la IV edición (26 de octubre de 2019) reunió a cientos de aficionados
+  y profesionales con vuelos de ultraligeros y autogiros\, demostraciones d
+ e drones y radiocontrol y una charla de bienvenida en el hangar. Galería 
+ Las fotos de la galería corresponden a la IV Jornada Aérea (octubre de 2
+ 019): la plataforma y el hangar del aeródromo\, un helicóptero de radioc
+ ontrol\, un ultraligero en vuelo y un paramotor preparándose para despega
+ r. Fotos: Ayuntamiento de Villanueva del Trabuco (publicadas por Las 4 Esq
+ uinas). Contacto Correo: [email protected] Web: jupamo.es Fuentes Las 4 Es
+ quinas: «Villanueva del Trabuco reúne a cientos de personas en las IV Jo
+ rnadas Aéreas» (2019) Iremos actualizando la información a medida que e
+ l organizador la publique. La jornada La XI Jornada Aérea de Villanueva d
+ el Trabuco se celebra el domingo 25 de octubre de 2026 en el Aeródromo Ju
+ pamo \, el campo de vuelo del Trabuco\, a las afueras del pueblo\, en la c
+ omarca de Nororma (Málaga). La organiza Aero Jupamo \, con el apoyo del A
+ yuntamiento de Villanueva del Trabuco . Es una cita ya veterana en el cale
+ ndario aeronáutico malagueño: una jornada de puertas abiertas de ultrali
+ geros\, parapentes\, aeromodelos de radiocontrol y drones . Recibe aviones
+  de otros aeródromos y ofrece bautismos del aire\, una conferencia aeron
+ áutica y un almuerzo de confraternidad. Está pensada tanto para pilotos 
+ como para vecinos\, familias y aficionados que quieran ver de cerca el dí
+ a a día de un campo de vuelo. Programa 09:00 · Vuelo inaugural de apoyo 
+ contra el cáncer y visita al pueblo. 09:15 · Asignación de cargos. 09:3
+ 0 · Vuelos de ultraligeros y parapentes. 10:30 · Vuelos de radiocontrol 
+ y drones. 11:30 · Llegada y aterrizaje de aviones de otros aeródromos. 1
+ 3:30 · Conferencia aeronáutica y bienvenida a los asistentes. 14:00 · A
+ lmuerzo de confraternidad y entrega de recuerdo. 16:30 · Vuelos de desped
+ ida y bautismos del aire. Vuelos sin exhibición (art. 54) El cartel ofici
+ al indica «Vuelos sin exhibición. Art. 54» . Significa que la jornada n
+ o es un festival aéreo con vuelos de exhibición : la actividad en el air
+ e consiste en los vuelos del programa (vuelo inaugural\, vuelos de ultrali
+ geros\, parapentes\, radiocontrol y drones\, llegada de aviones visitantes
+ \, vuelos de despedida y bautismos del aire)\, no en un espectáculo de ex
+ hibiciones. Meteorología Según la organización\, el evento aéreo puede
+  suspenderse por meteorología adversa\, a juicio del jefe de vuelo . Conv
+ iene consultar con el aeródromo antes de desplazarse si la previsión es 
+ dudosa. Bautismos del aire y almuerzo La jornada se cierra por la tarde co
+ n vuelos de despedida y bautismos del aire \, una buena ocasión para subi
+ r a bordo de un ultraligero por primera vez. A las 14:00 hay un almuerzo d
+ e confraternidad con entrega de recuerdo. El organizador todavía no ha pu
+ blicado el precio de los bautismos ni del almuerzo\, ni si es necesario re
+ servar. Volar hasta el Trabuco El programa reserva las 11:30 para la llega
+ da de aviones de otros aeródromos . Datos del campo publicados por el pro
+ pio aeródromo: Pista de tierra de aproximadamente 350 m \, orientación 0
+ 3/21 . Radio: 130.125 MHz. Coordenadas: N 37° 03\,8' · W 004° 19\,8'. C
+ ombustible: gasolinera cercana. El campo está autorizado por Aviación Ci
+ vil. Para la información oficial hay que remitirse a las publicaciones ae
+ ronáuticas\, y es recomendable avisar al aeródromo antes de venir. Todav
+ ía no se ha publicado si los aviones visitantes deben inscribirse previam
+ ente. Cómo llegar El Aeródromo Jupamo está en la MA-4100\, 29313 Villan
+ ueva del Trabuco \, a unos 50 km del centro de Málaga (una media hora en 
+ coche) por la autovía Málaga–Granada (A-92M)\, salida 7 . Hay restaura
+ nte y hotel a poca distancia a pie del campo. Ediciones anteriores La jorn
+ ada se celebra desde hace años en otoño. En la IV edición (26 de octubr
+ e de 2019) reunió a cientos de aficionados y profesionales con vuelos de 
+ ultraligeros y autogiros\, demostraciones de drones y radiocontrol y una c
+ harla de bienvenida en el hangar. Galería Las fotos de la galería corres
+ ponden a la IV Jornada Aérea (octubre de 2019): la plataforma y el hangar
+  del aeródromo\, un helicóptero de radiocontrol\, un ultraligero en vuel
+ o y un paramotor preparándose para despegar. Fotos: Ayuntamiento de Villa
+ nueva del Trabuco (publicadas por Las 4 Esquinas). Contacto Correo: [email
+  protected] Web: jupamo.es Fuentes Las 4 Esquinas: «Villanueva del Trabuc
+ o reúne a cientos de personas en las IV Jornadas Aéreas» (2019) Iremos 
+ actualizando la información a medida que el organizador la publique.\n\nF
+ uente: https://www.preparaulm.com/eventos-aeronauticos/xi-jornada-aerea-vi
+ llanueva-del-trabuco-2026
+LOCATION:Aeródromo Jupamo (campo de vuelo del Trabuco)\, Villanueva del T
+ rabuco\, Málaga
+URL:https://www.preparaulm.com/eventos-aeronauticos/xi-jornada-aerea-villa
+ nueva-del-trabuco-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SKYPOLARIS — La vuelta al mundo por los polos\, con Michel Gordi
  llo
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:2d3fa57999eed161caa1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 31 de octubre de 
  2026\, a las 12:00\, Michel Gordillo impartirá la conferencia SKYPOLARIS:
@@ -503,7 +698,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -583,7 +778,7 @@ SUMMARY:PAC Obert — Jornada de puertas abiertas en el Aeropuerto de Saba
  dell (noviembre 2026)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:3ba46573bec98e919dd5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 15 de noviembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya (FPAC) abre su plataform
@@ -710,10 +905,161 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/pac-obert-sabadell-nov
  iembre-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:7a Trobada de Tardor de Airbet — Aeròdrom d'Avinyonet del Pened
+ ès
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DTSTAMP:20261023T105730Z
+UID:cc4fd4f90097ed8d102a@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 21 de noviembre d
+ e 2026 Airbet celebra la 7a Trobada de Tardor en el Aeròdrom d'Avinyonet 
+ del Penedès (Alt Penedès\, Barcelona). La jornada incluye pruebas de des
+ pegue y aterrizaje de precisión \, una prueba de navegación encubierta 
+ \, aeromodelismo y una comida a 15 € por persona con reserva previa. Un 
+ plan de otoño entre viñedos para pilotos de ULM y aficionados. El sábad
+ o 21 de noviembre de 2026 Airbet celebra la 7a Trobada de Tardor en el Aer
+ òdrom d'Avinyonet del Penedès (Alt Penedès\, Barcelona). La jornada inc
+ luye pruebas de despegue y aterrizaje de precisión \, una prueba de naveg
+ ación encubierta \, aeromodelismo y una comida a 15 € por persona con r
+ eserva previa. Un plan de otoño entre viñedos para pilotos de ULM y afic
+ ionados. El sábado 21 de noviembre de 2026 Airbet celebra la 7a Trobada d
+ e Tardor en el Aeròdrom d'Avinyonet del Penedès (Alt Penedès\, Barcelon
+ a). sábado 21 de noviembre de 2026 Airbet 7a Trobada de Tardor Aeròdrom 
+ d'Avinyonet del Penedès La jornada incluye pruebas de despegue y aterriza
+ je de precisión \, una prueba de navegación encubierta \, aeromodelismo 
+ y una comida a 15 € por persona con reserva previa. Un plan de otoño en
+ tre viñedos para pilotos de ULM y aficionados. pruebas de despegue y ater
+ rizaje de precisión navegación encubierta aeromodelismo comida a 15 € 
+ por persona La trobada Airbet \, escuela de vuelo y centro de servicios ae
+ ronáuticos del Aeròdrom d'Avinyonet del Penedès \, celebra el sábado 2
+ 1 de noviembre de 2026 su 7a Trobada de Tardor \, el encuentro de otoño q
+ ue reúne en el campo a pilotos\, socios y aficionados a la aviación lige
+ ra. Es un encuentro de aviación deportiva en ambiente de club\, con prueb
+ as de pilotaje y navegación\, aeromodelismo y una comida de hermandad\, e
+ n un aeródromo rodeado de viñedos y a pocos minutos de vuelo del mar y d
+ e Montserrat. Actividades Según el cartel oficial\, la jornada incluye: E
+ nlairaments i aterratges de precisió (despegues y aterrizajes de precisi
+ ón)\, pruebas de pilotaje en las que se valora la exactitud del despegue 
+ y la toma de tierra. Navegació encoberta (navegación encubierta)\, una p
+ rueba de navegación aérea. Aeromodelisme \, con aeromodelos en el campo.
+  El organizador todavía no ha publicado el horario detallado ni las bases
+  de las pruebas. Dinar Hay comida (dinar) a 15 € por persona \, con rese
+ rva previa . Las reservas se hacen por los canales de contacto de Airbet (
+ correo o teléfono). Volar hasta Avinyonet El Aeròdrom d'Avinyonet es un 
+ campo para ultraligeros situado dentro del CTR de Barcelona \, así que la
+  llegada en vuelo tiene sus propios procedimientos: Pista asfaltada 12/30 
+ \, de unos 500 × 15 m . Radio del campo: 129.975 MHz. Coordenadas: N 41°
+  22\,0' · E 001° 46\,0'. Las entradas y salidas de ULM se hacen por el p
+ asillo visual NW \, a no más de 1.000 ft AGL \, sin sobrevolar zonas urba
+ nas y con escucha en Barcelona ACC (127.700 MHz) . Los circuitos se hacen 
+ siempre al noreste. Combustible: surtidor de autoservicio de gasolina SP95
+  (24 h\, con tarjeta). Antes de volar conviene revisar los procedimientos 
+ vigentes y los NOTAM\, y avisar a Airbet de la llegada. El organizador no 
+ ha publicado si los aviones visitantes deben inscribirse en las pruebas. E
+ l aeródromo El campo está en Avinyó Nou (Avinyonet del Penedès\, Alt P
+ enedès) . Es el aeródromo más cercano a Barcelona (unos 35 km) y está 
+ a 3 km de la autopista AP-7 y a 500 m de la N-340. Cuenta con escuela de v
+ uelo MAF y autogiro\, taller de reparación y mantenimiento de ULM\, hanga
+ raje\, venta de ultraligeros y material aeronáutico\, gestoría aeronáut
+ ica y un club social climatizado con terraza junto a la pista. Galería La
+ s fotos de la galería muestran las instalaciones de Airbet: un ultraliger
+ o de la escuela en la plataforma\, el hangar de mantenimiento y reparació
+ n y una vista aérea del Penedès. No son de ediciones anteriores de la tr
+ obada. Fotos: Airbet (airbet.net). Contacto e inscripción Correo: [email 
+ protected] Teléfonos: 667 748 145 · 697 299 928 Web: www.airbet.net Fuen
+ tes Airbet: instalaciones del Aeròdrom d'Avinyonet Aterriza.org: ficha de
+ l campo de Avinyonet – Airbet Iremos actualizando la información a medi
+ da que el organizador la publique. La trobada Airbet \, escuela de vuelo y
+  centro de servicios aeronáuticos del Aeròdrom d'Avinyonet del Penedès 
+ \, celebra el sábado 21 de noviembre de 2026 su 7a Trobada de Tardor \, e
+ l encuentro de otoño que reúne en el campo a pilotos\, socios y aficiona
+ dos a la aviación ligera. Es un encuentro de aviación deportiva en ambie
+ nte de club\, con pruebas de pilotaje y navegación\, aeromodelismo y una 
+ comida de hermandad\, en un aeródromo rodeado de viñedos y a pocos minut
+ os de vuelo del mar y de Montserrat. Actividades Según el cartel oficial
+ \, la jornada incluye: Enlairaments i aterratges de precisió (despegues y
+  aterrizajes de precisión)\, pruebas de pilotaje en las que se valora la 
+ exactitud del despegue y la toma de tierra. Navegació encoberta (navegaci
+ ón encubierta)\, una prueba de navegación aérea. Aeromodelisme \, con a
+ eromodelos en el campo. El organizador todavía no ha publicado el horario
+  detallado ni las bases de las pruebas. Dinar Hay comida (dinar) a 15 € 
+ por persona \, con reserva previa . Las reservas se hacen por los canales 
+ de contacto de Airbet (correo o teléfono). Volar hasta Avinyonet El Aerò
+ drom d'Avinyonet es un campo para ultraligeros situado dentro del CTR de B
+ arcelona \, así que la llegada en vuelo tiene sus propios procedimientos:
+  Pista asfaltada 12/30 \, de unos 500 × 15 m . Radio del campo: 129.975 M
+ Hz. Coordenadas: N 41° 22\,0' · E 001° 46\,0'. Las entradas y salidas d
+ e ULM se hacen por el pasillo visual NW \, a no más de 1.000 ft AGL \, si
+ n sobrevolar zonas urbanas y con escucha en Barcelona ACC (127.700 MHz) . 
+ Los circuitos se hacen siempre al noreste. Combustible: surtidor de autose
+ rvicio de gasolina SP95 (24 h\, con tarjeta). Antes de volar conviene revi
+ sar los procedimientos vigentes y los NOTAM\, y avisar a Airbet de la lleg
+ ada. El organizador no ha publicado si los aviones visitantes deben inscri
+ birse en las pruebas. El aeródromo El campo está en Avinyó Nou (Avinyon
+ et del Penedès\, Alt Penedès) . Es el aeródromo más cercano a Barcelon
+ a (unos 35 km) y está a 3 km de la autopista AP-7 y a 500 m de la N-340. 
+ Cuenta con escuela de vuelo MAF y autogiro\, taller de reparación y mante
+ nimiento de ULM\, hangaraje\, venta de ultraligeros y material aeronáutic
+ o\, gestoría aeronáutica y un club social climatizado con terraza junto 
+ a la pista. Galería Las fotos de la galería muestran las instalaciones d
+ e Airbet: un ultraligero de la escuela en la plataforma\, el hangar de man
+ tenimiento y reparación y una vista aérea del Penedès. No son de edicio
+ nes anteriores de la trobada. Fotos: Airbet (airbet.net). Contacto e inscr
+ ipción Correo: [email protected] Teléfonos: 667 748 145 · 697 299 928 W
+ eb: www.airbet.net Fuentes Airbet: instalaciones del Aeròdrom d'Avinyonet
+  Aterriza.org: ficha del campo de Avinyonet – Airbet Iremos actualizando
+  la información a medida que el organizador la publique. La trobada Airbe
+ t \, escuela de vuelo y centro de servicios aeronáuticos del Aeròdrom d'
+ Avinyonet del Penedès \, celebra el sábado 21 de noviembre de 2026 su 7a
+  Trobada de Tardor \, el encuentro de otoño que reúne en el campo a pilo
+ tos\, socios y aficionados a la aviación ligera. Es un encuentro de aviac
+ ión deportiva en ambiente de club\, con pruebas de pilotaje y navegación
+ \, aeromodelismo y una comida de hermandad\, en un aeródromo rodeado de v
+ iñedos y a pocos minutos de vuelo del mar y de Montserrat. Actividades Se
+ gún el cartel oficial\, la jornada incluye: Enlairaments i aterratges de 
+ precisió (despegues y aterrizajes de precisión)\, pruebas de pilotaje en
+  las que se valora la exactitud del despegue y la toma de tierra. Navegaci
+ ó encoberta (navegación encubierta)\, una prueba de navegación aérea. 
+ Aeromodelisme \, con aeromodelos en el campo. El organizador todavía no h
+ a publicado el horario detallado ni las bases de las pruebas. Dinar Hay co
+ mida (dinar) a 15 € por persona \, con reserva previa . Las reservas se 
+ hacen por los canales de contacto de Airbet (correo o teléfono). Volar ha
+ sta Avinyonet El Aeròdrom d'Avinyonet es un campo para ultraligeros situa
+ do dentro del CTR de Barcelona \, así que la llegada en vuelo tiene sus p
+ ropios procedimientos: Pista asfaltada 12/30 \, de unos 500 × 15 m . Radi
+ o del campo: 129.975 MHz. Coordenadas: N 41° 22\,0' · E 001° 46\,0'. La
+ s entradas y salidas de ULM se hacen por el pasillo visual NW \, a no más
+  de 1.000 ft AGL \, sin sobrevolar zonas urbanas y con escucha en Barcelon
+ a ACC (127.700 MHz) . Los circuitos se hacen siempre al noreste. Combustib
+ le: surtidor de autoservicio de gasolina SP95 (24 h\, con tarjeta). Antes 
+ de volar conviene revisar los procedimientos vigentes y los NOTAM\, y avis
+ ar a Airbet de la llegada. El organizador no ha publicado si los aviones v
+ isitantes deben inscribirse en las pruebas. El aeródromo El campo está e
+ n Avinyó Nou (Avinyonet del Penedès\, Alt Penedès) . Es el aeródromo m
+ ás cercano a Barcelona (unos 35 km) y está a 3 km de la autopista AP-7 y
+  a 500 m de la N-340. Cuenta con escuela de vuelo MAF y autogiro\, taller 
+ de reparación y mantenimiento de ULM\, hangaraje\, venta de ultraligeros 
+ y material aeronáutico\, gestoría aeronáutica y un club social climatiz
+ ado con terraza junto a la pista. Galería Las fotos de la galería muestr
+ an las instalaciones de Airbet: un ultraligero de la escuela en la platafo
+ rma\, el hangar de mantenimiento y reparación y una vista aérea del Pene
+ dès. No son de ediciones anteriores de la trobada. Fotos: Airbet (airbet.
+ net). Contacto e inscripción Correo: [email protected] Teléfonos: 667 74
+ 8 145 · 697 299 928 Web: www.airbet.net Fuentes Airbet: instalaciones del
+  Aeròdrom d'Avinyonet Aterriza.org: ficha del campo de Avinyonet – Airb
+ et Iremos actualizando la información a medida que el organizador la publ
+ ique.\n\nFuente: https://www.preparaulm.com/eventos-aeronauticos/7a-trobad
+ a-tardor-airbet-avinyonet-2026
+LOCATION:Aeròdrom d'Avinyonet (Airbet)\, Avinyó Nou\, Avinyonet del Pene
+ dès\, Barcelona
+URL:https://www.preparaulm.com/eventos-aeronauticos/7a-trobada-tardor-airb
+ et-avinyonet-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rally ULM Túnez 2026
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:1eff7c79ac17a6cbebe1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nRally de ultraligeros organi
  zado por AEPAL que cruza el Mediterráneo y recorre paisajes tunecinos: Ta
@@ -783,7 +1129,7 @@ BEGIN:VEVENT
 SUMMARY:Centenario de la Patrulla Atlántida — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:080106f422c6a248c52e@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nMelilla conmemora el centena
  rio de la Patrulla Atlántida. Melilla conmemora el centenario de la Patru
@@ -873,7 +1219,7 @@ BEGIN:VEVENT
 SUMMARY:Exposición Centenario de los Grandes Vuelos — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:83f9f5d979be50d386ff@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl calendario del Ejército 
  del Aire y del Espacio anuncia una exposición del Centenario de los Grand
@@ -949,7 +1295,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -1039,7 +1385,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -1123,7 +1469,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
@@ -1197,7 +1543,7 @@ SUMMARY:PAC Obert de Navidad — Llegada de Papá Noel al Aeropuerto de Sa
  badell
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:d7eb9ddd2c12879a1c9f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 20 de diciembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya celebra su PAC Obert de 
@@ -1296,7 +1642,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Club Class La Cerdanya 2027 — Vuelo a vela
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261022T212659Z
+DTSTAMP:20261023T105730Z
 UID:7d9586aa47d97c271a07@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nDel 5 al 11 de septiembre de
   2027 el aeródromo de La Cerdanya acoge el Grand Prix Club Class \, una c
