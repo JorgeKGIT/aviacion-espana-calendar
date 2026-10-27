@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Grandes Vuelos de la Aviación Española 1926–1935 — Ourense
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:eebbb336424989abba47@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Centro Cultural José Án
  gel Valente acoge del 16 al 31 de octubre de 2026 la exposición Grandes V
@@ -156,7 +156,7 @@ SUMMARY:SKYPOLARIS — La vuelta al mundo por los polos\, con Michel Gordi
  llo
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:2d3fa57999eed161caa1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 31 de octubre de 
  2026\, a las 12:00\, Michel Gordillo impartirá la conferencia SKYPOLARIS:
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -289,7 +289,7 @@ SUMMARY:PAC Obert — Jornada de puertas abiertas en el Aeropuerto de Saba
  dell (noviembre 2026)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:3ba46573bec98e919dd5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 15 de noviembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya (FPAC) abre su plataform
@@ -341,75 +341,89 @@ DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 15 de noviembre d
  C Obert de Navidad\, el 20 de diciembre \, con la llegada de Papá Noel. L
  as jornadas pueden anularse por mal tiempo (la de enero de 2026 se anuló 
  por lluvia)\, así que conviene revisar la web de la FPAC el mismo día. C
- ontacto: info@fpac.org Iremos actualizando la información a medida que el
-  organizador la publique. El PAC Obert El PAC Obert es la jornada de puert
- as abiertas que la Fundació Parc Aeronàutic de Catalunya (FPAC) organiza
-  en el Aeropuerto de Sabadell prácticamente todos los meses\, normalmente
-  el tercer domingo. La Fundación lleva décadas recuperando\, restaurando
-  y manteniendo en condiciones de vuelo un patrimonio aeronáutico único e
- n España\, y estos domingos lo enseña al público: aviones clásicos exp
- uestos en la plataforma\, voluntarios y benefactores explicando su histori
- a y\, como cierre\, una demostración de vuelo en formación de los avione
- s más emblemáticos de la colección. Para pilotos y aficionados Para pil
- otos de ULM y aviación general : es una ocasión excelente para ver de ce
- rca aviones históricos de motor de pistón\, hablar con quienes los manti
- enen y vuelan\, y conocer de primera mano cómo se conserva una aeronave c
- lásica en estado de vuelo. Para aficionados y familias : es un plan de do
- mingo por la mañana gratuito\, cercano a Barcelona\, con aviones de verda
- d volando y la posibilidad de visitar el Museu Aeronàutic de Catalunya. P
- ara quien se esté planteando empezar a volar : el ambiente de aeropuerto 
- general y de club es una buena primera toma de contacto con la aviación l
- igera. Horario de la jornada 10:00 — Acceso libre a la exposición de ae
- ronaves. 10:00-12:30 — Visitas al Museu Aeronàutic de Catalunya (entrad
- a aparte\, se recomienda comprarla por anticipado\; también en taquilla s
- i quedan plazas). 11:00-13:30 — Exhibición operativa en tierra y en vue
- lo de las aeronaves clásicas. 13:30 — Clausura de la exposición. Preci
- o El acceso a la jornada es libre y gratuito . No incluye la entrada al Mu
- seu Aeronàutic de Catalunya\, que se adquiere por separado a través de l
- a web de la FPAC. Cómo llegar La FPAC está en el Aeropuerto de Sabadell 
- (Carretera de Bellaterra s/n\, 08205 Sabadell)\, a unos 25 minutos en coch
- e del centro de Barcelona. Se puede llegar también en tren (Rodalies/FGC 
- hasta Sabadell) y taxi o autobús urbano hasta el aeropuerto. Próximas fe
- chas Este PAC Obert forma parte del calendario 2026 de la FPAC. El siguien
- te es el PAC Obert de Navidad\, el 20 de diciembre \, con la llegada de Pa
- pá Noel. Las jornadas pueden anularse por mal tiempo (la de enero de 2026
-  se anuló por lluvia)\, así que conviene revisar la web de la FPAC el mi
- smo día. Contacto: info@fpac.org Iremos actualizando la información a me
- dida que el organizador la publique. El PAC Obert El PAC Obert es la jorna
- da de puertas abiertas que la Fundació Parc Aeronàutic de Catalunya (FPA
- C) organiza en el Aeropuerto de Sabadell prácticamente todos los meses\, 
- normalmente el tercer domingo. La Fundación lleva décadas recuperando\, 
- restaurando y manteniendo en condiciones de vuelo un patrimonio aeronáuti
- co único en España\, y estos domingos lo enseña al público: aviones cl
- ásicos expuestos en la plataforma\, voluntarios y benefactores explicando
-  su historia y\, como cierre\, una demostración de vuelo en formación de
-  los aviones más emblemáticos de la colección. Para pilotos y aficionad
- os Para pilotos de ULM y aviación general : es una ocasión excelente par
- a ver de cerca aviones históricos de motor de pistón\, hablar con quiene
- s los mantienen y vuelan\, y conocer de primera mano cómo se conserva una
-  aeronave clásica en estado de vuelo. Para aficionados y familias : es un
-  plan de domingo por la mañana gratuito\, cercano a Barcelona\, con avion
- es de verdad volando y la posibilidad de visitar el Museu Aeronàutic de C
- atalunya. Para quien se esté planteando empezar a volar : el ambiente de 
- aeropuerto general y de club es una buena primera toma de contacto con la 
- aviación ligera. Horario de la jornada 10:00 — Acceso libre a la exposi
- ción de aeronaves. 10:00-12:30 — Visitas al Museu Aeronàutic de Catalu
- nya (entrada aparte\, se recomienda comprarla por anticipado\; también en
-  taquilla si quedan plazas). 11:00-13:30 — Exhibición operativa en tier
- ra y en vuelo de las aeronaves clásicas. 13:30 — Clausura de la exposic
- ión. Precio El acceso a la jornada es libre y gratuito . No incluye la en
- trada al Museu Aeronàutic de Catalunya\, que se adquiere por separado a t
- ravés de la web de la FPAC. Cómo llegar La FPAC está en el Aeropuerto d
- e Sabadell (Carretera de Bellaterra s/n\, 08205 Sabadell)\, a unos 25 minu
- tos en coche del centro de Barcelona. Se puede llegar también en tren (Ro
- dalies/FGC hasta Sabadell) y taxi o autobús urbano hasta el aeropuerto. P
- róximas fechas Este PAC Obert forma parte del calendario 2026 de la FPAC.
-  El siguiente es el PAC Obert de Navidad\, el 20 de diciembre \, con la ll
- egada de Papá Noel. Las jornadas pueden anularse por mal tiempo (la de en
- ero de 2026 se anuló por lluvia)\, así que conviene revisar la web de la
-  FPAC el mismo día. Contacto: info@fpac.org Iremos actualizando la inform
- ación a medida que el organizador la publique.\n\nFuente: https://www.pre
- paraulm.com/eventos-aeronauticos/pac-obert-sabadell-noviembre-2026
+ ontacto: info@fpac.org Galería La portada muestra una jornada de puertas 
+ abiertas en la plataforma del Aeropuerto de Sabadell\, con aviones clásic
+ os expuestos y público. En la galería hay tres aviones históricos de la
+  Fundació volando en formación y el interior del Museu Aeronàutic de Ca
+ talunya. Fotos: Fundació Parc Aeronàutic de Catalunya (fpac.org). Iremos
+  actualizando la información a medida que el organizador la publique. El 
+ PAC Obert El PAC Obert es la jornada de puertas abiertas que la Fundació 
+ Parc Aeronàutic de Catalunya (FPAC) organiza en el Aeropuerto de Sabadell
+  prácticamente todos los meses\, normalmente el tercer domingo. La Fundac
+ ión lleva décadas recuperando\, restaurando y manteniendo en condiciones
+  de vuelo un patrimonio aeronáutico único en España\, y estos domingos 
+ lo enseña al público: aviones clásicos expuestos en la plataforma\, vol
+ untarios y benefactores explicando su historia y\, como cierre\, una demos
+ tración de vuelo en formación de los aviones más emblemáticos de la co
+ lección. Para pilotos y aficionados Para pilotos de ULM y aviación gener
+ al : es una ocasión excelente para ver de cerca aviones históricos de mo
+ tor de pistón\, hablar con quienes los mantienen y vuelan\, y conocer de 
+ primera mano cómo se conserva una aeronave clásica en estado de vuelo. P
+ ara aficionados y familias : es un plan de domingo por la mañana gratuito
+ \, cercano a Barcelona\, con aviones de verdad volando y la posibilidad de
+  visitar el Museu Aeronàutic de Catalunya. Para quien se esté planteando
+  empezar a volar : el ambiente de aeropuerto general y de club es una buen
+ a primera toma de contacto con la aviación ligera. Horario de la jornada 
+ 10:00 — Acceso libre a la exposición de aeronaves. 10:00-12:30 — Visi
+ tas al Museu Aeronàutic de Catalunya (entrada aparte\, se recomienda comp
+ rarla por anticipado\; también en taquilla si quedan plazas). 11:00-13:30
+  — Exhibición operativa en tierra y en vuelo de las aeronaves clásicas
+ . 13:30 — Clausura de la exposición. Precio El acceso a la jornada es l
+ ibre y gratuito . No incluye la entrada al Museu Aeronàutic de Catalunya
+ \, que se adquiere por separado a través de la web de la FPAC. Cómo lleg
+ ar La FPAC está en el Aeropuerto de Sabadell (Carretera de Bellaterra s/n
+ \, 08205 Sabadell)\, a unos 25 minutos en coche del centro de Barcelona. S
+ e puede llegar también en tren (Rodalies/FGC hasta Sabadell) y taxi o aut
+ obús urbano hasta el aeropuerto. Próximas fechas Este PAC Obert forma pa
+ rte del calendario 2026 de la FPAC. El siguiente es el PAC Obert de Navida
+ d\, el 20 de diciembre \, con la llegada de Papá Noel. Las jornadas puede
+ n anularse por mal tiempo (la de enero de 2026 se anuló por lluvia)\, as
+ í que conviene revisar la web de la FPAC el mismo día. Contacto: info@fp
+ ac.org Galería La portada muestra una jornada de puertas abiertas en la p
+ lataforma del Aeropuerto de Sabadell\, con aviones clásicos expuestos y p
+ úblico. En la galería hay tres aviones históricos de la Fundació volan
+ do en formación y el interior del Museu Aeronàutic de Catalunya. Fotos: 
+ Fundació Parc Aeronàutic de Catalunya (fpac.org). Iremos actualizando la
+  información a medida que el organizador la publique. El PAC Obert El PAC
+  Obert es la jornada de puertas abiertas que la Fundació Parc Aeronàutic
+  de Catalunya (FPAC) organiza en el Aeropuerto de Sabadell prácticamente 
+ todos los meses\, normalmente el tercer domingo. La Fundación lleva déca
+ das recuperando\, restaurando y manteniendo en condiciones de vuelo un pat
+ rimonio aeronáutico único en España\, y estos domingos lo enseña al p
+ úblico: aviones clásicos expuestos en la plataforma\, voluntarios y bene
+ factores explicando su historia y\, como cierre\, una demostración de vue
+ lo en formación de los aviones más emblemáticos de la colección. Para 
+ pilotos y aficionados Para pilotos de ULM y aviación general : es una oca
+ sión excelente para ver de cerca aviones históricos de motor de pistón
+ \, hablar con quienes los mantienen y vuelan\, y conocer de primera mano c
+ ómo se conserva una aeronave clásica en estado de vuelo. Para aficionado
+ s y familias : es un plan de domingo por la mañana gratuito\, cercano a B
+ arcelona\, con aviones de verdad volando y la posibilidad de visitar el Mu
+ seu Aeronàutic de Catalunya. Para quien se esté planteando empezar a vol
+ ar : el ambiente de aeropuerto general y de club es una buena primera toma
+  de contacto con la aviación ligera. Horario de la jornada 10:00 — Acce
+ so libre a la exposición de aeronaves. 10:00-12:30 — Visitas al Museu A
+ eronàutic de Catalunya (entrada aparte\, se recomienda comprarla por anti
+ cipado\; también en taquilla si quedan plazas). 11:00-13:30 — Exhibici
+ ón operativa en tierra y en vuelo de las aeronaves clásicas. 13:30 — C
+ lausura de la exposición. Precio El acceso a la jornada es libre y gratui
+ to . No incluye la entrada al Museu Aeronàutic de Catalunya\, que se adqu
+ iere por separado a través de la web de la FPAC. Cómo llegar La FPAC est
+ á en el Aeropuerto de Sabadell (Carretera de Bellaterra s/n\, 08205 Sabad
+ ell)\, a unos 25 minutos en coche del centro de Barcelona. Se puede llegar
+  también en tren (Rodalies/FGC hasta Sabadell) y taxi o autobús urbano h
+ asta el aeropuerto. Próximas fechas Este PAC Obert forma parte del calend
+ ario 2026 de la FPAC. El siguiente es el PAC Obert de Navidad\, el 20 de d
+ iciembre \, con la llegada de Papá Noel. Las jornadas pueden anularse por
+  mal tiempo (la de enero de 2026 se anuló por lluvia)\, así que conviene
+  revisar la web de la FPAC el mismo día. Contacto: info@fpac.org Galería
+  La portada muestra una jornada de puertas abiertas en la plataforma del A
+ eropuerto de Sabadell\, con aviones clásicos expuestos y público. En la 
+ galería hay tres aviones históricos de la Fundació volando en formació
+ n y el interior del Museu Aeronàutic de Catalunya. Fotos: Fundació Parc 
+ Aeronàutic de Catalunya (fpac.org). Iremos actualizando la información a
+  medida que el organizador la publique.\n\nFuente: https://www.preparaulm.
+ com/eventos-aeronauticos/pac-obert-sabadell-noviembre-2026
 LOCATION:Aeropuerto de Sabadell (LELL)\, Sabadell (Barcelona)
 URL:https://www.preparaulm.com/eventos-aeronauticos/pac-obert-sabadell-nov
  iembre-2026
@@ -419,7 +433,7 @@ SUMMARY:7a Trobada de Tardor de Airbet — Aeròdrom d'Avinyonet del Pened
  ès
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:cc4fd4f90097ed8d102a@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 21 de noviembre d
  e 2026 Airbet celebra la 7a Trobada de Tardor en el Aeròdrom d'Avinyonet 
@@ -569,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:Rally ULM Túnez 2026
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:1eff7c79ac17a6cbebe1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nRally de ultraligeros organi
  zado por AEPAL que cruza el Mediterráneo y recorre paisajes tunecinos: Ta
@@ -584,62 +598,110 @@ DESCRIPTION:Evento obtenido de PreparaULM.\n\nRally de ultraligeros organi
  : Tabarka\, Tozeur\, Douz\, el Sáhara y Djerba. Con un máximo de 18 part
  icipantes y autorizaciones oficiales de vuelo incluidas\, es una experienc
  ia de aviación deportiva de 12 días de duración. Rally ULM Túnez 2026 
- Evento organizado por AEPAL (Asociación Española de Pilotos de Aeronaves
-  Ligeras) en colaboración con Oryx Aviation (Túnez)\, consistente en un 
- viaje en ultraligero de 12 días por el norte y sur de Túnez\, con cruce 
- del Mediterráneo incluido. Ruta Cruce del Mediterráneo → Tabarka → T
- ozeur → Tembaine → Douz → Ksar Ghilane → Djerba → regreso a Taba
- rka. La ruta adentra a los participantes en el desierto del Sáhara tuneci
- no\, sobrevolando paisajes de dunas\, oasis y kasbahs entre el norte verde
-  de Túnez y el sur desértico. Detalles operativos Plazas : máximo 18 ae
- ronaves participantes Autorizaciones : permisos oficiales de vuelo en espa
- cio aéreo tunecino incluidos en la organización Asistencia : apoyo logí
- stico integral durante todo el recorrido por parte de Oryx Aviation Tipo d
- e aeronave : ultraligeros (ULM) Organización AEPAL — Difusión y coordi
- nación desde España ( info@aepal.aero · 629 340 828) Oryx Aviation — 
- Organización local en Túnez Inscripciones A través del formulario ofici
- al en https://inscription.oryxaviation.com.tn o contactando con AEPAL. Ral
- ly ULM Túnez 2026 Evento organizado por AEPAL (Asociación Española de P
- ilotos de Aeronaves Ligeras) en colaboración con Oryx Aviation (Túnez)\,
-  consistente en un viaje en ultraligero de 12 días por el norte y sur de 
- Túnez\, con cruce del Mediterráneo incluido. Ruta Cruce del Mediterráne
- o → Tabarka → Tozeur → Tembaine → Douz → Ksar Ghilane → Djerba
-  → regreso a Tabarka. La ruta adentra a los participantes en el desierto
-  del Sáhara tunecino\, sobrevolando paisajes de dunas\, oasis y kasbahs e
- ntre el norte verde de Túnez y el sur desértico. Detalles operativos Pla
- zas : máximo 18 aeronaves participantes Autorizaciones : permisos oficial
- es de vuelo en espacio aéreo tunecino incluidos en la organización Asist
- encia : apoyo logístico integral durante todo el recorrido por parte de O
- ryx Aviation Tipo de aeronave : ultraligeros (ULM) Organización AEPAL —
-  Difusión y coordinación desde España ( info@aepal.aero · 629 340 828)
-  Oryx Aviation — Organización local en Túnez Inscripciones A través d
- el formulario oficial en https://inscription.oryxaviation.com.tn o contact
- ando con AEPAL. Rally ULM Túnez 2026 Evento organizado por AEPAL (Asociac
- ión Española de Pilotos de Aeronaves Ligeras) en colaboración con Oryx 
- Aviation (Túnez)\, consistente en un viaje en ultraligero de 12 días por
-  el norte y sur de Túnez\, con cruce del Mediterráneo incluido. Ruta Cru
- ce del Mediterráneo → Tabarka → Tozeur → Tembaine → Douz → Ksar
-  Ghilane → Djerba → regreso a Tabarka. La ruta adentra a los participa
- ntes en el desierto del Sáhara tunecino\, sobrevolando paisajes de dunas
- \, oasis y kasbahs entre el norte verde de Túnez y el sur desértico. Det
- alles operativos Plazas : máximo 18 aeronaves participantes Autorizacione
- s : permisos oficiales de vuelo en espacio aéreo tunecino incluidos en la
-  organización Asistencia : apoyo logístico integral durante todo el reco
- rrido por parte de Oryx Aviation Tipo de aeronave : ultraligeros (ULM) Org
- anización AEPAL — Difusión y coordinación desde España ( info@aepal.
- aero · 629 340 828) Oryx Aviation — Organización local en Túnez Inscr
- ipciones A través del formulario oficial en https://inscription.oryxaviat
- ion.com.tn o contactando con AEPAL.\n\nFuente: https://www.preparaulm.com/
- eventos-aeronauticos/rally-ulm-tunez-2026
-LOCATION:Ruta aérea: Tabarka – Tozeur – Douz – Ksar Ghilane – Dje
- rba (Túnez)
+ Viaje en ultraligero de 12 días por el norte y el sur de Túnez\, del 26 
+ de noviembre al 7 de diciembre de 2026 . Lo organiza sobre el terreno Oryx
+  Aviation (Túnez) y AEPAL lo difunde y coordina desde España. No es una 
+ competición: es un viaje de aventura y turismo aéreo en grupo\, con un m
+ áximo de 18 aeronaves. Salida y llegada El programa oficial empieza con e
+ l cruce del Mediterráneo desde Córcega hasta Tabarka (DTKA) y termina co
+ n el regreso a Córcega. La organización no ha publicado ningún aeródro
+ mo de salida en España: cada participante tiene que organizar el vuelo ha
+ sta Córcega por su cuenta. Programa día a día Día Fecha Etapa 1 26 nov
+  Cruce del Mediterráneo Córcega – Tabarka 2 27 nov Tabarka – Tozeur
+ \, con parada técnica en Kairuán y posible sobrevuelo de Tamerza 3 28 no
+ v Vuelos locales en Tozeur y excursión en 4x4 a Chebika y Ong Jmal 4 29 n
+ ov Tozeur – campamento de Tembaine\, en el Gran Erg Oriental 5 30 nov Te
+ mbaine – Douz 6 1 dic Douz – Ksar Ghilane\, con su manantial termal en
+  pleno desierto 7 2 dic Ksar Ghilane – Djerba\, con parada en Ghomrassen
+  8-9 3-4 dic Djerba: vuelos locales y día libre 10 5 dic Djerba – Tabar
+ ka\, vía Kairuán 11 6 dic Tabarka y visita a Aïn Draham 12 7 dic Regres
+ o a Córcega Servicios de la organización Oryx Aviation se encarga de: Lo
+ s permisos de la DGAC tunecina y las autorizaciones de radio. El dosier de
+  briefing \, con procedimientos\, cartas de aeródromo\, frecuencias y not
+ as de cada etapa. Los trámites de aduana y la coordinación con los servi
+ cios de tránsito aéreo. El combustible en las etapas. Los hoteles de 4 y
+  5 estrellas en media pensión \, los traslados entre aeródromos y hotele
+ s y las excursiones turísticas\, entre ellas una salida en 4x4 y otra en 
+ dromedario. La asistencia durante toda la estancia en Túnez\, desde la ll
+ egada hasta la salida. Documentación necesaria Pasaporte. Licencia de pil
+ oto de ULM. Seguro de responsabilidad civil y de pasajero. Documento de id
+ entificación o matrícula del ULM. Licencia de radio. Inscripción Median
+ te el formulario oficial de Oryx Aviation: inscription.oryxaviation.com.tn
+  . Contacto Oryx Aviation: contact@oryxaviation.com.tn AEPAL: info@aepal.a
+ ero · 629 340 828 Fuentes Oryx Aviation: programa del rally Rally ULM Tú
+ nez 2026 Viaje en ultraligero de 12 días por el norte y el sur de Túnez
+ \, del 26 de noviembre al 7 de diciembre de 2026 . Lo organiza sobre el te
+ rreno Oryx Aviation (Túnez) y AEPAL lo difunde y coordina desde España. 
+ No es una competición: es un viaje de aventura y turismo aéreo en grupo
+ \, con un máximo de 18 aeronaves. Salida y llegada El programa oficial em
+ pieza con el cruce del Mediterráneo desde Córcega hasta Tabarka (DTKA) y
+  termina con el regreso a Córcega. La organización no ha publicado ning
+ ún aeródromo de salida en España: cada participante tiene que organizar
+  el vuelo hasta Córcega por su cuenta. Programa día a día Día Fecha Et
+ apa 1 26 nov Cruce del Mediterráneo Córcega – Tabarka 2 27 nov Tabarka
+  – Tozeur\, con parada técnica en Kairuán y posible sobrevuelo de Tame
+ rza 3 28 nov Vuelos locales en Tozeur y excursión en 4x4 a Chebika y Ong 
+ Jmal 4 29 nov Tozeur – campamento de Tembaine\, en el Gran Erg Oriental 
+ 5 30 nov Tembaine – Douz 6 1 dic Douz – Ksar Ghilane\, con su manantia
+ l termal en pleno desierto 7 2 dic Ksar Ghilane – Djerba\, con parada en
+  Ghomrassen 8-9 3-4 dic Djerba: vuelos locales y día libre 10 5 dic Djerb
+ a – Tabarka\, vía Kairuán 11 6 dic Tabarka y visita a Aïn Draham 12 7
+  dic Regreso a Córcega Servicios de la organización Oryx Aviation se enc
+ arga de: Los permisos de la DGAC tunecina y las autorizaciones de radio. E
+ l dosier de briefing \, con procedimientos\, cartas de aeródromo\, frecue
+ ncias y notas de cada etapa. Los trámites de aduana y la coordinación co
+ n los servicios de tránsito aéreo. El combustible en las etapas. Los hot
+ eles de 4 y 5 estrellas en media pensión \, los traslados entre aeródrom
+ os y hoteles y las excursiones turísticas\, entre ellas una salida en 4x4
+  y otra en dromedario. La asistencia durante toda la estancia en Túnez\, 
+ desde la llegada hasta la salida. Documentación necesaria Pasaporte. Lice
+ ncia de piloto de ULM. Seguro de responsabilidad civil y de pasajero. Docu
+ mento de identificación o matrícula del ULM. Licencia de radio. Inscripc
+ ión Mediante el formulario oficial de Oryx Aviation: inscription.oryxavia
+ tion.com.tn . Contacto Oryx Aviation: contact@oryxaviation.com.tn AEPAL: i
+ nfo@aepal.aero · 629 340 828 Fuentes Oryx Aviation: programa del rally Ra
+ lly ULM Túnez 2026 Viaje en ultraligero de 12 días por el norte y el sur
+  de Túnez\, del 26 de noviembre al 7 de diciembre de 2026 . Lo organiza s
+ obre el terreno Oryx Aviation (Túnez) y AEPAL lo difunde y coordina desde
+  España. No es una competición: es un viaje de aventura y turismo aéreo
+  en grupo\, con un máximo de 18 aeronaves. Salida y llegada El programa o
+ ficial empieza con el cruce del Mediterráneo desde Córcega hasta Tabarka
+  (DTKA) y termina con el regreso a Córcega. La organización no ha public
+ ado ningún aeródromo de salida en España: cada participante tiene que o
+ rganizar el vuelo hasta Córcega por su cuenta. Programa día a día Día 
+ Fecha Etapa 1 26 nov Cruce del Mediterráneo Córcega – Tabarka 2 27 nov
+  Tabarka – Tozeur\, con parada técnica en Kairuán y posible sobrevuelo
+  de Tamerza 3 28 nov Vuelos locales en Tozeur y excursión en 4x4 a Chebik
+ a y Ong Jmal 4 29 nov Tozeur – campamento de Tembaine\, en el Gran Erg O
+ riental 5 30 nov Tembaine – Douz 6 1 dic Douz – Ksar Ghilane\, con su 
+ manantial termal en pleno desierto 7 2 dic Ksar Ghilane – Djerba\, con p
+ arada en Ghomrassen 8-9 3-4 dic Djerba: vuelos locales y día libre 10 5 d
+ ic Djerba – Tabarka\, vía Kairuán 11 6 dic Tabarka y visita a Aïn Dra
+ ham 12 7 dic Regreso a Córcega Servicios de la organización Oryx Aviatio
+ n se encarga de: Los permisos de la DGAC tunecina y las autorizaciones de 
+ radio. El dosier de briefing \, con procedimientos\, cartas de aeródromo
+ \, frecuencias y notas de cada etapa. Los trámites de aduana y la coordin
+ ación con los servicios de tránsito aéreo. El combustible en las etapas
+ . Los hoteles de 4 y 5 estrellas en media pensión \, los traslados entre 
+ aeródromos y hoteles y las excursiones turísticas\, entre ellas una sali
+ da en 4x4 y otra en dromedario. La asistencia durante toda la estancia en 
+ Túnez\, desde la llegada hasta la salida. Documentación necesaria Pasapo
+ rte. Licencia de piloto de ULM. Seguro de responsabilidad civil y de pasaj
+ ero. Documento de identificación o matrícula del ULM. Licencia de radio.
+  Inscripción Mediante el formulario oficial de Oryx Aviation: inscription
+ .oryxaviation.com.tn . Contacto Oryx Aviation: contact@oryxaviation.com.tn
+  AEPAL: info@aepal.aero · 629 340 828 Fuentes Oryx Aviation: programa del
+  rally\n\nFuente: https://www.preparaulm.com/eventos-aeronauticos/rally-ul
+ m-tunez-2026
+LOCATION:Salida y llegada en Tabarka (DTKA)\, Túnez\, con cruce desde Có
+ rcega. Ruta: Tabarka – Tozeur – Douz – Ksar Ghilane – Djerba
 URL:https://www.preparaulm.com/eventos-aeronauticos/rally-ulm-tunez-2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Centenario de la Patrulla Atlántida — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:080106f422c6a248c52e@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nMelilla conmemora el centena
  rio de la Patrulla Atlántida. Melilla conmemora el centenario de la Patru
@@ -729,7 +791,7 @@ BEGIN:VEVENT
 SUMMARY:Exposición Centenario de los Grandes Vuelos — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:83f9f5d979be50d386ff@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl calendario del Ejército 
  del Aire y del Espacio anuncia una exposición del Centenario de los Grand
@@ -805,7 +867,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -895,7 +957,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -979,7 +1041,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
@@ -1053,7 +1115,7 @@ SUMMARY:PAC Obert de Navidad — Llegada de Papá Noel al Aeropuerto de Sa
  badell
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:d7eb9ddd2c12879a1c9f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 20 de diciembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya celebra su PAC Obert de 
@@ -1093,57 +1155,71 @@ DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 20 de diciembre d
  ompra aparte en la web de la FPAC. Cómo llegar Aeropuerto de Sabadell\, C
  arretera de Bellaterra s/n\, 08205 Sabadell\, a unos 25 minutos en coche d
  e Barcelona. Las jornadas pueden anularse por mal tiempo\, así que convie
- ne revisar la web de la FPAC antes de ir. Contacto: info@fpac.org Iremos a
- ctualizando la información a medida que el organizador la publique. Una j
- ornada de puertas abiertas con sabor navideño El PAC Obert de Navidad es 
- la última jornada de puertas abiertas del año de la Fundació Parc Aeron
- àutic de Catalunya (FPAC) en el Aeropuerto de Sabadell \, y la más espec
- ial para los más pequeños: además de la exposición y del vuelo de los 
- aviones clásicos de la Fundación\, la mañana incluye la llegada de Pap
- á Noel . La FPAC restaura y mantiene en condiciones de vuelo una de las c
- olecciones de aviación histórica más importantes de España gracias a s
- us voluntarios y benefactores. Los PAC Obert son la forma de compartir ese
-  patrimonio con el público. Para familias y pilotos Para familias y afici
- onados : un plan navideño diferente\, gratuito y al aire libre\, con avio
- nes de verdad volando. Para pilotos de ULM y aviación general : una buena
-  excusa para acercarse a Sabadell\, ver de cerca aviones clásicos y charl
- ar con quienes los mantienen y vuelan. Horario previsto La FPAC indica el 
- mismo horario que en el resto de PAC Obert: 10:00 — Acceso libre a la ex
- posición de aeronaves. 10:00-12:30 — Visitas al Museu Aeronàutic de Ca
- talunya (entrada aparte). 11:00-13:30 — Exhibición en tierra y en vuelo
-  de las aeronaves clásicas. 13:30 — Clausura. La hora concreta de la ll
- egada de Papá Noel todavía no se ha publicado. Precio Acceso libre y gra
- tuito . La entrada al Museu Aeronàutic de Catalunya se compra aparte en l
- a web de la FPAC. Cómo llegar Aeropuerto de Sabadell\, Carretera de Bella
- terra s/n\, 08205 Sabadell\, a unos 25 minutos en coche de Barcelona. Las 
- jornadas pueden anularse por mal tiempo\, así que conviene revisar la web
-  de la FPAC antes de ir. Contacto: info@fpac.org Iremos actualizando la in
- formación a medida que el organizador la publique. Una jornada de puertas
-  abiertas con sabor navideño El PAC Obert de Navidad es la última jornad
- a de puertas abiertas del año de la Fundació Parc Aeronàutic de Catalun
- ya (FPAC) en el Aeropuerto de Sabadell \, y la más especial para los más
-  pequeños: además de la exposición y del vuelo de los aviones clásicos
-  de la Fundación\, la mañana incluye la llegada de Papá Noel . La FPAC 
- restaura y mantiene en condiciones de vuelo una de las colecciones de avia
- ción histórica más importantes de España gracias a sus voluntarios y b
- enefactores. Los PAC Obert son la forma de compartir ese patrimonio con el
-  público. Para familias y pilotos Para familias y aficionados : un plan n
- avideño diferente\, gratuito y al aire libre\, con aviones de verdad vola
- ndo. Para pilotos de ULM y aviación general : una buena excusa para acerc
- arse a Sabadell\, ver de cerca aviones clásicos y charlar con quienes los
-  mantienen y vuelan. Horario previsto La FPAC indica el mismo horario que 
- en el resto de PAC Obert: 10:00 — Acceso libre a la exposición de aeron
- aves. 10:00-12:30 — Visitas al Museu Aeronàutic de Catalunya (entrada a
- parte). 11:00-13:30 — Exhibición en tierra y en vuelo de las aeronaves 
- clásicas. 13:30 — Clausura. La hora concreta de la llegada de Papá Noe
- l todavía no se ha publicado. Precio Acceso libre y gratuito . La entrada
-  al Museu Aeronàutic de Catalunya se compra aparte en la web de la FPAC. 
- Cómo llegar Aeropuerto de Sabadell\, Carretera de Bellaterra s/n\, 08205 
- Sabadell\, a unos 25 minutos en coche de Barcelona. Las jornadas pueden an
- ularse por mal tiempo\, así que conviene revisar la web de la FPAC antes 
- de ir. Contacto: info@fpac.org Iremos actualizando la información a medid
- a que el organizador la publique.\n\nFuente: https://www.preparaulm.com/ev
- entos-aeronauticos/pac-obert-navidad-sabadell-2026
+ ne revisar la web de la FPAC antes de ir. Contacto: info@fpac.org Galería
+  La portada muestra una jornada de puertas abiertas en la plataforma del A
+ eropuerto de Sabadell\, con aviones clásicos expuestos y público. En la 
+ galería hay tres aviones históricos de la Fundació volando en formació
+ n y el interior del Museu Aeronàutic de Catalunya. Fotos: Fundació Parc 
+ Aeronàutic de Catalunya (fpac.org). Iremos actualizando la información a
+  medida que el organizador la publique. Una jornada de puertas abiertas co
+ n sabor navideño El PAC Obert de Navidad es la última jornada de puertas
+  abiertas del año de la Fundació Parc Aeronàutic de Catalunya (FPAC) en
+  el Aeropuerto de Sabadell \, y la más especial para los más pequeños: 
+ además de la exposición y del vuelo de los aviones clásicos de la Funda
+ ción\, la mañana incluye la llegada de Papá Noel . La FPAC restaura y m
+ antiene en condiciones de vuelo una de las colecciones de aviación histó
+ rica más importantes de España gracias a sus voluntarios y benefactores.
+  Los PAC Obert son la forma de compartir ese patrimonio con el público. P
+ ara familias y pilotos Para familias y aficionados : un plan navideño dif
+ erente\, gratuito y al aire libre\, con aviones de verdad volando. Para pi
+ lotos de ULM y aviación general : una buena excusa para acercarse a Sabad
+ ell\, ver de cerca aviones clásicos y charlar con quienes los mantienen y
+  vuelan. Horario previsto La FPAC indica el mismo horario que en el resto 
+ de PAC Obert: 10:00 — Acceso libre a la exposición de aeronaves. 10:00-
+ 12:30 — Visitas al Museu Aeronàutic de Catalunya (entrada aparte). 11:0
+ 0-13:30 — Exhibición en tierra y en vuelo de las aeronaves clásicas. 1
+ 3:30 — Clausura. La hora concreta de la llegada de Papá Noel todavía n
+ o se ha publicado. Precio Acceso libre y gratuito . La entrada al Museu Ae
+ ronàutic de Catalunya se compra aparte en la web de la FPAC. Cómo llegar
+  Aeropuerto de Sabadell\, Carretera de Bellaterra s/n\, 08205 Sabadell\, a
+  unos 25 minutos en coche de Barcelona. Las jornadas pueden anularse por m
+ al tiempo\, así que conviene revisar la web de la FPAC antes de ir. Conta
+ cto: info@fpac.org Galería La portada muestra una jornada de puertas abie
+ rtas en la plataforma del Aeropuerto de Sabadell\, con aviones clásicos e
+ xpuestos y público. En la galería hay tres aviones históricos de la Fun
+ dació volando en formación y el interior del Museu Aeronàutic de Catalu
+ nya. Fotos: Fundació Parc Aeronàutic de Catalunya (fpac.org). Iremos act
+ ualizando la información a medida que el organizador la publique. Una jor
+ nada de puertas abiertas con sabor navideño El PAC Obert de Navidad es la
+  última jornada de puertas abiertas del año de la Fundació Parc Aeronà
+ utic de Catalunya (FPAC) en el Aeropuerto de Sabadell \, y la más especia
+ l para los más pequeños: además de la exposición y del vuelo de los av
+ iones clásicos de la Fundación\, la mañana incluye la llegada de Papá 
+ Noel . La FPAC restaura y mantiene en condiciones de vuelo una de las cole
+ cciones de aviación histórica más importantes de España gracias a sus 
+ voluntarios y benefactores. Los PAC Obert son la forma de compartir ese pa
+ trimonio con el público. Para familias y pilotos Para familias y aficiona
+ dos : un plan navideño diferente\, gratuito y al aire libre\, con aviones
+  de verdad volando. Para pilotos de ULM y aviación general : una buena ex
+ cusa para acercarse a Sabadell\, ver de cerca aviones clásicos y charlar 
+ con quienes los mantienen y vuelan. Horario previsto La FPAC indica el mis
+ mo horario que en el resto de PAC Obert: 10:00 — Acceso libre a la expos
+ ición de aeronaves. 10:00-12:30 — Visitas al Museu Aeronàutic de Catal
+ unya (entrada aparte). 11:00-13:30 — Exhibición en tierra y en vuelo de
+  las aeronaves clásicas. 13:30 — Clausura. La hora concreta de la llega
+ da de Papá Noel todavía no se ha publicado. Precio Acceso libre y gratui
+ to . La entrada al Museu Aeronàutic de Catalunya se compra aparte en la w
+ eb de la FPAC. Cómo llegar Aeropuerto de Sabadell\, Carretera de Bellater
+ ra s/n\, 08205 Sabadell\, a unos 25 minutos en coche de Barcelona. Las jor
+ nadas pueden anularse por mal tiempo\, así que conviene revisar la web de
+  la FPAC antes de ir. Contacto: info@fpac.org Galería La portada muestra 
+ una jornada de puertas abiertas en la plataforma del Aeropuerto de Sabadel
+ l\, con aviones clásicos expuestos y público. En la galería hay tres av
+ iones históricos de la Fundació volando en formación y el interior del 
+ Museu Aeronàutic de Catalunya. Fotos: Fundació Parc Aeronàutic de Catal
+ unya (fpac.org). Iremos actualizando la información a medida que el organ
+ izador la publique.\n\nFuente: https://www.preparaulm.com/eventos-aeronaut
+ icos/pac-obert-navidad-sabadell-2026
 LOCATION:Aeropuerto de Sabadell (LELL)\, Sabadell (Barcelona)
 URL:https://www.preparaulm.com/eventos-aeronauticos/pac-obert-navidad-saba
  dell-2026
@@ -1152,7 +1228,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Club Class La Cerdanya 2027 — Vuelo a vela
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261026T223434Z
+DTSTAMP:20261027T113248Z
 UID:7d9586aa47d97c271a07@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nDel 5 al 11 de septiembre de
   2027 el aeródromo de La Cerdanya acoge el Grand Prix Club Class \, una c
@@ -1258,5 +1334,78 @@ DESCRIPTION:Evento obtenido de PreparaULM.\n\nDel 5 al 11 de septiembre de
 LOCATION:Aeròdrom de la Cerdanya (LECD)\, Das (Girona)
 URL:https://www.preparaulm.com/eventos-aeronauticos/grand-prix-club-class-
  la-cerdanya-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Festa al Cel 2027 — Salou
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+DTSTAMP:20261027T113248Z
+UID:f2b690761dd11b4ca259@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nFesta al Cel vuelve a Salou 
+ (Tarragona) del 17 al 19 de septiembre de 2027 . La organización ha anunc
+ iado las fechas en sus redes sociales oficiales. El programa y la lista de
+  participantes todavía no se han publicado. Festa al Cel vuelve a Salou (
+ Tarragona) del 17 al 19 de septiembre de 2027 . La organización ha anunci
+ ado las fechas en sus redes sociales oficiales. El programa y la lista de 
+ participantes todavía no se han publicado. Festa al Cel vuelve a Salou (T
+ arragona) del 17 al 19 de septiembre de 2027 . La organización ha anuncia
+ do las fechas en sus redes sociales oficiales. Festa al Cel Salou (Tarrago
+ na) 17 al 19 de septiembre de 2027 El programa y la lista de participantes
+  todavía no se han publicado. Festa al Cel 2027 Festa al Cel es el gran f
+ estival aéreo de la costa catalana y uno de los mayores de España. Se ce
+ lebra sobre la playa de Salou (Tarragona) . La organización ha anunciado 
+ en sus redes sociales que la próxima edición será el 17\, 18 y 19 de se
+ ptiembre de 2027 . La edición anterior En la edición de septiembre de 20
+ 26 participaron\, entre otros\, el Eurofighter Typhoon y el A400M del Ejé
+ rcito del Aire y del Espacio\, la patrulla letona Baltic Bees Jet Team con
+  sus L-39 Albatros y el helicóptero de Salvamento Marítimo (SASEMAR) . A
+ demás del festival principal del domingo\, el sábado hubo un espectácul
+ o al atardecer. Fechas Del viernes 17 al domingo 19 de septiembre de 2027.
+  Todavía no se han publicado los horarios de cada jornada ni el cartel de
+  aeronaves. Para el público Es un festival que se sigue desde la playa y 
+ el paseo marítimo de Salou. Septiembre es temporada alta en la Costa Daur
+ ada\, así que conviene reservar el alojamiento con antelación. Galería 
+ La portada muestra aviones volando sobre la playa de Salou durante el fest
+ ival. Foto: Ajuntament de Salou (salou.cat). Fuentes Festa al Cel: anuncio
+  de las fechas de 2027 en su página oficial de Facebook Iremos actualizan
+ do la información a medida que el organizador la publique. Festa al Cel 2
+ 027 Festa al Cel es el gran festival aéreo de la costa catalana y uno de 
+ los mayores de España. Se celebra sobre la playa de Salou (Tarragona) . L
+ a organización ha anunciado en sus redes sociales que la próxima edició
+ n será el 17\, 18 y 19 de septiembre de 2027 . La edición anterior En la
+  edición de septiembre de 2026 participaron\, entre otros\, el Eurofighte
+ r Typhoon y el A400M del Ejército del Aire y del Espacio\, la patrulla le
+ tona Baltic Bees Jet Team con sus L-39 Albatros y el helicóptero de Salva
+ mento Marítimo (SASEMAR) . Además del festival principal del domingo\, e
+ l sábado hubo un espectáculo al atardecer. Fechas Del viernes 17 al domi
+ ngo 19 de septiembre de 2027. Todavía no se han publicado los horarios de
+  cada jornada ni el cartel de aeronaves. Para el público Es un festival q
+ ue se sigue desde la playa y el paseo marítimo de Salou. Septiembre es te
+ mporada alta en la Costa Daurada\, así que conviene reservar el alojamien
+ to con antelación. Galería La portada muestra aviones volando sobre la p
+ laya de Salou durante el festival. Foto: Ajuntament de Salou (salou.cat). 
+ Fuentes Festa al Cel: anuncio de las fechas de 2027 en su página oficial 
+ de Facebook Iremos actualizando la información a medida que el organizado
+ r la publique. Festa al Cel 2027 Festa al Cel es el gran festival aéreo d
+ e la costa catalana y uno de los mayores de España. Se celebra sobre la p
+ laya de Salou (Tarragona) . La organización ha anunciado en sus redes soc
+ iales que la próxima edición será el 17\, 18 y 19 de septiembre de 2027
+  . La edición anterior En la edición de septiembre de 2026 participaron
+ \, entre otros\, el Eurofighter Typhoon y el A400M del Ejército del Aire 
+ y del Espacio\, la patrulla letona Baltic Bees Jet Team con sus L-39 Albat
+ ros y el helicóptero de Salvamento Marítimo (SASEMAR) . Además del fest
+ ival principal del domingo\, el sábado hubo un espectáculo al atardecer.
+  Fechas Del viernes 17 al domingo 19 de septiembre de 2027. Todavía no se
+  han publicado los horarios de cada jornada ni el cartel de aeronaves. Par
+ a el público Es un festival que se sigue desde la playa y el paseo marít
+ imo de Salou. Septiembre es temporada alta en la Costa Daurada\, así que 
+ conviene reservar el alojamiento con antelación. Galería La portada mues
+ tra aviones volando sobre la playa de Salou durante el festival. Foto: Aju
+ ntament de Salou (salou.cat). Fuentes Festa al Cel: anuncio de las fechas 
+ de 2027 en su página oficial de Facebook Iremos actualizando la informaci
+ ón a medida que el organizador la publique.\n\nFuente: https://www.prepar
+ aulm.com/eventos-aeronauticos/festa-al-cel-2027
+LOCATION:Playa de Salou\, Tarragona
+URL:https://www.preparaulm.com/eventos-aeronauticos/festa-al-cel-2027
 END:VEVENT
 END:VCALENDAR
