@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Grandes Vuelos de la Aviación Española 1926–1935 — Ourense
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:eebbb336424989abba47@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Centro Cultural José Án
  gel Valente acoge del 16 al 31 de octubre de 2026 la exposición Grandes V
@@ -156,7 +156,7 @@ SUMMARY:SKYPOLARIS — La vuelta al mundo por los polos\, con Michel Gordi
  llo
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:2d3fa57999eed161caa1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 31 de octubre de 
  2026\, a las 12:00\, Michel Gordillo impartirá la conferencia SKYPOLARIS:
@@ -209,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Noviembre 2026
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:8754f0668d60a5f20956@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de aviones históricos en vuelo en el 
@@ -289,7 +289,7 @@ SUMMARY:PAC Obert — Jornada de puertas abiertas en el Aeropuerto de Saba
  dell (noviembre 2026)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:3ba46573bec98e919dd5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 15 de noviembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya (FPAC) abre su plataform
@@ -433,7 +433,7 @@ SUMMARY:7a Trobada de Tardor de Airbet — Aeròdrom d'Avinyonet del Pened
  ès
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:cc4fd4f90097ed8d102a@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 21 de noviembre d
  e 2026 Airbet celebra la 7a Trobada de Tardor en el Aeròdrom d'Avinyonet 
@@ -583,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:Rally ULM Túnez 2026
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:1eff7c79ac17a6cbebe1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nRally de ultraligeros organi
  zado por AEPAL que cruza el Mediterráneo y recorre paisajes tunecinos: Ta
@@ -700,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:Centenario de la Patrulla Atlántida — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:080106f422c6a248c52e@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nMelilla conmemora el centena
  rio de la Patrulla Atlántida. Melilla conmemora el centenario de la Patru
@@ -790,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:Exposición Centenario de los Grandes Vuelos — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:83f9f5d979be50d386ff@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl calendario del Ejército 
  del Aire y del Espacio anuncia una exposición del Centenario de los Grand
@@ -866,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -956,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -1040,7 +1040,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
@@ -1114,7 +1114,7 @@ SUMMARY:PAC Obert de Navidad — Llegada de Papá Noel al Aeropuerto de Sa
  badell
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:d7eb9ddd2c12879a1c9f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 20 de diciembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya celebra su PAC Obert de 
@@ -1227,7 +1227,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Club Class La Cerdanya 2027 — Vuelo a vela
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:7d9586aa47d97c271a07@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nDel 5 al 11 de septiembre de
   2027 el aeródromo de La Cerdanya acoge el Grand Prix Club Class \, una c
@@ -1338,7 +1338,7 @@ BEGIN:VEVENT
 SUMMARY:Festa al Cel 2027 — Salou
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261028T120256Z
+DTSTAMP:20261028T222818Z
 UID:f2b690761dd11b4ca259@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nFesta al Cel vuelve a Salou 
  (Tarragona) del 17 al 19 de septiembre de 2027 . La organización ha anunc
