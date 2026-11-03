@@ -10,7 +10,7 @@ SUMMARY:PAC Obert — Jornada de puertas abiertas en el Aeropuerto de Saba
  dell (noviembre 2026)
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:3ba46573bec98e919dd5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 15 de noviembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya (FPAC) abre su plataform
@@ -154,7 +154,7 @@ SUMMARY:7a Trobada de Tardor de Airbet — Aeròdrom d'Avinyonet del Pened
  ès
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:cc4fd4f90097ed8d102a@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl sábado 21 de noviembre d
  e 2026 Airbet celebra la 7a Trobada de Tardor en el Aeròdrom d'Avinyonet 
@@ -304,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Rally ULM Túnez 2026
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:1eff7c79ac17a6cbebe1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nRally de ultraligeros organi
  zado por AEPAL que cruza el Mediterráneo y recorre paisajes tunecinos: Ta
@@ -421,7 +421,7 @@ BEGIN:VEVENT
 SUMMARY:Centenario de la Patrulla Atlántida — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:080106f422c6a248c52e@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nMelilla conmemora el centena
  rio de la Patrulla Atlántida. Melilla conmemora el centenario de la Patru
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:Exposición Centenario de los Grandes Vuelos — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:83f9f5d979be50d386ff@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl calendario del Ejército 
  del Aire y del Espacio anuncia una exposición del Centenario de los Grand
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -677,7 +677,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -761,7 +761,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
@@ -835,7 +835,7 @@ SUMMARY:PAC Obert de Navidad — Llegada de Papá Noel al Aeropuerto de Sa
  badell
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:d7eb9ddd2c12879a1c9f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 20 de diciembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya celebra su PAC Obert de 
@@ -945,10 +945,130 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/pac-obert-navidad-saba
  dell-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Motril Airshow 2027
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+DTSTAMP:20261103T231036Z
+UID:9d34db80c5ba57c65f5e@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Festival Aéreo Internaci
+ onal de Motril celebra su XXI edición el domingo 27 de junio de 2027 en l
+ a costa de Motril (Granada). Lo organiza la Asociación Aeronáutica Andal
+ uza Orión y\, según la web oficial\, es gratuito y para todos los públi
+ cos. La parrilla de aeronaves\, los horarios y el emplazamiento exacto par
+ a 2027 aún no se han publicado. El Festival Aéreo Internacional de Motri
+ l celebra su XXI edición el domingo 27 de junio de 2027 en la costa de Mo
+ tril (Granada). Lo organiza la Asociación Aeronáutica Andaluza Orión y
+ \, según la web oficial\, es gratuito y para todos los públicos. La parr
+ illa de aeronaves\, los horarios y el emplazamiento exacto para 2027 aún 
+ no se han publicado. El Festival Aéreo Internacional de Motril celebra su
+  XXI edición el domingo 27 de junio de 2027 en la costa de Motril (Granad
+ a). Lo organiza la Asociación Aeronáutica Andaluza Orión y\, según la 
+ web oficial\, es gratuito y para todos los públicos. La parrilla de aeron
+ aves\, los horarios y el emplazamiento exacto para 2027 aún no se han pub
+ licado. domingo 27 de junio de 2027 El festival El Motril Airshow \, o Fes
+ tival Aéreo Internacional de Motril\, es una exhibición aérea que se ce
+ lebra sobre la costa de Motril\, en la provincia de Granada. Lo organiza l
+ a Asociación Aeronáutica Andaluza Orión (AAAO) \, una asociación cultu
+ ral sin ánimo de lucro con sede en Motril. La primera edición se celebr
+ ó el 10 de junio de 2006 en el Helipuerto Municipal de Motril. La de 2027
+  será la XXI edición . Según la web oficial\, el festival es gratuito y
+  para todos los públicos . Fecha Domingo 27 de junio de 2027. Aparece en 
+ la web oficial y en los carteles de la organización («27 junio 2027 · X
+ XI edición»). Lugar En su página de información general\, la web ofici
+ al sitúa el eje de exhibición frente al Chiringuito El Espeto\, en el Ca
+ mino del Peladillo s/n ( Playa de Poniente \, Motril). Indica también que
+  el festival puede verse desde toda la playa. Pendiente de confirmar: esa 
+ página no lleva fecha y la organización no ha publicado todavía un empl
+ azamiento específico para 2027. Algunos calendarios internacionales de fe
+ stivales sitúan la edición de 2027 en Playa Granada. Hasta que la organi
+ zación lo confirme\, la ubicación de esta ficha es orientativa. Aeronave
+ s y horarios Pendiente de publicar. La organización avisa de que los hora
+ rios de los entrenamientos y la parrilla de participantes no estarán disp
+ onibles hasta que se acerque la fecha del festival. Ahora mismo\, la parri
+ lla 2027 de la web oficial no muestra ninguna aeronave. Esa parrilla clasi
+ fica a los participantes en aviones\, helicópteros\, ultraligeros y parac
+ aidistas\, de tipo civil\, militar\, estatal o histórico. Edición anteri
+ or La XX edición se celebró el 21 de junio de 2026. Puedes consultar su 
+ ficha en Motril Airshow 2026 . Iremos actualizando la información a medid
+ a que el organizador la publique. Galería Imágenes: Motril Airshow / Aso
+ ciación Aeronáutica Andaluza Orión (motrilairshow.com). La primera es u
+ n cartel oficial de la edición 2027. El resto son fotografías de edicion
+ es anteriores publicadas en la galería de la web oficial. Más informaci
+ ón Web oficial del Motril Airshow Información práctica (web oficial) Fe
+ stival y parrilla de aeronaves Asociación Aeronáutica Andaluza Orión Fu
+ entes Calendario de festivales aéreos de air-shows.org.uk El festival El 
+ Motril Airshow \, o Festival Aéreo Internacional de Motril\, es una exhib
+ ición aérea que se celebra sobre la costa de Motril\, en la provincia de
+  Granada. Lo organiza la Asociación Aeronáutica Andaluza Orión (AAAO) 
+ \, una asociación cultural sin ánimo de lucro con sede en Motril. La pri
+ mera edición se celebró el 10 de junio de 2006 en el Helipuerto Municipa
+ l de Motril. La de 2027 será la XXI edición . Según la web oficial\, el
+  festival es gratuito y para todos los públicos . Fecha Domingo 27 de jun
+ io de 2027. Aparece en la web oficial y en los carteles de la organizació
+ n («27 junio 2027 · XXI edición»). Lugar En su página de información
+  general\, la web oficial sitúa el eje de exhibición frente al Chiringui
+ to El Espeto\, en el Camino del Peladillo s/n ( Playa de Poniente \, Motri
+ l). Indica también que el festival puede verse desde toda la playa. Pendi
+ ente de confirmar: esa página no lleva fecha y la organización no ha pub
+ licado todavía un emplazamiento específico para 2027. Algunos calendario
+ s internacionales de festivales sitúan la edición de 2027 en Playa Grana
+ da. Hasta que la organización lo confirme\, la ubicación de esta ficha e
+ s orientativa. Aeronaves y horarios Pendiente de publicar. La organizació
+ n avisa de que los horarios de los entrenamientos y la parrilla de partici
+ pantes no estarán disponibles hasta que se acerque la fecha del festival.
+  Ahora mismo\, la parrilla 2027 de la web oficial no muestra ninguna aeron
+ ave. Esa parrilla clasifica a los participantes en aviones\, helicópteros
+ \, ultraligeros y paracaidistas\, de tipo civil\, militar\, estatal o hist
+ órico. Edición anterior La XX edición se celebró el 21 de junio de 202
+ 6. Puedes consultar su ficha en Motril Airshow 2026 . Iremos actualizando 
+ la información a medida que el organizador la publique. Galería Imágene
+ s: Motril Airshow / Asociación Aeronáutica Andaluza Orión (motrilairsho
+ w.com). La primera es un cartel oficial de la edición 2027. El resto son 
+ fotografías de ediciones anteriores publicadas en la galería de la web o
+ ficial. Más información Web oficial del Motril Airshow Información prá
+ ctica (web oficial) Festival y parrilla de aeronaves Asociación Aeronáut
+ ica Andaluza Orión Fuentes Calendario de festivales aéreos de air-shows.
+ org.uk El festival El Motril Airshow \, o Festival Aéreo Internacional de
+  Motril\, es una exhibición aérea que se celebra sobre la costa de Motri
+ l\, en la provincia de Granada. Lo organiza la Asociación Aeronáutica An
+ daluza Orión (AAAO) \, una asociación cultural sin ánimo de lucro con s
+ ede en Motril. La primera edición se celebró el 10 de junio de 2006 en e
+ l Helipuerto Municipal de Motril. La de 2027 será la XXI edición . Segú
+ n la web oficial\, el festival es gratuito y para todos los públicos . Fe
+ cha Domingo 27 de junio de 2027. Aparece en la web oficial y en los cartel
+ es de la organización («27 junio 2027 · XXI edición»). Lugar En su p
+ ágina de información general\, la web oficial sitúa el eje de exhibici
+ ón frente al Chiringuito El Espeto\, en el Camino del Peladillo s/n ( Pla
+ ya de Poniente \, Motril). Indica también que el festival puede verse des
+ de toda la playa. Pendiente de confirmar: esa página no lleva fecha y la 
+ organización no ha publicado todavía un emplazamiento específico para 2
+ 027. Algunos calendarios internacionales de festivales sitúan la edición
+  de 2027 en Playa Granada. Hasta que la organización lo confirme\, la ubi
+ cación de esta ficha es orientativa. Aeronaves y horarios Pendiente de pu
+ blicar. La organización avisa de que los horarios de los entrenamientos y
+  la parrilla de participantes no estarán disponibles hasta que se acerque
+  la fecha del festival. Ahora mismo\, la parrilla 2027 de la web oficial n
+ o muestra ninguna aeronave. Esa parrilla clasifica a los participantes en 
+ aviones\, helicópteros\, ultraligeros y paracaidistas\, de tipo civil\, m
+ ilitar\, estatal o histórico. Edición anterior La XX edición se celebr
+ ó el 21 de junio de 2026. Puedes consultar su ficha en Motril Airshow 202
+ 6 . Iremos actualizando la información a medida que el organizador la pub
+ lique. Galería Imágenes: Motril Airshow / Asociación Aeronáutica Andal
+ uza Orión (motrilairshow.com). La primera es un cartel oficial de la edic
+ ión 2027. El resto son fotografías de ediciones anteriores publicadas en
+  la galería de la web oficial. Más información Web oficial del Motril A
+ irshow Información práctica (web oficial) Festival y parrilla de aeronav
+ es Asociación Aeronáutica Andaluza Orión Fuentes Calendario de festival
+ es aéreos de air-shows.org.uk\n\nFuente: https://www.preparaulm.com/event
+ os-aeronauticos/motril-airshow-2027
+LOCATION:Costa de Motril (Granada)\, emplazamiento por confirmar
+URL:https://www.preparaulm.com/eventos-aeronauticos/motril-airshow-2027
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand Prix Club Class La Cerdanya 2027 — Vuelo a vela
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:7d9586aa47d97c271a07@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nDel 5 al 11 de septiembre de
   2027 el aeródromo de La Cerdanya acoge el Grand Prix Club Class \, una c
@@ -1059,7 +1179,7 @@ BEGIN:VEVENT
 SUMMARY:Festa al Cel 2027 — Salou
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261103T133315Z
+DTSTAMP:20261103T231036Z
 UID:f2b690761dd11b4ca259@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nFesta al Cel vuelve a Salou 
  (Tarragona) del 17 al 19 de septiembre de 2027 . La organización ha anunc
