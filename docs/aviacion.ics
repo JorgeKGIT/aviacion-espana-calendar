@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Rally ULM Túnez 2026
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:1eff7c79ac17a6cbebe1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nRally de ultraligeros organi
  zado por AEPAL que cruza el Mediterráneo y recorre paisajes tunecinos: Ta
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Centenario de la Patrulla Atlántida — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:080106f422c6a248c52e@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nMelilla conmemora el centena
  rio de la Patrulla Atlántida. Melilla conmemora el centenario de la Patru
@@ -216,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Exposición Centenario de los Grandes Vuelos — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:83f9f5d979be50d386ff@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl calendario del Ejército 
  del Aire y del Espacio anuncia una exposición del Centenario de los Grand
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -382,7 +382,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -466,7 +466,7 @@ BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
@@ -540,7 +540,7 @@ SUMMARY:PAC Obert de Navidad — Llegada de Papá Noel al Aeropuerto de Sa
  badell
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:d7eb9ddd2c12879a1c9f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 20 de diciembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya celebra su PAC Obert de 
@@ -653,7 +653,7 @@ BEGIN:VEVENT
 SUMMARY:Motril Airshow 2027
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:9d34db80c5ba57c65f5e@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Festival Aéreo Internaci
  onal de Motril celebra su XXI edición el domingo 27 de junio de 2027 en l
@@ -773,7 +773,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Club Class La Cerdanya 2027 — Vuelo a vela
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:7d9586aa47d97c271a07@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nDel 5 al 11 de septiembre de
   2027 el aeródromo de La Cerdanya acoge el Grand Prix Club Class \, una c
@@ -884,7 +884,7 @@ BEGIN:VEVENT
 SUMMARY:Festa al Cel 2027 — Salou
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261121T230024Z
+DTSTAMP:20261122T135903Z
 UID:f2b690761dd11b4ca259@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nFesta al Cel vuelve a Salou 
  (Tarragona) del 17 al 19 de septiembre de 2027 . La organización ha anunc
