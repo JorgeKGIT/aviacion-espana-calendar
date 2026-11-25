@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:Rally ULM Túnez 2026
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:1eff7c79ac17a6cbebe1@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nRally de ultraligeros organi
  zado por AEPAL que cruza el Mediterráneo y recorre paisajes tunecinos: Ta
@@ -123,10 +123,65 @@ LOCATION:Salida y llegada en Tabarka (DTKA)\, Túnez\, con cruce desde Có
 URL:https://www.preparaulm.com/eventos-aeronauticos/rally-ulm-tunez-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:1ª Lliga Catalana de Ral·li 2026 — Sabadell
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261125T164422Z
+UID:3180f4c7a3cab3499e96@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Federació Aèria Catalan
+ a anuncia para el sábado 28 de noviembre de 2026 la 1ª Lliga Catalana de
+  Ral·li\, prueba de vuelo a motor en el Aeropuerto de Sabadell. El calend
+ ario oficial la encuadra en las categorías Ral·li y Vol a Motor\, y señ
+ ala como organizador al Aeroclub Barcelona-Sabadell. El programa\, el hora
+ rio y la inscripción todavía no se han publicado. La Federació Aèria C
+ atalana anuncia para el sábado 28 de noviembre de 2026 la 1ª Lliga Catal
+ ana de Ral·li\, prueba de vuelo a motor en el Aeropuerto de Sabadell. El 
+ calendario oficial la encuadra en las categorías Ral·li y Vol a Motor\, 
+ y señala como organizador al Aeroclub Barcelona-Sabadell. El programa\, e
+ l horario y la inscripción todavía no se han publicado. La Federació A
+ èria Catalana anuncia para el sábado 28 de noviembre de 2026 la 1ª Llig
+ a Catalana de Ral·li\, prueba de vuelo a motor en el Aeropuerto de Sabade
+ ll. El calendario oficial la encuadra en las categorías Ral·li y Vol a M
+ otor\, y señala como organizador al Aeroclub Barcelona-Sabadell. El progr
+ ama\, el horario y la inscripción todavía no se han publicado. 1ª Lliga
+  Catalana de Ral·li 2026 Primera prueba de la Lliga Catalana de Ral·li d
+ e vuelo a motor\, anunciada en el calendario oficial de la Federació Aèr
+ ia Catalana . Fecha: sábado 28 de noviembre de 2026 Lugar: Aeropuerto de 
+ Sabadell (LELL)\, Carretera de Bellaterra s/n\, 08205 Sabadell\, Barcelona
+  Organiza: Aeroclub Barcelona-Sabadell Categorías en el calendario FAC: R
+ al·li\, Vol a Motor El programa\, el horario\, el reglamento de la prueba
+  y el modo de inscripción todavía no aparecen en la ficha del calendario
+  ni en la web del Aeroclub Barcelona-Sabadell. Iremos actualizando la info
+ rmación a medida que el organizador la publique. 1ª Lliga Catalana de Ra
+ l·li 2026 Primera prueba de la Lliga Catalana de Ral·li de vuelo a motor
+ \, anunciada en el calendario oficial de la Federació Aèria Catalana . F
+ echa: sábado 28 de noviembre de 2026 Lugar: Aeropuerto de Sabadell (LELL)
+ \, Carretera de Bellaterra s/n\, 08205 Sabadell\, Barcelona Organiza: Aero
+ club Barcelona-Sabadell Categorías en el calendario FAC: Ral·li\, Vol a 
+ Motor El programa\, el horario\, el reglamento de la prueba y el modo de i
+ nscripción todavía no aparecen en la ficha del calendario ni en la web d
+ el Aeroclub Barcelona-Sabadell. Iremos actualizando la información a medi
+ da que el organizador la publique. 1ª Lliga Catalana de Ral·li 2026 Prim
+ era prueba de la Lliga Catalana de Ral·li de vuelo a motor\, anunciada en
+  el calendario oficial de la Federació Aèria Catalana . Fecha: sábado 2
+ 8 de noviembre de 2026 Lugar: Aeropuerto de Sabadell (LELL)\, Carretera de
+  Bellaterra s/n\, 08205 Sabadell\, Barcelona Organiza: Aeroclub Barcelona-
+ Sabadell Categorías en el calendario FAC: Ral·li\, Vol a Motor El progra
+ ma\, el horario\, el reglamento de la prueba y el modo de inscripción tod
+ avía no aparecen en la ficha del calendario ni en la web del Aeroclub Bar
+ celona-Sabadell. Iremos actualizando la información a medida que el organ
+ izador la publique.\n\nFuente: https://www.preparaulm.com/eventos-aeronaut
+ icos/lliga-catalana-ralli-1-sabadell-2026
+LOCATION:Aeropuerto de Sabadell (LELL)\, Carretera de Bellaterra s/n\, 082
+ 05 Sabadell\, Barcelona
+URL:https://www.preparaulm.com/eventos-aeronauticos/lliga-catalana-ralli-1
+ -sabadell-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Centenario de la Patrulla Atlántida — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:080106f422c6a248c52e@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nMelilla conmemora el centena
  rio de la Patrulla Atlántida. Melilla conmemora el centenario de la Patru
@@ -216,7 +271,7 @@ BEGIN:VEVENT
 SUMMARY:Exposición Centenario de los Grandes Vuelos — Melilla
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:83f9f5d979be50d386ff@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl calendario del Ejército 
  del Aire y del Espacio anuncia una exposición del Centenario de los Grand
@@ -292,7 +347,7 @@ BEGIN:VEVENT
 SUMMARY:III Congreso Internacional Aeroespacial de Canarias — CIAC 2026
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261205
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:fcdd33027115fb9cd415@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nCIAC 2026 se celebra el 3 y 
  4 de diciembre en el Instituto Tecnológico y de Energías Renovables (ITE
@@ -382,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:FIO Exhibición de Vuelo — Diciembre 2026
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:de79ac64409fd54137e9@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Fundación Infante de Orl
  eans celebra su exhibición mensual de vuelo en el Aeródromo de Cuatro Vi
@@ -463,10 +518,84 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/fio-exhibicion-vuelo-d
  iciembre-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:1ª Lliga Catalana de ANR 2026 — Igualada-Òdena
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+DTSTAMP:20261125T164422Z
+UID:8231562cd5f357f32a6a@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Federació Aèria Catalan
+ a anuncia para el 12 de diciembre de 2026 la 1ª Lliga Catalana de ANR (Ai
+ r Navigation Race) en el Aeródromo de Igualada-Òdena. En el mismo calend
+ ario\, y el mismo día en ese aeródromo\, la FAC lista también como entr
+ ada aparte el Campeonato de España de Air Sport Challenge (Christmas Race
+  2026\, 12 y 13 de diciembre). Son dos disciplinas distintas (ANR y ASC) p
+ ublicadas como eventos separados. El programa y la inscripción de la prue
+ ba de la liga todavía no se han publicado. La Federació Aèria Catalana 
+ anuncia para el 12 de diciembre de 2026 la 1ª Lliga Catalana de ANR (Air 
+ Navigation Race) en el Aeródromo de Igualada-Òdena. En el mismo calendar
+ io\, y el mismo día en ese aeródromo\, la FAC lista también como entrad
+ a aparte el Campeonato de España de Air Sport Challenge (Christmas Race 2
+ 026\, 12 y 13 de diciembre). Son dos disciplinas distintas (ANR y ASC) pub
+ licadas como eventos separados. El programa y la inscripción de la prueba
+  de la liga todavía no se han publicado. La Federació Aèria Catalana an
+ uncia para el 12 de diciembre de 2026 la 1ª Lliga Catalana de ANR (Air Na
+ vigation Race) en el Aeródromo de Igualada-Òdena. En el mismo calendario
+ \, y el mismo día en ese aeródromo\, la FAC lista también como entrada 
+ aparte el Campeonato de España de Air Sport Challenge (Christmas Race 202
+ 6\, 12 y 13 de diciembre). Son dos disciplinas distintas (ANR y ASC) publi
+ cadas como eventos separados. El programa y la inscripción de la prueba d
+ e la liga todavía no se han publicado. 1ª Lliga Catalana de ANR 2026 Pri
+ mera prueba de la Lliga Catalana de ANR (Air Navigation Race) de vuelo a m
+ otor\, anunciada en el calendario oficial de la Federació Aèria Catalana
+  . Fecha: 12 de diciembre de 2026 Lugar: Aeródromo de Igualada-Òdena (LE
+ IG)\, 08711 Òdena\, Barcelona Categorías en el calendario FAC: ANR\, Vol
+  a Motor Relación con la Christmas Race Ese mismo fin de semana\, en el m
+ ismo aeródromo\, la FAC publica como entrada distinta el Campeonato de Es
+ paña de Air Sport Challenge — Christmas Race 2026 (12 y 13 de diciembre
+ ). ANR y ASC son disciplinas diferentes\, y de momento las tratamos como p
+ ruebas distintas. Iremos actualizando la información si el organizador ac
+ lara que una cuenta para la otra o que se disputan en paralelo. El program
+ a\, el horario\, el organizador de club y el modo de inscripción de esta 
+ prueba de la liga todavía no aparecen en la ficha del calendario. Iremos 
+ actualizando la información a medida que el organizador la publique. 1ª 
+ Lliga Catalana de ANR 2026 Primera prueba de la Lliga Catalana de ANR (Air
+  Navigation Race) de vuelo a motor\, anunciada en el calendario oficial de
+  la Federació Aèria Catalana . Fecha: 12 de diciembre de 2026 Lugar: Aer
+ ódromo de Igualada-Òdena (LEIG)\, 08711 Òdena\, Barcelona Categorías e
+ n el calendario FAC: ANR\, Vol a Motor Relación con la Christmas Race Ese
+  mismo fin de semana\, en el mismo aeródromo\, la FAC publica como entrad
+ a distinta el Campeonato de España de Air Sport Challenge — Christmas R
+ ace 2026 (12 y 13 de diciembre). ANR y ASC son disciplinas diferentes\, y 
+ de momento las tratamos como pruebas distintas. Iremos actualizando la inf
+ ormación si el organizador aclara que una cuenta para la otra o que se di
+ sputan en paralelo. El programa\, el horario\, el organizador de club y el
+  modo de inscripción de esta prueba de la liga todavía no aparecen en la
+  ficha del calendario. Iremos actualizando la información a medida que el
+  organizador la publique. 1ª Lliga Catalana de ANR 2026 Primera prueba de
+  la Lliga Catalana de ANR (Air Navigation Race) de vuelo a motor\, anuncia
+ da en el calendario oficial de la Federació Aèria Catalana . Fecha: 12 d
+ e diciembre de 2026 Lugar: Aeródromo de Igualada-Òdena (LEIG)\, 08711 Ò
+ dena\, Barcelona Categorías en el calendario FAC: ANR\, Vol a Motor Relac
+ ión con la Christmas Race Ese mismo fin de semana\, en el mismo aeródrom
+ o\, la FAC publica como entrada distinta el Campeonato de España de Air S
+ port Challenge — Christmas Race 2026 (12 y 13 de diciembre). ANR y ASC s
+ on disciplinas diferentes\, y de momento las tratamos como pruebas distint
+ as. Iremos actualizando la información si el organizador aclara que una c
+ uenta para la otra o que se disputan en paralelo. El programa\, el horario
+ \, el organizador de club y el modo de inscripción de esta prueba de la l
+ iga todavía no aparecen en la ficha del calendario. Iremos actualizando l
+ a información a medida que el organizador la publique.\n\nFuente: https:/
+ /www.preparaulm.com/eventos-aeronauticos/lliga-catalana-anr-1-igualada-202
+ 6
+LOCATION:Aeródromo de Igualada-Òdena (LEIG)\, 08711 Òdena\, Barcelona
+URL:https://www.preparaulm.com/eventos-aeronauticos/lliga-catalana-anr-1-i
+ gualada-2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Campeonato de España ASC Open - Christmas Race 2026
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:051f4470e6164235a8c5@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Christmas Race es la prue
  ba puntuable para el Campeonato de España de Air Sport Challenge (ASC)\, 
@@ -540,7 +669,7 @@ SUMMARY:PAC Obert de Navidad — Llegada de Papá Noel al Aeropuerto de Sa
  badell
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:d7eb9ddd2c12879a1c9f@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl domingo 20 de diciembre d
  e 2026 la Fundació Parc Aeronàutic de Catalunya celebra su PAC Obert de 
@@ -650,10 +779,110 @@ URL:https://www.preparaulm.com/eventos-aeronauticos/pac-obert-navidad-saba
  dell-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2ª Lliga Catalana de ANR 2027 — Moià
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+DTSTAMP:20261125T164422Z
+UID:a7865d8c1c97c39ffb58@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Federació Aèria Catalan
+ a anuncia para el 23 de enero de 2027 la 2ª Lliga Catalana de ANR (Air Na
+ vigation Race) en el Aeroclub Moià (Avinguda del Prat s/n\, 08180 Moià\,
+  Barcelona). El calendario oficial la encuadra en las categorías ANR y Vo
+ l a Motor. El programa\, el horario y la inscripción todavía no se han p
+ ublicado. La Federació Aèria Catalana anuncia para el 23 de enero de 202
+ 7 la 2ª Lliga Catalana de ANR (Air Navigation Race) en el Aeroclub Moià 
+ (Avinguda del Prat s/n\, 08180 Moià\, Barcelona). El calendario oficial l
+ a encuadra en las categorías ANR y Vol a Motor. El programa\, el horario 
+ y la inscripción todavía no se han publicado. La Federació Aèria Catal
+ ana anuncia para el 23 de enero de 2027 la 2ª Lliga Catalana de ANR (Air 
+ Navigation Race) en el Aeroclub Moià (Avinguda del Prat s/n\, 08180 Moià
+ \, Barcelona). El calendario oficial la encuadra en las categorías ANR y 
+ Vol a Motor. El programa\, el horario y la inscripción todavía no se han
+  publicado. 2ª Lliga Catalana de ANR 2027 Segunda prueba de la Lliga Cata
+ lana de ANR (Air Navigation Race) de vuelo a motor\, anunciada en el calen
+ dario oficial de la Federació Aèria Catalana . Fecha: 23 de enero de 202
+ 7 Lugar: Aeroclub Moià\, Avinguda del Prat s/n\, 08180 Moià\, Barcelona 
+ Categorías en el calendario FAC: ANR\, Vol a Motor El programa\, el horar
+ io\, el organizador de club y el modo de inscripción todavía no aparecen
+  en la ficha del calendario. Iremos actualizando la información a medida 
+ que el organizador la publique. 2ª Lliga Catalana de ANR 2027 Segunda pru
+ eba de la Lliga Catalana de ANR (Air Navigation Race) de vuelo a motor\, a
+ nunciada en el calendario oficial de la Federació Aèria Catalana . Fecha
+ : 23 de enero de 2027 Lugar: Aeroclub Moià\, Avinguda del Prat s/n\, 0818
+ 0 Moià\, Barcelona Categorías en el calendario FAC: ANR\, Vol a Motor El
+  programa\, el horario\, el organizador de club y el modo de inscripción 
+ todavía no aparecen en la ficha del calendario. Iremos actualizando la in
+ formación a medida que el organizador la publique. 2ª Lliga Catalana de 
+ ANR 2027 Segunda prueba de la Lliga Catalana de ANR (Air Navigation Race) 
+ de vuelo a motor\, anunciada en el calendario oficial de la Federació Aè
+ ria Catalana . Fecha: 23 de enero de 2027 Lugar: Aeroclub Moià\, Avinguda
+  del Prat s/n\, 08180 Moià\, Barcelona Categorías en el calendario FAC: 
+ ANR\, Vol a Motor El programa\, el horario\, el organizador de club y el m
+ odo de inscripción todavía no aparecen en la ficha del calendario. Iremo
+ s actualizando la información a medida que el organizador la publique.\n
+ \nFuente: https://www.preparaulm.com/eventos-aeronauticos/lliga-catalana-a
+ nr-2-moia-2027
+LOCATION:Aeroclub Moià\, Avinguda del Prat s/n\, 08180 Moià\, Barcelona
+URL:https://www.preparaulm.com/eventos-aeronauticos/lliga-catalana-anr-2-m
+ oia-2027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2ª Lliga Catalana de Ral·li 2027 — Sabadell
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+DTSTAMP:20261125T164422Z
+UID:a571a29a68c297233173@aviacion-espana-calendar
+DESCRIPTION:Evento obtenido de PreparaULM.\n\nLa Federació Aèria Catalan
+ a anuncia para el 20 de febrero de 2027 la 2ª Lliga Catalana de Ral·li\,
+  prueba de vuelo a motor en el Aeropuerto de Sabadell. El calendario ofici
+ al la encuadra en las categorías Ral·li y Vol a Motor\, y señala como o
+ rganizador al Aeroclub Barcelona-Sabadell. El programa\, el horario y la i
+ nscripción todavía no se han publicado. La Federació Aèria Catalana an
+ uncia para el 20 de febrero de 2027 la 2ª Lliga Catalana de Ral·li\, pru
+ eba de vuelo a motor en el Aeropuerto de Sabadell. El calendario oficial l
+ a encuadra en las categorías Ral·li y Vol a Motor\, y señala como organ
+ izador al Aeroclub Barcelona-Sabadell. El programa\, el horario y la inscr
+ ipción todavía no se han publicado. La Federació Aèria Catalana anunci
+ a para el 20 de febrero de 2027 la 2ª Lliga Catalana de Ral·li\, prueba 
+ de vuelo a motor en el Aeropuerto de Sabadell. El calendario oficial la en
+ cuadra en las categorías Ral·li y Vol a Motor\, y señala como organizad
+ or al Aeroclub Barcelona-Sabadell. El programa\, el horario y la inscripci
+ ón todavía no se han publicado. 2ª Lliga Catalana de Ral·li 2027 Segun
+ da prueba de la Lliga Catalana de Ral·li de vuelo a motor\, anunciada en 
+ el calendario oficial de la Federació Aèria Catalana . Fecha: 20 de febr
+ ero de 2027 Lugar: Aeropuerto de Sabadell (LELL)\, Carretera de Bellaterra
+  s/n\, 08205 Sabadell\, Barcelona Organiza: Aeroclub Barcelona-Sabadell Ca
+ tegorías en el calendario FAC: Ral·li\, Vol a Motor El programa\, el hor
+ ario\, el reglamento de la prueba y el modo de inscripción todavía no ap
+ arecen en la ficha del calendario. Iremos actualizando la información a m
+ edida que el organizador la publique. 2ª Lliga Catalana de Ral·li 2027 S
+ egunda prueba de la Lliga Catalana de Ral·li de vuelo a motor\, anunciada
+  en el calendario oficial de la Federació Aèria Catalana . Fecha: 20 de 
+ febrero de 2027 Lugar: Aeropuerto de Sabadell (LELL)\, Carretera de Bellat
+ erra s/n\, 08205 Sabadell\, Barcelona Organiza: Aeroclub Barcelona-Sabadel
+ l Categorías en el calendario FAC: Ral·li\, Vol a Motor El programa\, el
+  horario\, el reglamento de la prueba y el modo de inscripción todavía n
+ o aparecen en la ficha del calendario. Iremos actualizando la información
+  a medida que el organizador la publique. 2ª Lliga Catalana de Ral·li 20
+ 27 Segunda prueba de la Lliga Catalana de Ral·li de vuelo a motor\, anunc
+ iada en el calendario oficial de la Federació Aèria Catalana . Fecha: 20
+  de febrero de 2027 Lugar: Aeropuerto de Sabadell (LELL)\, Carretera de Be
+ llaterra s/n\, 08205 Sabadell\, Barcelona Organiza: Aeroclub Barcelona-Sab
+ adell Categorías en el calendario FAC: Ral·li\, Vol a Motor El programa
+ \, el horario\, el reglamento de la prueba y el modo de inscripción todav
+ ía no aparecen en la ficha del calendario. Iremos actualizando la informa
+ ción a medida que el organizador la publique.\n\nFuente: https://www.prep
+ araulm.com/eventos-aeronauticos/lliga-catalana-ralli-2-sabadell-2027
+LOCATION:Aeropuerto de Sabadell (LELL)\, Carretera de Bellaterra s/n\, 082
+ 05 Sabadell\, Barcelona
+URL:https://www.preparaulm.com/eventos-aeronauticos/lliga-catalana-ralli-2
+ -sabadell-2027
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Motril Airshow 2027
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:9d34db80c5ba57c65f5e@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nEl Festival Aéreo Internaci
  onal de Motril celebra su XXI edición el domingo 27 de junio de 2027 en l
@@ -773,7 +1002,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Prix Club Class La Cerdanya 2027 — Vuelo a vela
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270912
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:7d9586aa47d97c271a07@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nDel 5 al 11 de septiembre de
   2027 el aeródromo de La Cerdanya acoge el Grand Prix Club Class \, una c
@@ -884,7 +1113,7 @@ BEGIN:VEVENT
 SUMMARY:Festa al Cel 2027 — Salou
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270920
-DTSTAMP:20261125T021228Z
+DTSTAMP:20261125T164422Z
 UID:f2b690761dd11b4ca259@aviacion-espana-calendar
 DESCRIPTION:Evento obtenido de PreparaULM.\n\nFesta al Cel vuelve a Salou 
  (Tarragona) del 17 al 19 de septiembre de 2027 . La organización ha anunc
